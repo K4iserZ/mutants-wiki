@@ -1,0 +1,13 @@
+{
+  "name": "mutants-wiki-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:js": "node scripts/build-js.mjs",
+    "build:js:clean": "node scripts/build-js.mjs --clean"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1",
+    "terser": "^5.36.0"
+  }
+}
