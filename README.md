@@ -53,9 +53,8 @@ La ficha pública será
 ## API y assets remotos
 
 El catálogo se carga desde `https://mgroup.alwaysdata.net/api/v1/specimens`.
-Las URLs generales de assets están centralizadas en `assets/js/config.js`.
-Los colores, etiquetas y clases visuales por tipo están en
-`assets/js/type-config.js`. El catálogo carga 24 tarjetas inicialmente y
+Las URLs generales de assets, junto con los colores, etiquetas y clases
+visuales por tipo, están centralizadas en `assets/js/config.js`. El catálogo carga 24 tarjetas inicialmente y
 añade más automáticamente al desplazarse; el buscador filtra por nombre,
 identificador `specimen` o DNA.
 Cada thumbnail usa el campo `specimen`, por ejemplo:

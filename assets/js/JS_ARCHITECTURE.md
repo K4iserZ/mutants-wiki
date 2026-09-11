@@ -10,8 +10,7 @@ La API principal de especímenes es remota. Los archivos JSON de `data/mutants/`
 
 ```text
 assets/js/
-├── config.js                         Configuración de API y assets
-├── catalog-config.js                 Etiquetas, colores y paginación del catálogo
+├── config.js                         Configuración de API, assets y catálogo
 ├── static.js                         Coordinación de datos, ficha, orbes e interacción restante
 ├── morphology-icons.js               Utilidades de iconos de morfología
 ├── main.js                           Código legado; no lo cargan las páginas actuales
@@ -30,12 +29,11 @@ assets/js/
 `index.html` y `404.html` cargan los scripts en este orden:
 
 1. `config.js`
-2. `catalog-config.js`
-3. `calculator/stats-engine.js`
-4. `templates/index.js`
-5. `pages/home.js`
-6. `static.js`
-7. `core/routing.js`
+2. `calculator/stats-engine.js`
+3. `templates/index.js`
+4. `pages/home.js`
+5. `static.js`
+6. `core/routing.js`
 
 Los archivos siguen siendo scripts clásicos, no módulos ES. Por eso comparten algunas funciones globales y exponen APIs explícitas en `window`.
 
@@ -44,6 +42,8 @@ Los archivos siguen siendo scripts clásicos, no módulos ES. Por eso comparten 
 ### `config.js`
 
 Define `window.MGG_CONFIG`, con las URLs de API, datos y recursos externos. No debe contener lógica de renderizado.
+
+También define `window.MGG_TYPE_CONFIG` y `window.MGG_CATALOG_CONFIG`, que contienen la clasificación visual, las etiquetas y la paginación del catálogo.
 
 ### `calculator/stats-engine.js`
 
