@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Wiki de Mutants Genetic Gladiators">
+  <title>Mutants Genetic Gladiators Wiki</title>
+  <script>
+    window.repositoryBase = location.pathname.startsWith('/mutants-wiki/') ? '/mutants-wiki' : '';
+    document.write(`<link rel="stylesheet" href="${window.repositoryBase}/assets/css/style.css">`);
+  </script>
+</head>
+<body>
+  <div id="app"><p class="loading">Cargando wiki...</p></div>
+  <script>
+    document.write(`<script src="${window.repositoryBase}/assets/js/config.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/catalog-config.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/calculator/stats-engine.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/templates/index.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/pages/home.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/static.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/core/routing.js"><\/script>`);
+  </script>
+</body>
+</html>
