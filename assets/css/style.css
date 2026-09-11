@@ -216,13 +216,15 @@ code{font-family:var(--font-mono);}
 .mcard__genes{display:flex;justify-content:center;gap:.35rem;flex-wrap:wrap;margin-top:.5rem;}
 
 .pill{display:inline-block;padding:.2rem .6rem;border-radius:999px;font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;}
-.pill--common{background:rgba(87,224,138,.15);color:var(--toxin);}
+.pill--common{background:rgba(222, 224, 87, 0.15);color:#e0d857;}
 .pill--heroic{background:rgba(79,211,232,.15);color:var(--cyan);}
 .pill--pvp{background:rgba(79,211,232,.15);color:var(--cyan);}
 .pill--recipe{background:rgba(87,224,138,.15);color:var(--toxin);}
 .pill--epic{background:rgba(169,112,255,.18);color:var(--plasma-soft);}
 .pill--legendary{background:rgba(255, 59, 59, 0.18);color:var(--ember);}
 .pill--captainpeace{background:rgba(255,154,68,.18);color:var(--ember);}
+.pill--community{background:rgba(87, 203, 224, 0.15);color:#57bde0;}
+.pill--videogame{background:rgba(193, 255, 112, 0.18);color:var(--toxin);}
 
 .gene{background:var(--panel-raised);border:1px solid var(--border);border-radius:999px;padding:.15rem .55rem;font-size:.68rem;color:var(--text-muted);text-transform:capitalize;}
 

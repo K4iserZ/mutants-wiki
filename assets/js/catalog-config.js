@@ -1,19 +1,19 @@
 // Configuración visual y clasificación por tipo de specimen.
 window.MGG_TYPE_CONFIG = {
-  LEGEND: { label: 'Legend', className: 'legendary', color: '#ff4444', background: 'rgba(255,154,68,.18)' },
-  GACHA: { label: 'Gacha', className: 'gacha', color: '#a4bcff', background: 'rgba(169,112,255,.18)' },
-  HEROIC: { label: 'Heroic', className: 'heroic', color: '#a4fff7', background: 'rgba(79,211,232,.15)' },
-  PVP: { label: 'PVP', className: 'pvp', color: '#4fd3e8', background: 'rgba(79,211,232,.15)' },
+  LEGEND: { label: 'Legendary', className: 'legendary', color: '#ff2020', background: 'rgba(255, 68, 68, 0.25)' },
+  GACHA: { label: 'Gacha', className: 'gacha', color: '#a4bcff', background: 'rgba(112, 169, 255, 0.18)' },
+  HEROIC: { label: 'Heroic', className: 'heroic', color: '#4fd3e8', background: 'rgba(79, 232, 224, 0.15)' },
+  PVP: { label: 'PVP', className: 'pvp', color: '#4fd3e8', background: 'rgba(232, 230, 79, 0.15)' },
   RECIPE: { label: 'Recipe', className: 'recipe', color: '#6ee057', background: 'rgba(87,224,138,.15)' },
-  SEASONAL: { label: 'Seasonal', className: 'common', color: '#e057c9', background: 'rgba(87,224,138,.15)' },
-  CAPTAINPEACE: { label: 'captainpeace', className: 'captainpeace', color: '#ff8f44', background: 'rgba(255,154,68,.18)' },
-  VIDEOGAME: { label: 'Videogame', className: 'epic', color: '#c9a4ff', background: 'rgba(169,112,255,.18)' },
-  COMMUNITY: { label: 'Community', className: 'common', color: '#57e08a', background: 'rgba(87,224,138,.15)' },
-  DEFAULT: { label: 'Common', className: 'common', color: '#57e08a', background: 'rgba(87,224,138,.15)' },
+  SEASONAL: { label: 'Seasonal', className: 'seasonal', color: '#e057c9', background: 'rgba(212, 87, 224, 0.15)' },
+  CAPTAINPEACE: { label: 'captainpeace', className: 'captainpeace', color: '#ff7f29', background: 'rgba(255, 168, 68, 0.18)' },
+  VIDEOGAME: { label: 'Videogame', className: 'videogame', color: '#57e08a', background: 'rgba(193, 255, 112, 0.18)' },
+  COMMUNITY: { label: 'Community', className: 'community', color: '#57bde0', background: 'rgba(87, 203, 224, 0.15)' },
+  DEFAULT: { label: 'Common', className: 'common', color: '#e0d857', background: 'rgba(222, 224, 87, 0.15)' },
 };
 
 // Etiquetas de rareza y tamaño de página del catálogo.
 window.MGG_CATALOG_CONFIG = {
-  rarityLabels: { common: 'Común', recipe: 'Secrets', gacha: 'Reactor', legendary: 'Legendary' , heroic: 'Heroic', captainpeace: 'Exclusive' },
+  rarityLabels: { common: 'Common', recipe: 'Secrets', gacha: 'Reactor', legendary: 'Legendary' , heroic: 'Heroic', captainpeace: 'Exclusive' , community: 'Community' },
   pageSize: 24,
 };

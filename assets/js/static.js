@@ -188,7 +188,7 @@ function iconUrl(template, value) { const url = template.replace(/\{\w+\}/, enco
 function geneIconUrl(gene) { const key = String(gene || 'n').trim().toLowerCase(); const file = API_CONFIG.assets.icons.mappings.geneFiles[key] || key; return iconUrl(API_CONFIG.assets.gene, file); }
 function attackGeneIconUrl(gene, attack) { if (!gene) return ''; const key = String(gene).trim().toLowerCase(); const file = API_CONFIG.assets.icons.mappings.attackGeneFiles[key] || key; const effect = String(attack || '').toUpperCase().includes(':AOE') ? '_aoe' : ''; return `${SITE_BASE}${API_CONFIG.assets.attackGene.replace('{gene}', encodeURIComponent(file)).replace('{effect}', effect)}`; }
 function abilityIconUrl(ability) { const raw = String(ability || '').trim().replace(/^ability_/i, '').replace(/^add/i, '').replace(/_plus$/i, '').toLowerCase(); const parts = raw.split('_').filter(Boolean); const family = /^\d+$/.test(parts[0]) ? (parts[1] || parts[0]) : parts[0]; const file = API_CONFIG.assets.icons.mappings.abilityFiles[raw] || API_CONFIG.assets.icons.mappings.abilityFiles[family] || family; return iconUrl(API_CONFIG.assets.icons.ability, file); }
-function typeIconUrl(type) { const key = String(type || '').trim().toUpperCase(); const file = API_CONFIG.assets.icons.mappings.typeFiles[key] || key.toLowerCase(); return iconUrl(API_CONFIG.assets.icons.type, file); }
+function typeIconUrl(type) { const key = String(type || '').trim().toUpperCase(); if (key === 'DEFAULT') return 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/m_m_m/mutopedia/icon_mutopedia.png'; const file = API_CONFIG.assets.icons.mappings.typeFiles[key] || key.toLowerCase(); return iconUrl(API_CONFIG.assets.icons.type, file); }
 
 function imageMarkup(src, alt, className = '') { return src ? `<img class="${className}" src="${src}" alt="${escapeHtml(alt)}" onerror="this.hidden=true">` : ''; }
 
@@ -313,7 +313,7 @@ function enhanceDetailIcons(container, mutant) {
   const genes = container.querySelector('.sidecard__meta > div:first-child dd');
   if (genes) genes.innerHTML = Array.from(String(mutant.dna || '').toLowerCase()).map(gene => imageMarkup(geneIconUrl(gene), `Gene ${gene.toUpperCase()}`, 'gene-icon')).join('') || 'No information';
   const category = container.querySelector('.sidecard__meta > div:nth-child(2) dd');
-  if (category && mutant.type) category.innerHTML = imageMarkup(typeIconUrl(mutant.type), mutant.type, 'type-icon');
+  if (category && mutant.type) { const typeKey = String(mutant.type).trim().toUpperCase(); const typeLabel = typeKey === 'DEFAULT' ? 'Common' : mutant.type; category.innerHTML = imageMarkup(typeIconUrl(mutant.type), typeLabel, 'type-icon'); if (typeKey === 'DEFAULT') category.insertAdjacentHTML('beforeend', `<span>${escapeHtml(typeLabel)}</span>`); }
   const ability = container.querySelector('.sidecard__meta > div:nth-child(3) dd');
   const abilityKey = mutant.abilities?.split(';')[0]?.split(':')[1];
   if (ability && abilityKey) ability.insertAdjacentHTML('afterbegin', imageMarkup(abilityIconUrl(abilityKey), 'Ability', 'type-icon'));
