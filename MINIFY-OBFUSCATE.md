@@ -1,81 +1,118 @@
-# Minify and Obfuscate JavaScript
+# Minificar y ofuscar JavaScript
 
-This project keeps the original JavaScript in `assets/js/` and generates a separate processed copy in `js-dist/assets/js/`.
+Este proyecto conserva el JavaScript original y legible en `assets/js/` y genera
+una copia procesada independiente en `js-dist/assets/js/`.
 
-The generated files are minified with Terser and then obfuscated with JavaScript Obfuscator. The original files are never modified.
+Los archivos generados se minifican con Terser y después se ofuscan con
+JavaScript Obfuscator. Los archivos originales nunca se modifican.
 
-## First-time setup
+## Configuración inicial
 
-Open a terminal in the project root:
+Abre PowerShell en la carpeta raíz del proyecto y ejecuta una sola vez:
 
 ```powershell
 npm install
 ```
 
-This installs the tools listed in `package.json` and creates `package-lock.json`.
+Este comando instala las herramientas definidas en `package.json` y genera
+`package-lock.json`.
 
-## After changing JavaScript
+## Después de modificar JavaScript
 
-Edit only the source files inside:
+Edita únicamente los archivos originales dentro de:
 
 ```text
 assets/js/
 ```
 
-Then generate a clean processed version:
+Cuando termines los cambios, genera una salida limpia ejecutando:
 
 ```powershell
 npm run build:js:clean
 ```
 
-The output is created here:
+Este comando procesa automáticamente todos los archivos `.js` dentro de
+`assets/js/`, incluyendo los que están en subcarpetas.
+
+La salida se genera en:
 
 ```text
 js-dist/assets/js/
 ```
 
-The folder keeps the same structure as the source folder. Every `.js` file inside `assets/js/`, including files in subfolders, is processed automatically.
-
-## Copy to the project for GitHub
-
-Copy the generated folder contents over the `assets/js/` folder of the separate project that will be published:
+La estructura de carpetas se conserva. Por ejemplo:
 
 ```text
-js-dist/assets/js/  ->  github-copy/assets/js/
+assets/js/calculator/stats-engine.js
+js-dist/assets/js/calculator/stats-engine.js
 ```
 
-On Windows PowerShell, replace the destination path as needed:
+## Copiar los archivos al proyecto de GitHub
+
+Después de ejecutar el build, copia el contenido generado sobre la carpeta
+`assets/js/` de la copia que subirás a GitHub.
+
+```text
+js-dist/assets/js/  ->  copia-github/assets/js/
+```
+
+En PowerShell, reemplaza la ruta de destino por la ubicación real de tu copia:
 
 ```powershell
-Copy-Item .\js-dist\assets\js\* D:\path\to\github-copy\assets\js\ -Recurse -Force
+Copy-Item .\js-dist\assets\js\* D:\ruta\a\copia-github\assets\js\ -Recurse -Force
 ```
 
-Do not copy the source files over the processed files afterward.
+Después entra en la carpeta de la copia de GitHub y sube los cambios:
 
-## Important rules
+```powershell
+git add .
+git commit -m "Update minified JavaScript"
+git push origin main
+```
 
-- Edit source files in `assets/js/`, never files in `js-dist/`.
-- Run `npm run build:js:clean` after every JavaScript change.
-- Keep the folder structure unchanged when copying the result.
-- The published project must contain the generated files at `assets/js/`.
-- Do not publish `node_modules/`, `package.json`, or `scripts/` unless you also want to keep the build tools in that project.
-- The generated JavaScript is not secret. Minification and obfuscation only make it harder to read; browser users can still download it.
+## Flujo completo
 
-## Useful commands
+Cada vez que cambies un archivo JavaScript, ejecuta desde el proyecto original:
 
-Regenerate without deleting the existing output first:
+```powershell
+npm run build:js:clean
+Copy-Item .\js-dist\assets\js\* D:\ruta\a\copia-github\assets\js\ -Recurse -Force
+```
+
+Luego, desde la copia de GitHub:
+
+```powershell
+git add .
+git commit -m "Update minified JavaScript"
+git push origin main
+```
+
+## Reglas importantes
+
+- Edita los archivos originales en `assets/js/`, nunca los archivos de `js-dist/`.
+- Ejecuta `npm run build:js:clean` después de cada cambio en JavaScript.
+- No copies nuevamente los archivos originales sobre los archivos procesados.
+- Mantén la misma estructura de carpetas al copiar la salida.
+- El proyecto publicado debe tener los archivos procesados dentro de `assets/js/`.
+- No es necesario copiar `node_modules/`, `package.json` ni `scripts/` al proyecto publicado.
+- La ofuscación no hace que el código sea secreto: los usuarios todavía pueden
+	descargar y analizar el JavaScript que recibe el navegador.
+
+## Comandos útiles
+
+Para regenerar sin limpiar primero la carpeta de salida:
 
 ```powershell
 npm run build:js
 ```
 
-Regenerate from a clean output folder:
+Para regenerar eliminando antes la salida anterior:
 
 ```powershell
 npm run build:js:clean
 ```
 
-To check how many generated files exist:
+Para comprobar cuántos archivos generados existen:
 
 ```powershell
 (Get-ChildItem .\js-dist\assets\js -Recurse -Filter *.js).Count
