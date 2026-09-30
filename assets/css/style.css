@@ -264,9 +264,7 @@ code{font-family:var(--font-mono);}
 .availability-trigger{display:flex;flex-direction:column;align-items:center;gap:.45rem;min-width:4.5rem;padding:0;border:0;background:none;color:inherit;font:inherit;cursor:pointer;}
 .availability-trigger:hover,.availability-trigger[aria-expanded="true"]{color:var(--plasma-soft);}
 .availability-trigger img{width:3rem;height:3rem;object-fit:contain;}
-.availability-item--expandable{flex:1 1 100%;align-items:flex-start;text-align:left;}
-.availability-item--expandable .availability-trigger{flex-direction:row;}
-.availability-item--expandable .availability-trigger img{width:2rem;height:2rem;}
+.availability-item--expandable{align-items:center;text-align:center;}
 .availability-item--expandable .offers-panel{width:100%;}
 .availability-item span{text-transform:capitalize;}
 .availability-item>span{font-size:.72rem;}
@@ -312,6 +310,30 @@ code{font-family:var(--font-mono);}
 .pvp-reward a{color:var(--cyan);}
 .pvp-reward__amount{color:var(--ember);font-family:var(--font-mono);}
 .pvp-league__empty,.pvp-empty{color:var(--text-muted);font-size:.82rem;}
+.week-offers{max-width:1120px;margin:0 auto;padding:2rem 0;}
+.week-offers__hero{background:linear-gradient(115deg,rgba(79,211,232,.18),rgba(87,224,138,.08) 48%,rgba(8,11,16,.42)),linear-gradient(135deg,#111923,#151b22 55%,#12151d);}
+.week-offers__sprint{margin-top:.65rem !important;color:var(--text-muted);font-family:var(--font-mono);font-size:.8rem;}
+.week-offers__controls{display:flex;align-items:center;gap:.8rem;margin:1.4rem 0 1rem;}
+.week-offers__controls label{color:var(--text-muted);font-size:.85rem;}
+.week-offers__controls select{min-width:220px;padding:.55rem .75rem;border:1px solid var(--border-strong);border-radius:var(--radius-sm);background:var(--panel);color:var(--text);font:inherit;}
+.week-offers__days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:.45rem;padding-bottom:1.3rem;border-bottom:1px solid var(--border);}
+.week-offers__day{display:grid;justify-items:center;gap:.1rem;min-width:0;padding:.6rem .25rem;border:1px solid var(--border);background:var(--panel);color:var(--text-muted);font:inherit;cursor:pointer;}
+.week-offers__day:hover,.week-offers__day.is-active{border-color:var(--cyan);color:var(--text);}
+.week-offers__day.is-active{background:rgba(79,211,232,.1);box-shadow:inset 0 -2px var(--cyan);}
+.week-offers__day>span{font-family:var(--font-mono);font-size:.72rem;text-transform:uppercase;}
+.week-offers__day strong{font-family:var(--font-display);font-size:1.1rem;}
+.week-offers__day small{color:var(--text-muted);font-size:.62rem;white-space:nowrap;}
+.week-offers__results{padding-top:1.2rem;}
+.week-offers__results-heading{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin-bottom:.8rem;}
+.week-offers__results-heading h2{margin:0;font-family:var(--font-display);font-size:1.05rem;}
+.week-offers__results-heading span{color:var(--text-muted);font-size:.78rem;}
+.week-offers__grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:.75rem;}
+.week-offer{min-width:0;padding:.55rem;background:var(--panel);border:1px solid var(--border);border-top:2px solid var(--cyan);}
+.week-offer__art{display:grid;place-items:center;aspect-ratio:1;background:var(--panel-raised);}
+.week-offer__image{width:100%;height:100%;padding:.35rem;object-fit:contain;}
+.week-offer__missing{color:var(--text-muted);font-family:var(--font-mono);font-size:.7rem;text-align:center;}
+.week-offer h3{margin:.55rem 0 .1rem;font-size:.8rem;font-weight:500;line-height:1.35;}
+.week-offers__empty{padding:1.2rem 0;color:var(--text-muted);font-size:.85rem;}
 .sidecard__meta dd .breedable-link{color:var(--cyan);text-decoration-color:transparent;transition:text-decoration-color .15s ease;}
 .sidecard__meta dd .breedable-link:hover{text-decoration-color:currentColor;}
 @media(max-width:640px){
@@ -326,6 +348,12 @@ code{font-family:var(--font-mono);}
   .pvp-reward{align-items:flex-start;flex-wrap:wrap;padding:.45rem;font-size:.72rem;}
   .pvp-season-bar{flex-wrap:wrap;}
   .pvp-season-bar__status{flex-basis:100%;margin-left:0;}
+  .week-offers{padding-top:1.4rem;}
+  .week-offers__sprint{text-align:left;}
+  .week-offers__days{gap:.25rem;}
+  .week-offers__day{padding:.5rem .1rem;}
+  .week-offers__day small{font-size:.55rem;}
+  .week-offers__grid{grid-template-columns:repeat(2,minmax(0,1fr));}
 }
 .detail__section{margin-bottom:2.2rem;}
 .detail__section h2{font-family:var(--font-display);font-size:1.05rem;letter-spacing:.03em;margin:0 0 .9rem;}

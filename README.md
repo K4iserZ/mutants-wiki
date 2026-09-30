@@ -10,9 +10,7 @@ mutants-wiki/
 ├── index.html              → SPA: inicio, catálogo y fichas
 ├── 404.html                → Fallback de rutas de GitHub Pages
 ├── data/
-│   └── mutants/*.json        → Datos locales y configuración de portada
-│       recent.json           → Specimens que aparecen como nuevas entradas
-│       featured.json         → Specimens destacados de la portada (máximo 3)
+│   └── mutants/*.json        → Respaldo local del catálogo y datos opcionales
 └── assets/
     ├── css/style.css
   ├── js/                   → Frontend vanilla; ver js/JS_ARCHITECTURE.md
@@ -38,14 +36,10 @@ Abre `http://localhost:8001/`. El catálogo está en `/mutants` y una ficha como
 
 ## Cómo agregar un nuevo mutante (modo de prueba actual)
 
-Para cambiar las novedades, edita `data/mutants/recent.json` y añade los
-identificadores `specimen` que quieras mostrar en el ticker. El catálogo
-principal se carga desde la API.
-
-Para cambiar los destacados de la portada, edita `data/mutants/featured.json`
-con identificadores `specimen` de la API, en el orden en que deben aparecer.
-La portada muestra como máximo tres; si el archivo no está disponible o no
-contiene identificadores válidos, usa automáticamente los últimos tres del catálogo.
+Las listas de novedades y destacados se cargan desde `GET /api/v1/specimen-lists`.
+Se configuran en el backend, en `api/v1/data/specimen_lists.json`; la portada
+muestra como máximo tres destacados. Si el endpoint no está disponible, la wiki
+usa los últimos especímenes del catálogo como respaldo.
 
 La ficha pública será
 `/specimen/NombreDelMutante`.
