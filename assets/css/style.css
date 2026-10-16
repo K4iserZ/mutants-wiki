@@ -390,7 +390,7 @@ code{font-family:var(--font-mono);}
 .week-offers{max-width:1120px;margin:0 auto;padding:2rem 0;}
 .week-offers__hero{background:linear-gradient(115deg,rgba(79,211,232,.18),rgba(87,224,138,.08) 48%,rgba(8,11,16,.42)),linear-gradient(135deg,#111923,#151b22 55%,#12151d);}
 .week-offers__sprint{margin-top:.65rem !important;color:var(--text-muted);font-family:var(--font-mono);font-size:.8rem;}
-.week-offers__controls{display:flex;align-items:center;gap:.8rem;margin:1.4rem 0 1rem;}
+.week-offers__controls{display:flex;align-items:center;flex-wrap:wrap;gap:.8rem;margin:1.4rem 0 1rem;}
 .week-offers__controls label{color:var(--text-muted);font-size:.85rem;}
 .week-offers__controls select{min-width:220px;padding:.55rem .75rem;border:1px solid var(--border-strong);border-radius:var(--radius-sm);background:var(--panel);color:var(--text);font:inherit;}
 .week-offers__days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:.45rem;padding-bottom:1.3rem;border-bottom:1px solid var(--border);}
