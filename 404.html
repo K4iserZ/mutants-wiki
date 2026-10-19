@@ -7,6 +7,8 @@
   <title>Mutants Genetic Gladiators Wiki</title>
   <script>
     window.repositoryBase = location.pathname.startsWith('/mutants-wiki/') ? '/mutants-wiki' : '';
+    document.write('<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>');
+    document.write('<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Manrope:wght@500;600;700;800&family=Orbitron:wght@600;800&family=Rubik:wght@400;500;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">');
     document.write(`<link rel="stylesheet" href="${window.repositoryBase}/assets/css/style.css">`);
   </script>
 </head>
@@ -22,6 +24,7 @@
     document.write(`<script src="${window.repositoryBase}/assets/js/pages/dungeons.js"><\/script>`);
     document.write(`<script src="${window.repositoryBase}/assets/js/pages/week-offers.js"><\/script>`);
     document.write(`<script src="${window.repositoryBase}/assets/js/static.js"><\/script>`);
+    document.write(`<script src="${window.repositoryBase}/assets/js/pages/calculator.js"><\/script>`);
     document.write(`<script src="${window.repositoryBase}/assets/js/core/routing.js"><\/script>`);
   </script>
 </body>
