@@ -307,8 +307,8 @@
         "id": "orb_basic_retaliate_07",
         "category": "basic_retaliate",
         "type": "07",
-        "name": "Retaliate +18%",
-        "value": 18
+        "name": "Retaliate +65%",
+        "value": 65
       }
     ],
     "shield": [
