@@ -888,7 +888,8 @@ code{font-family:var(--font-mono);}
   font-size:26px;font-weight:700;line-height:1.05;text-align:center;text-transform:uppercase;letter-spacing:.04em;
 }
 .calculator-card__name.is-wrapped{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-height:.95;}
-.calculator-skins{position:absolute;top:7px;right:7px;display:flex;max-height:186px;flex-direction:column;gap:4px;overflow-y:auto;scrollbar-width:thin;}
+.calculator-skins{position:absolute;top:7px;right:7px;display:flex;max-height:186px;flex-direction:column;gap:4px;overflow-y:auto;scrollbar-width:none;}
+.calculator-skins::-webkit-scrollbar{display:none;}
 .calculator-skin{
   display:flex;width:30px;height:30px;flex:0 0 30px;align-items:center;justify-content:center;overflow:hidden;
   padding:2px;border:1px solid var(--border-strong);border-radius:50%;background:var(--panel);color:var(--text);
