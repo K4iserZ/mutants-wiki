@@ -1,1 +1,87 @@
-const _0x3481f3=_0xbe14;(function(_0x4cecf0,_0x308e55){const _0x1b4c00=_0xbe14,_0xd714e7=_0x4cecf0();while(!![]){try{const _0x43b862=-parseInt(_0x1b4c00(0x1e3))/0x1*(-parseInt(_0x1b4c00(0x214))/0x2)+parseInt(_0x1b4c00(0x231))/0x3*(-parseInt(_0x1b4c00(0x22c))/0x4)+parseInt(_0x1b4c00(0x1ff))/0x5*(-parseInt(_0x1b4c00(0x22d))/0x6)+-parseInt(_0x1b4c00(0x1f2))/0x7+-parseInt(_0x1b4c00(0x1e2))/0x8+-parseInt(_0x1b4c00(0x1f9))/0x9*(-parseInt(_0x1b4c00(0x22b))/0xa)+parseInt(_0x1b4c00(0x1ec))/0xb;if(_0x43b862===_0x308e55)break;else _0xd714e7['push'](_0xd714e7['shift']());}catch(_0x1bef52){_0xd714e7['push'](_0xd714e7['shift']());}}}(_0x218e,0x88e1e));const BUILDING_PAGE_ITEMS=[{'id':_0x3481f3(0x229)},{'id':'Building_Tokens_Jackpot'},{'id':'Building_Mystery'}];function initBuildingsPage(){const _0x2545ec=_0x3481f3;document[_0x2545ec(0x224)]('pageContent')[_0x2545ec(0x22f)]=_0x2545ec(0x201)+BUILDING_PAGE_ITEMS['map'](_0x137dfe=>_0x2545ec(0x22e)+escapeHtml(_0x137dfe['id'])+_0x2545ec(0x21b))[_0x2545ec(0x1e1)]('')+_0x2545ec(0x203),loadCurrentBuildings();}async function loadCurrentBuildings(){const _0x40d0cf=_0x3481f3;let _0x332d99=new Map();try{const _0x1b8f68=await loadIndex();_0x332d99=new Map(_0x1b8f68[_0x40d0cf(0x207)](_0x220a09=>[String(_0x220a09[_0x40d0cf(0x1e8)]||'')[_0x40d0cf(0x1e5)](),_0x220a09]));}catch(_0x44b34e){console['error'](_0x40d0cf(0x219),_0x44b34e);}await Promise['all'](BUILDING_PAGE_ITEMS[_0x40d0cf(0x207)](_0xf82c0f=>loadCurrentBuilding(_0xf82c0f,_0x332d99)));}async function loadCurrentBuilding(_0x3f02d3,_0x3ccd76){const _0x525940=_0x3481f3,_0xc5a42a=document['getElementById'](_0x525940(0x1e4)+_0x3f02d3['id'])[_0x525940(0x20f)](_0x525940(0x209)),_0x17c61b=API_CONFIG['api'][_0x525940(0x220)][_0x525940(0x1ed)](_0x525940(0x202),encodeURIComponent(_0x3f02d3['id']));try{const _0x2649f4=await fetch(_0x17c61b);if(!_0x2649f4['ok'])throw new Error('Unable\x20to\x20load\x20building');const _0x4841e9=await _0x2649f4['json']();if(!_0x4841e9||!_0x4841e9[_0x525940(0x204)]||_0x525940(0x22a)!=typeof _0x4841e9[_0x525940(0x204)]||Array[_0x525940(0x20b)](_0x4841e9['contracts']))throw new Error(_0x525940(0x1fe));_0xc5a42a[_0x525940(0x22f)]=currentBuildingTemplate(_0x4841e9,_0x3f02d3,_0x3ccd76);}catch(_0x506466){_0xc5a42a[_0x525940(0x22f)]=errorMessage(_0x506466);}}function currentBuildingTemplate(_0x2d78e5,_0x4cb5a5,_0x4bea2e=new Map()){const _0xa4fc7d=_0x3481f3,_0x3188f6=API_CONFIG[_0xa4fc7d(0x206)][_0xa4fc7d(0x1ea)]+'/'+encodeURIComponent(_0x4cb5a5['id'][_0xa4fc7d(0x1e5)]())+'.png',_0x20d864=Object[_0xa4fc7d(0x1fa)](_0x2d78e5['contracts']||{}),_0x300dbc=_0x20d864[_0xa4fc7d(0x1f6)]?'<div\x20class=\x22building-contracts\x22>'+_0x20d864['map'](_0x23f2aa=>buildingContractTemplate(_0x23f2aa,_0x4bea2e))['join']('')+_0xa4fc7d(0x1f0):_0xa4fc7d(0x1e7),_0x557b09=String(_0x2d78e5[_0xa4fc7d(0x20c)]||_0xa4fc7d(0x213));return _0xa4fc7d(0x218)+escapeHtml(_0x3188f6)+_0xa4fc7d(0x20a)+escapeHtml(_0x557b09)+_0xa4fc7d(0x1f5)+escapeHtml(_0x557b09)+_0xa4fc7d(0x1fd)+(_0x2d78e5['description']?_0xa4fc7d(0x1e9)+escapeHtml(_0x2d78e5['description'])+_0xa4fc7d(0x21e):'')+_0xa4fc7d(0x225)+_0x20d864[_0xa4fc7d(0x1f6)]+_0xa4fc7d(0x210)+(0x1===_0x20d864[_0xa4fc7d(0x1f6)]?_0xa4fc7d(0x226):'contracts')+_0xa4fc7d(0x21e)+_0x300dbc+_0xa4fc7d(0x1f0);}function buildingContractTemplate(_0x2ab38e,_0xb6140b=new Map()){const _0x31b61e=_0x3481f3,_0x24388d=_0x2ab38e[_0x31b61e(0x205)]||{},_0x1e4ad3=_0x24388d['id']?API_CONFIG[_0x31b61e(0x206)]['thumbnails']+'/'+encodeURIComponent(String(_0x24388d['id'])[_0x31b61e(0x1e5)]())+_0x31b61e(0x222):'',_0xc133c9=Array[_0x31b61e(0x20b)](_0x2ab38e[_0x31b61e(0x211)])?_0x2ab38e[_0x31b61e(0x211)]:[];return _0xc133c9[_0x31b61e(0x1f6)]?_0xc133c9[_0x31b61e(0x207)](_0x1d571a=>{const _0xd92473=_0x31b61e,_0x4b6422=String(_0x1d571a['id']||''),_0x5b53d1=String(_0x1d571a[_0xd92473(0x200)]?.[_0xd92473(0x1e6)]||'')[_0xd92473(0x21a)]()[_0xd92473(0x1e5)](),_0x115e5f=_0x1d571a[_0xd92473(0x20c)]||_0xd92473(0x21f),_0x2e3cff=_0x5b53d1?_0x5b53d1['replace'](/[_-]+/g,'\x20')[_0xd92473(0x1ed)](/\b\w/g,_0x2ed8d5=>_0x2ed8d5['toUpperCase']())+'\x20':'',_0x5d7b8a=/^Specimen_/i[_0xd92473(0x1dd)](_0x4b6422)?_0xb6140b[_0xd92473(0x1fc)](_0x4b6422[_0xd92473(0x1e5)]()):null,_0x59786e=_0x5d7b8a?.[_0xd92473(0x20c)]?_0xd92473(0x216)+escapeHtml(url(_0xd92473(0x223)+slugify(_0x5d7b8a[_0xd92473(0x20c)])))+'\x22>'+escapeHtml(_0x115e5f)+'</a>':escapeHtml(_0x115e5f),_0x53bc49=_0x4b6422?API_CONFIG[_0xd92473(0x206)][_0xd92473(0x227)]+'/'+encodeURIComponent(_0x4b6422[_0xd92473(0x1e5)]())+(_0x5b53d1&&'_any'!==_0x5b53d1?'_'+encodeURIComponent(_0x5b53d1):'')+_0xd92473(0x222):'',_0x5c631f=_0x5b53d1?API_CONFIG[_0xd92473(0x206)][_0xd92473(0x1df)][_0xd92473(0x1ed)](_0xd92473(0x228),encodeURIComponent(_0x5b53d1)):'',_0x4b8b31=_0x5b53d1?API_CONFIG[_0xd92473(0x206)][_0xd92473(0x1fb)][_0xd92473(0x1ed)](_0xd92473(0x228),encodeURIComponent(_0x5b53d1)):'';return _0xd92473(0x1e0)+escapeHtml(_0x2e3cff)+_0x59786e+_0xd92473(0x215)+(!0x0===_0x2ab38e[_0xd92473(0x1eb)]?'Active':_0xd92473(0x1ef))+_0xd92473(0x21c)+(_0x53bc49?_0xd92473(0x1f7)+escapeHtml(_0x53bc49)+_0xd92473(0x20e):'')+(_0x5c631f?_0xd92473(0x1ee)+escapeHtml(_0x5c631f)+'\x22\x20alt=\x22'+escapeHtml(_0x5b53d1+_0xd92473(0x1de))+_0xd92473(0x208)+escapeHtml(_0x5b53d1+_0xd92473(0x1de))+_0xd92473(0x21d)+escapeHtml(_0x4b8b31)+'\x22>':'')+_0xd92473(0x221)+escapeHtml(_0x1d571a[_0xd92473(0x1f3)]??0x1)+_0xd92473(0x20d)+(_0x1e4ad3?_0xd92473(0x1f7)+escapeHtml(_0x1e4ad3)+_0xd92473(0x20e):'')+_0xd92473(0x1f1)+escapeHtml(_0x24388d[_0xd92473(0x20c)]||_0xd92473(0x1f8))+_0xd92473(0x212)+escapeHtml(_0x24388d[_0xd92473(0x1f3)]??'—')+_0xd92473(0x1f4);})[_0x31b61e(0x1e1)](''):_0x31b61e(0x230)+(!0x0===_0x2ab38e['active']?'Active':_0x31b61e(0x1ef))+_0x31b61e(0x217)+(_0x1e4ad3?_0x31b61e(0x1f7)+escapeHtml(_0x1e4ad3)+_0x31b61e(0x20e):'')+'<span>'+escapeHtml(_0x24388d[_0x31b61e(0x20c)]||_0x31b61e(0x1f8))+'\x20×\x20'+escapeHtml(_0x24388d[_0x31b61e(0x1f3)]??'—')+_0x31b61e(0x1f4);}function _0xbe14(_0x14b48d,_0x1e5fc6){_0x14b48d=_0x14b48d-0x1dd;const _0x218e68=_0x218e();let _0xbe143d=_0x218e68[_0x14b48d];if(_0xbe14['AmOFMf']===undefined){var _0x2670c1=function(_0x3e45b4){const _0x784927='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x137dfe='',_0x332d99='';for(let _0x1b8f68=0x0,_0x220a09,_0x44b34e,_0xf82c0f=0x0;_0x44b34e=_0x3e45b4['charAt'](_0xf82c0f++);~_0x44b34e&&(_0x220a09=_0x1b8f68%0x4?_0x220a09*0x40+_0x44b34e:_0x44b34e,_0x1b8f68++%0x4)?_0x137dfe+=String['fromCharCode'](0xff&_0x220a09>>(-0x2*_0x1b8f68&0x6)):0x0){_0x44b34e=_0x784927['indexOf'](_0x44b34e);}for(let _0x3f02d3=0x0,_0x3ccd76=_0x137dfe['length'];_0x3f02d3<_0x3ccd76;_0x3f02d3++){_0x332d99+='%'+('00'+_0x137dfe['charCodeAt'](_0x3f02d3)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x332d99);};_0xbe14['xtPXCM']=_0x2670c1,_0xbe14['AHBToB']={},_0xbe14['AmOFMf']=!![];}const _0x20beb7=_0x218e68[0x0],_0xbac14f=_0x14b48d+_0x20beb7,_0x103d87=_0xbe14['AHBToB'][_0xbac14f];return!_0x103d87?(_0xbe143d=_0xbe14['xtPXCM'](_0xbe143d),_0xbe14['AHBToB'][_0xbac14f]=_0xbe143d):_0xbe143d=_0x103d87,_0xbe143d;}function _0x218e(){const _0x1822a9=['mtK2ndCWndvUwLzhqMC','CMvWBgfJzq','pgLTzYbJBgfZCZ0IyNvPBgrPBMCTy29UDhjHy3rFx3nRAw4TAwnVBIiGC3jJpsi','sw5Hy3rPDMu','pc9KAxy+','phnWyw4+','otC0otuZrfb5q05R','yw1VDw50','pc9ZCgfUpJWVC3bHBJ48l2rPDJ48l2fYDgLJBgu+','iIbSB2fKAw5NpsjSyxP5iIbVBMvYCM9Ypsj0AgLZlMHPzgrLBJ10CNvLiJ48zgL2ignSyxnZpsjIDwLSzgLUzY1JyxjKx19IB2r5iJ48Adm+','BgvUz3rO','pgLTzYbZCMm9iG','q29ZDa','mJDRExfcy3O','DMfSDwvZ','z2fJAgftA2LUrMfSBgjHy2S','z2v0','pc9OmZ4','sw52ywXPzcbIDwLSzgLUzYbYzxnWB25Zzq','nxnKEwTgsW','DgfNCW','phnLy3rPB24Gy2XHC3m9iMj1AwXKAw5NCY1WywDLiJ48AgvHzgvYignSyxnZpsjIDwLSzgLUz3mTAgvYBYi+phaGy2XHC3m9iMr1BMDLB25ZlwHLCM9Fx2v5zwjYB3CIpKzLyxr1CMvZpc9WpJXOmt5cDwLSzgLUz3m8l2GXpJXWpKv4CgXVCMuGy3vYCMvUDcbLEgnOyw5NzxmGyw5KihjLD2fYzhmUpc9WpJWVAgvHzgvYpJXZzwn0Aw9UignSyxnZpsjIDwLSzgLUz3mTy3vYCMvUDciGyxjPys1SywjLBgXLzgj5psjIDwLSzgLUz3ndDxjYzw50vgL0BguIpJXKAxyGy2XHC3m9iMr1BMDLB25Zlwn1CNjLBNrFx2HLywrPBMCIpJXWignSyxnZpsjKDw5Nzw9UCY1OzxjVx19LEwvICM93iJ5by3rPDMuGy29UDhjHy3rZpc9WpJXOmIbPzd0IyNvPBgrPBMDZq3vYCMvUDfrPDgXLiJ5dDxjYzw50iej1AwXKAw5NCZWVAdi+pc9KAxy+pgrPDIbJBgfZCZ0IyNvPBgrPBMDZlwn1CNjLBNrFx2DYAwqIpG','E2j1AwXKAw5NFq','pc9KAxy+pc9Zzwn0Aw9UpJWVC2vJDgLVBJ4','y29UDhjHy3rZ','y29ZDa','yxnZzxrZ','BwfW','iIb0AxrSzt0I','lMj1AwXKAw5NlwnHCMrFx2nVBNrLBNq','iIbHBhq9iG','AxnbCNjHEq','BMfTzq','pc9ZCgfUpJWVC3bHBJ48C3bHBIbJBgfZCZ0IyNvPBgrPBMCTy29UDhjHy3rFx2nVC3qIpG','iIbHBhq9iIiGBg9HzgLUzZ0IBgf6EsiGB25LCNjVCJ0IDgHPCY5OAwrKzw49Dhj1zsi+','CxvLCNLtzwXLy3rVCG','igfJDgL2zsa','CMv3yxjKCW','imoxia','qNvPBgrPBMC','mLnezwDkAW','pc9ZDhjVBMC+phnWyw4Gy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0x19ZDgf0DxmIpG','pgeGy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0x19ZCgvJAw1LBI1SAw5RiIbOCMvMpsi','pc9ZCgfUpJWVzgL2pJXKAxyGy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0x19KzxrHAwXZiJ48C3bHBIbJBgfZCZ0IyNvPBgrPBMCTy29UDhjHy3rFx2nVC3qIpG','pgLTzYbJBgfZCZ0IyNvPBgrPBMCTy2fYzf9FAw1Hz2uIihnYyZ0I','vw5HyMXLihrVigXVywqGC3bLy2LTzw4Gy2f0ywXVzYbMB3iGyNvPBgrPBMCGBgLUA3mU','DhjPBq','iJ48zgL2ignSyxnZpsjIDwLSzgLUzY1JyxjKx19JB250zw50iJ48CcbJBgfZCZ0IBg9HzgLUzYi+tg9HzgLUzYbIDwLSzgLUzY4UlJWVCd48l2rPDJ48l2fYDgLJBgu+','pc9ZCgfUpJWVzgL2pJXKAxyGy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0x19KzxrHAwXZiJ48C3bHBIbJBgfZCZ0IyNvPBgrPBMCTy29UDhjHy3rFx3jLD2fYzci+','iIbSB2fKAw5NpsjSyxP5iIbVBMvYCM9YpsjPzIH0AgLZlMrHDgfZzxqUzMfSBgjHy2SPE3rOAxmUC3jJpxrOAxmUzgf0yxnLDc5MywXSyMfJAZT0AgLZlNjLBw92zuf0DhjPyNv0zsGNzgf0ys1MywXSyMfJAYCPFwvSC2v7DgHPCY5OAwrKzw49Dhj1zx0IigrHDgeTzMfSBgjHy2S9iG','pc9WpG','uMv3yxjK','y3vYCMvUDej1AwXKAw5N','phnWyw4+W5CG','lNbUzW','l3nWzwnPBwvUlW','z2v0rwXLBwvUDej5swq','phaGy2XHC3m9iMj1AwXKAw5NlwnHCMrFx2nVDw50iJ4','y29UDhjHy3q','DgH1BwjUywLSCW','E3nRAw59','qNvPBgrPBMDFrxzLBNrFmq','B2jQzwn0','mta1mZaZmeHduLDgDG','ntq4ve5PrNnR','nti3nZC3nhrmAuf2vG','pgfYDgLJBguGy2XHC3m9iMj1AwXKAw5NlwnHCMqIigLKpsjIDwLSzgLUzY0','Aw5Uzxjive1m','pgfYDgLJBguGy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0iJ48zgL2ignSyxnZpsjIDwLSzgLUzY1JB250CMfJDf9FAgvHzgLUzYi+phn0CM9UzZ5szxDHCMq8l3n0CM9UzZ48C3bHBIbJBgfZCZ0IyNvPBgrPBMCTy29UDhjHy3rFx3n0yxr1CYi+','mtG1ndLxBKXgzMe','DgvZDa','ihnRAw4','z2fJAgftA2LU','pgfYDgLJBguGy2XHC3m9iMj1AwXKAw5NlwnVBNrYywn0iJ48zgL2ignSyxnZpsjIDwLSzgLUzY1JB250CMfJDf9FAgvHzgLUzYi+phn0CM9UzZ4','AM9PBG','ntK3mdqWmg5itLryAq','mta3mdK0nxjeEgDSzq','yNvPBgrPBMCT','Dg9mB3DLCKnHC2u','C2TPBG','phaGy2XHC3m9iMj1AwXKAw5NlwnHCMrFx2vTChr5iJ5oBYbHy3rPDMuGy29UDhjHy3rZlJWVCd4','C3bLy2LTzw4','phaGy2XHC3m9iMj1AwXKAw5NlwnHCMrFx2rLC2nYAxb0Aw9UiJ4','yNvPBgrPBMDjBwfNzxm','ywn0AxzL'];_0x218e=function(){return _0x1822a9;};return _0x218e();}
+const BUILDING_PAGE_ITEMS = [
+  { id: 'Building_Event_1' },
+  { id: 'Building_Tokens_Jackpot' },
+  { id: 'Building_Mystery' },
+];
+
+function initBuildingsPage() {
+  const page = document.getElementById('pageContent');
+  page.innerHTML = `<section class="buildings-page"><header class="buildings-hero"><p class="dungeons-hero__eyebrow">Features</p><h1>Buildings</h1><p>Explore current exchanges and rewards.</p></header><section class="buildings-current" aria-labelledby="buildingsCurrentTitle"><div class="dungeons-current__heading"><p class="dungeons-hero__eyebrow">Active contracts</p><h2 id="buildingsCurrentTitle">Current Buildings</h2></div><div class="buildings-current__grid">${BUILDING_PAGE_ITEMS.map(building => `<article class="building-card" id="building-${escapeHtml(building.id)}"><div class="building-card__content"><p class="loading">Loading building...</p></div></article>`).join('')}</div></section></section>`;
+  loadCurrentBuildings();
+}
+
+async function loadCurrentBuildings() {
+  let specimensById = new Map();
+  try {
+    const specimens = await loadIndex();
+    specimensById = new Map(specimens.map(specimen => [
+      String(specimen.specimen || '').toLowerCase(),
+      specimen,
+    ]));
+  } catch (error) {
+    console.error('Unable to load specimen catalog for building links.', error);
+  }
+  await Promise.all(BUILDING_PAGE_ITEMS.map(building => loadCurrentBuilding(building, specimensById)));
+}
+
+async function loadCurrentBuilding(building, specimensById) {
+  const card = document.getElementById(`building-${building.id}`);
+  const content = card.querySelector('.building-card__content');
+  const endpoint = API_CONFIG.api.currentBuilding.replace('{building}', encodeURIComponent(building.id));
+  try {
+    const response = await fetch(endpoint);
+    if (!response.ok) throw new Error('Unable to load building');
+    const data = await response.json();
+    if (!data || !data.contracts || typeof data.contracts !== 'object' || Array.isArray(data.contracts)) {
+      throw new Error('Invalid building response');
+    }
+    content.innerHTML = currentBuildingTemplate(data, building, specimensById);
+  } catch (error) {
+    content.innerHTML = errorMessage(error);
+  }
+}
+
+function currentBuildingTemplate(data, building, specimensById = new Map()) {
+  const image = `${API_CONFIG.assets.buildingImages}/${encodeURIComponent(building.id.toLowerCase())}.png`;
+  const contracts = Object.values(data.contracts || {});
+  const contractContent = contracts.length
+    ? `<div class="building-contracts">${contracts.map(contract => buildingContractTemplate(contract, specimensById)).join('')}</div>`
+    : '<p class="building-card__empty">No active contracts.</p>';
+  const buildingName = String(data.name || 'Building');
+  return `<img class="building-card__image" src="${escapeHtml(image)}" alt="${escapeHtml(buildingName)}" loading="lazy" onerror="this.hidden=true"><div class="building-card__body"><h3>${escapeHtml(buildingName)}</h3>${data.description ? `<p class="building-card__description">${escapeHtml(data.description)}</p>` : ''}<p class="building-card__count">${contracts.length} active ${contracts.length === 1 ? 'contract' : 'contracts'}</p>${contractContent}</div>`;
+}
+
+function buildingContractTemplate(contract, specimensById = new Map()) {
+  const cost = contract.cost || {};
+  const costImage = cost.id
+    ? `${API_CONFIG.assets.thumbnails}/${encodeURIComponent(String(cost.id).toLowerCase())}.png`
+    : '';
+  const rewards = Array.isArray(contract.rewards) ? contract.rewards : [];
+  if (!rewards.length) {
+    return `<article class="building-contract"><div class="building-contract__heading"><strong>Reward</strong><span class="building-contract__status">${contract.active === true ? 'Active' : 'Inactive'}</span></div><div class="building-contract__details"><span class="building-contract__cost">${costImage ? `<img src="${escapeHtml(costImage)}" alt="" loading="lazy" onerror="this.hidden=true">` : ''}<span>${escapeHtml(cost.name || 'Cost')} × ${escapeHtml(cost.amount ?? '—')}</span></span></div></article>`;
+  }
+  return rewards.map(reward => {
+    const rewardId = String(reward.id || '');
+    const skin = String(reward.tags?.skin || '').trim().toLowerCase();
+    const rewardName = reward.name || 'Reward';
+    const skinName = skin
+      ? `${skin.replace(/[_-]+/g, ' ').replace(/\b\w/g, character => character.toUpperCase())} `
+      : '';
+    const specimen = /^Specimen_/i.test(rewardId)
+      ? specimensById.get(rewardId.toLowerCase())
+      : null;
+    const specimenLink = specimen?.name
+      ? `<a class="building-contract__specimen-link" href="${escapeHtml(url(`/specimen/${slugify(specimen.name)}`))}">${escapeHtml(rewardName)}</a>`
+      : escapeHtml(rewardName);
+    const rewardImage = rewardId
+      ? `${API_CONFIG.assets.thumbnails}/${encodeURIComponent(rewardId.toLowerCase())}${skin && skin !== '_any' ? `_${encodeURIComponent(skin)}` : ''}.png`
+      : '';
+    const skinIcon = skin
+      ? API_CONFIG.assets.gachaSkin.replace('{skin}', encodeURIComponent(skin))
+      : '';
+    const skinIconFallback = skin
+      ? API_CONFIG.assets.gachaSkinFallback.replace('{skin}', encodeURIComponent(skin))
+      : '';
+    return `<article class="building-contract"><div class="building-contract__heading"><strong>${escapeHtml(skinName)}${specimenLink}</strong><span class="building-contract__status">${contract.active === true ? 'Active' : 'Inactive'}</span></div><div class="building-contract__details"><span class="building-contract__reward">${rewardImage ? `<img src="${escapeHtml(rewardImage)}" alt="" loading="lazy" onerror="this.hidden=true">` : ''}${skinIcon ? `<img class="building-contract__skin-icon" src="${escapeHtml(skinIcon)}" alt="${escapeHtml(`${skin} skin`)}" title="${escapeHtml(`${skin} skin`)}" loading="lazy" onerror="if(this.dataset.fallback){this.src=this.dataset.fallback;this.removeAttribute('data-fallback')}else{this.hidden=true}" data-fallback="${escapeHtml(skinIconFallback)}">` : ''}<span>× ${escapeHtml(reward.amount ?? 1)}</span></span><span class="building-contract__cost">${costImage ? `<img src="${escapeHtml(costImage)}" alt="" loading="lazy" onerror="this.hidden=true">` : ''}<span>${escapeHtml(cost.name || 'Cost')} × ${escapeHtml(cost.amount ?? '—')}</span></span></div></article>`;
+  }).join('');
+}

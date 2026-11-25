@@ -1,1 +1,219 @@
-(function(_0x29fc98,_0x458c95){const _0x86979=_0x3a57,_0x501130=_0x29fc98();while(!![]){try{const _0x7f4151=parseInt(_0x86979(0xf7))/0x1*(parseInt(_0x86979(0xeb))/0x2)+-parseInt(_0x86979(0x112))/0x3*(parseInt(_0x86979(0x100))/0x4)+-parseInt(_0x86979(0xf9))/0x5*(-parseInt(_0x86979(0x146))/0x6)+-parseInt(_0x86979(0x144))/0x7+parseInt(_0x86979(0xfd))/0x8*(parseInt(_0x86979(0x154))/0x9)+parseInt(_0x86979(0xee))/0xa+-parseInt(_0x86979(0x109))/0xb;if(_0x7f4151===_0x458c95)break;else _0x501130['push'](_0x501130['shift']());}catch(_0xe69820){_0x501130['push'](_0x501130['shift']());}}}(_0x23b7,0xcc6d9),!(function(){const _0xb812e8=_0x3a57,_0x54bf95={'basic':0x0,'bronze':0xa,'silver':0x1e,'gold':0x4b,'platinum':0x64},_0x2edac1=[_0xb812e8(0x13e),_0xb812e8(0x15b),_0xb812e8(0x10d),_0xb812e8(0x159),_0xb812e8(0x128),_0xb812e8(0x12b),'COMMUNITY'];function _0xd590dd(_0x4a5631){const _0x1257df=_0xb812e8,_0x4d6bff=String(_0x4a5631??'')[_0x1257df(0x149)]()[_0x1257df(0x118)](/^[+-]?(\d+)/);return _0x4d6bff?Number[_0x1257df(0x104)](_0x4d6bff[0x1],0xa):0x0;}function _0x418983(_0x30899e=''){const _0x4f70e5=_0xb812e8,_0xf33a40=String(_0x30899e)[_0x4f70e5(0x149)]()[_0x4f70e5(0x130)]()['replace'](/^ability_/,'')[_0x4f70e5(0x147)](/^add/,'')[_0x4f70e5(0x147)](/_plus$/i,'')[_0x4f70e5(0x105)]('_')[_0x4f70e5(0x119)](Boolean),_0x4b8beb=/^\d+$/[_0x4f70e5(0x133)](_0xf33a40[0x0])&&_0xf33a40[0x1]||_0xf33a40[0x0];return _0x4f70e5(0x120)===_0x4b8beb?_0x4f70e5(0x131):_0x4b8beb;}function _0x13066c(_0x22495d){const _0x422d62=_0xb812e8;return String(_0x22495d||'')[_0x422d62(0x105)](';')[_0x422d62(0x119)](Boolean)[_0x422d62(0x145)](_0x52e923=>{const _0x11d325=_0x422d62,[_0x156ac9,_0x54263a,_0x3b469b]=_0x52e923[_0x11d325(0x105)](':');return{'attack':_0x156ac9?.[_0x11d325(0x149)]()||'','level':Number[_0x11d325(0x104)](_0x54263a,0xa)||0x0,'gene':'neutre'===_0x3b469b?'n':_0x3b469b||'n'};})[_0x422d62(0x101)]((_0x110682,_0x134d46)=>_0x110682[_0x422d62(0xf4)]-_0x134d46[_0x422d62(0xf4)]);}function _0x24bff5(_0x5bd276,_0x57fed0,_0x20fcb8){const _0x64e91a=_0xb812e8,_0x1a13f0=_0x13066c(_0x5bd276[_0x64e91a(0x14c)]),_0x42a12e=String(_0x20fcb8),_0x1f37d4=_0x20fcb8+'p',_0x201528=_0x1a13f0[_0x64e91a(0xfc)](_0x3dd2eb=>_0x3dd2eb['attack']===_0x42a12e)||null,_0x8cd215=_0x1a13f0[_0x64e91a(0xfc)](_0x47f408=>_0x47f408[_0x64e91a(0x158)]===_0x1f37d4)||null,_0x332962=Boolean(_0x8cd215&&_0x8cd215[_0x64e91a(0xf4)]<=_0x57fed0),_0x630884=_0x332962?_0x1f37d4:_0x42a12e,_0x4ea0c4=_0x332962?_0x8cd215:_0x201528,_0x5eabd2={0x1:_0x64e91a(0x115),0x2:_0x64e91a(0x152),'1p':_0x64e91a(0xf8),'2p':'atk2p'}[_0x630884];return{'unlocked':Boolean(_0x4ea0c4&&_0x4ea0c4['level']<=_0x57fed0),'selectedKey':_0x630884,'value':_0xd590dd(_0x5bd276[_0x5eabd2]),'gene':_0x4ea0c4?.['gene']||'n','event':_0x4ea0c4};}function _0x6f4e1b(_0x141a9c){const _0x4b9930=_0xb812e8,_0xe7ba81=String(_0x141a9c[_0x4b9930(0x124)]||'')['toUpperCase'](),_0x41d563=_0x2edac1[_0x4b9930(0xf0)](_0x2a86e0=>_0xe7ba81[_0x4b9930(0x10b)](_0x2a86e0)),_0x3d2f65=[{'key':'basic','label':_0x4b9930(0x143),'starValue':_0x54bf95['basic']}];_0x41d563||[_0x4b9930(0x156),_0x4b9930(0x132),'gold',_0x4b9930(0x148)][_0x4b9930(0x11a)](_0x33f124=>_0x3d2f65[_0x4b9930(0x12a)]({'key':_0x33f124,'label':_0x33f124[0x0][_0x4b9930(0x10c)]()+_0x33f124[_0x4b9930(0xf2)](0x1),'starValue':_0x54bf95[_0x33f124]}));const _0xf0a321=_0x141a9c[_0x4b9930(0x14f)]||window[_0x4b9930(0xfe)]?.[_0x141a9c[_0x4b9930(0x141)]]||[],_0x1c5dbd=new Map();_0xf0a321[_0x4b9930(0x11a)](_0x1ea526=>{const _0x560a4a=_0x4b9930;_0x560a4a(0x13f)===String(_0x1ea526[_0x560a4a(0xf6)]||'')[_0x560a4a(0x130)]()&&_0x1c5dbd[_0x560a4a(0x138)](_0x1ea526[_0x560a4a(0x150)],(_0x1c5dbd[_0x560a4a(0x117)](_0x1ea526[_0x560a4a(0x150)])||0x0)+0x1);});const _0xc51f53=new Map();return _0xf0a321[_0x4b9930(0x11a)](_0x38be8a=>{const _0x5cad26=_0x4b9930,_0x15f81f='skin'===String(_0x38be8a[_0x5cad26(0xf6)]||'')['toLowerCase']()&&_0x1c5dbd[_0x5cad26(0x117)](_0x38be8a['gachaId'])>0x1,_0x3e1de5=_0x15f81f?(_0xc51f53[_0x5cad26(0x117)](_0x38be8a[_0x5cad26(0x150)])||0x0)+0x1:0x0;_0x15f81f&&_0xc51f53[_0x5cad26(0x138)](_0x38be8a['gachaId'],_0x3e1de5);const _0x1becbf=_0x38be8a[_0x5cad26(0x150)][0x0][_0x5cad26(0x10c)]()+_0x38be8a[_0x5cad26(0x150)][_0x5cad26(0xf2)](0x1);_0x3d2f65[_0x5cad26(0x12a)]({'key':_0x5cad26(0x103)+_0x38be8a[_0x5cad26(0x150)]+(_0x15f81f?'_variant_'+_0x3e1de5:''),'label':''+_0x1becbf+(_0x15f81f?'\x20-\x20var.\x20'+_0x3e1de5:''),'starValue':_0x54bf95[_0x38be8a['starKey']]??0x0,'bonusGacha':Number(_0x38be8a[_0x5cad26(0x107)])||0x0,'odds':_0x38be8a['odds']??'','collection':_0x38be8a[_0x5cad26(0x114)]??null,'gachaType':_0x38be8a[_0x5cad26(0xf6)]??null,'isReactor':Boolean(_0x38be8a[_0x5cad26(0x14e)]),'imageSuffix':_0x38be8a[_0x5cad26(0x150)]});}),_0x3d2f65;}function _0x4ea71b(_0xd792e7){const _0x48a61b=_0xb812e8;return Number(_0xd792e7?.['value']??_0xd792e7?.['orb']?.[_0x48a61b(0x153)]??0x0)||0x0;}function _0x4cb25b(_0xc7dad3){const _0x3fe3e5=_0xb812e8,_0x2c2360=String(_0xc7dad3?.['category']||'')[_0x3fe3e5(0x130)]();if(_0x2c2360[_0x3fe3e5(0x113)](_0x3fe3e5(0x12c)))return _0x2c2360[_0x3fe3e5(0xf2)](0x6);if(_0x2c2360[_0x3fe3e5(0x113)](_0x3fe3e5(0x11b)))return _0x2c2360[_0x3fe3e5(0xf2)](0x8)[_0x3fe3e5(0x147)](/^add/,'');return String(_0xc7dad3?.[_0x3fe3e5(0x124)]||_0xc7dad3?.[_0x3fe3e5(0x108)]?.[_0x3fe3e5(0x124)]||_0x2c2360)[_0x3fe3e5(0x147)](/^special_/,'')[_0x3fe3e5(0x130)]()[_0x3fe3e5(0x147)](/^add/,'');}function _0x3ce25b(_0x520219,_0x193137=0x64,_0x1297d7=0x0){const _0x3f5270=_0xb812e8,_0x5939ed=Number(_0x520219);if(!Number['isFinite'](_0x5939ed)||_0x5939ed<=0x0)return 0x0;const _0x3b741f=Number(_0x193137),_0x51794f=0x64+(Number(_0x1297d7)||0x0),_0x32ae6e=_0x5939ed*(Number[_0x3f5270(0x125)](_0x3b741f)?_0x3b741f:0x64)/0x64;return _0x51794f>0x0?Math[_0x3f5270(0x12d)](0x1,Math[_0x3f5270(0xfa)](0x64*_0x32ae6e/_0x51794f)):0x1;}function _0x41597e(_0x54e72f){const _0x3cea1d=_0xb812e8;if(_0x54e72f<=0x0)return _0x3cea1d(0x10a);const _0x1d6bf1=0xa/(_0x54e72f/0x64);return(Math[_0x3cea1d(0x121)](_0x1d6bf1)*Math[_0x3cea1d(0x126)](0x64*Math[_0x3cea1d(0x139)](_0x1d6bf1))/0x64)[_0x3cea1d(0x13b)](0x2);}window['MGG_STATS']={'STAR_VALUES':_0x54bf95,'calculate':function(_0x56401f,_0xad3263=0x1,_0x5c85c5=_0xb812e8(0xf3),_0x36b530=0x0){const _0xd31109=_0xb812e8,_0x4ec290=Math[_0xd31109(0x12d)](0x1,Number[_0xd31109(0x104)](_0xad3263,0xa)||0x1),_0x24e1a1=_0x6f4e1b(_0x56401f)[_0xd31109(0xfc)](_0x1d763b=>_0x1d763b[_0xd31109(0x13a)]===_0x5c85c5),_0x5e423b=_0x24e1a1?.[_0xd31109(0x14a)]??_0x54bf95[_0x5c85c5]??0x0;_0x36b530=_0x24e1a1?.[_0xd31109(0xf5)]??_0x36b530;const _0x1788d4=0x64+0xa*(_0x4ec290-0x1),_0xa15df9=0x64+_0x5e423b,_0x14a822=_0x24bff5(_0x56401f,_0x4ec290,0x1),_0x5b64c5=_0x24bff5(_0x56401f,_0x4ec290,0x2),_0x5ec357=Number(_0x56401f[_0xd31109(0x129)])||0x0,_0xc338ec=_0x3ce25b(Number(_0x56401f[_0xd31109(0x127)])||0x0,null==_0x56401f[_0xd31109(0x155)]?0x64:_0x56401f[_0xd31109(0x155)]),_0x988781=_0x56401f['appliesTo']||'both',_0x5791bf=Number(_0x56401f[_0xd31109(0x134)])||0x0,_0x72a37=Number(_0x56401f['abilityPct2'])||0x0,_0x2342c1=_0x4ec290>=0x19?_0x72a37:_0x5791bf,_0x5c2450=_0x261ab2=>Math[_0xd31109(0x126)](Math[_0xd31109(0x139)]((_0x261ab2*(_0x36b530/0x64)+_0x261ab2)*_0xa15df9*_0x1788d4*0x64/0xf4240)),_0x1a366d=null===_0x14a822[_0xd31109(0x153)]?0x0:_0x5c2450(_0x14a822['value']),_0x543ae2=null===_0x5b64c5[_0xd31109(0x153)]?0x0:_0x5c2450(_0x5b64c5['value']),_0x35fc19=function(_0x14add2){const _0x3708e9=_0xd31109,_0x3ab346={};return String(_0x14add2||'')[_0x3708e9(0x105)](';')[_0x3708e9(0x119)](Boolean)[_0x3708e9(0x11a)](_0xc0754e=>{const _0x3d4359=_0x3708e9,[_0x377eb2,_0x380407]=_0xc0754e['split'](':');if(_0x377eb2&&_0x380407){const _0x2df4a0=_0x418983(_0x380407);_0x3ab346[_0x377eb2]=_0x2df4a0[_0x3d4359(0x105)]('\x20')[_0x3d4359(0x145)](_0x39701d=>_0x39701d[0x0][_0x3d4359(0x10c)]()+_0x39701d['slice'](0x1))[_0x3d4359(0x136)]('\x20');}}),_0x3ab346;}(_0x56401f['abilities']),_0x41b9c0=Math[_0xd31109(0x126)](Math['abs'](_0x1a366d/0x64*_0x2342c1)),_0x5c6ee2=_0xd31109(0x102)===_0x988781?Math[_0xd31109(0x126)](Math[_0xd31109(0x139)](_0x543ae2/0x64*_0x2342c1)):0x0;return{'specimen':_0x56401f['specimen'],'name':_0x56401f[_0xd31109(0x12e)],'type':_0x56401f['type'],'fameLevel':_0x4ec290,'level':_0x1788d4,'lifeF':Math[_0xd31109(0x126)](_0x5ec357*(_0xa15df9-_0x36b530)*_0x1788d4*0x64/0xf4240),'speedX100':_0xc338ec,'speedF':_0x41597e(_0xc338ec),'atk1F':_0x1a366d,'atk2F':_0x543ae2,'atk1AbilityF':_0x41b9c0,'atk2AbilityF':_0x5c6ee2,'ability1Name':_0x35fc19[0x1]||'No\x20information','ability2Name':_0xd31109(0x102)===_0x988781?_0x35fc19[0x2]||_0xd31109(0x10a):'','ability1Pct':_0x2342c1,'ability2Pct':_0x2342c1,'appliesTo':_0x988781,'attack1State':_0x14a822,'attack2State':_0x5b64c5,'attack1Name':_0x56401f['attack1p_name']||_0xd31109(0x10a),'attack2Name':_0x56401f[_0xd31109(0x13d)]||_0xd31109(0x10a)};},'getSkinOptions':_0x6f4e1b,'getAllowedBasicOrbTypes':function(_0x205ed7='',_0x2caa63=''){const _0x4ef5e6=_0xb812e8,_0x45345d=[_0x4ef5e6(0x158),_0x4ef5e6(0xff),_0x4ef5e6(0x129)],_0x52cdcd=_0x418983(_0x2caa63);_0x52cdcd&&_0x45345d[_0x4ef5e6(0x12a)](_0x52cdcd);const _0x249365=String(_0x205ed7||'')[_0x4ef5e6(0x130)]()[_0x4ef5e6(0x147)](/^special_/,''),_0x3a24a3=_0x249365[_0x4ef5e6(0x113)]('add')?_0x249365:_0x4ef5e6(0x12f)+_0x249365;return[...new Set([..._0x45345d,...{'addretaliate':[_0x4ef5e6(0x15a)],'addshield':[_0x4ef5e6(0x11e)],'addslash':[_0x4ef5e6(0x110)],'addstrengthen':[_0x4ef5e6(0x13c)],'addweaken':['weaken'],'addregenerate':[_0x4ef5e6(0x131)],'speed':[]}[_0x3a24a3]||[]])];},'applyOrbEffectsToStats':function(_0xf232c2={},_0xb2edd0=[],_0x34a8b4={}){const _0x38a5ec=_0xb812e8,_0x3bd5ff=_0xb2edd0[_0x38a5ec(0xfc)](_0x1b973b=>_0x38a5ec(0xef)===_0x1b973b[_0x38a5ec(0x10f)]),_0x2606df=_0x4cb25b(_0x3bd5ff),_0x259321=0x1+_0xb2edd0[_0x38a5ec(0x119)](_0xe0ca6a=>'basic'===_0xe0ca6a[_0x38a5ec(0x10f)]&&_0x38a5ec(0x158)===_0x4cb25b(_0xe0ca6a))[_0x38a5ec(0x11f)]((_0x51f293,_0x22ccc1)=>_0x51f293+_0x4ea71b(_0x22ccc1),0x0)/0x64,_0x4048c5=(_0xcb5804=_0x38a5ec(0x129),0x1+_0xb2edd0[_0x38a5ec(0x119)](_0x38e038=>_0x38a5ec(0xf3)===_0x38e038['kind']&&_0x4cb25b(_0x38e038)===_0xcb5804)[_0x38a5ec(0x11f)]((_0x6d8dd7,_0x281993)=>_0x6d8dd7+_0x4ea71b(_0x281993),0x0)/0x64);var _0xcb5804;const _0x4d02c4={..._0xf232c2,'atk1F':Math[_0x38a5ec(0x126)]((_0xf232c2[_0x38a5ec(0x135)]||0x0)*_0x259321),'atk2F':Math['round']((_0xf232c2[_0x38a5ec(0x14b)]||0x0)*_0x259321),'lifeF':Math['round']((_0xf232c2['lifeF']||0x0)*_0x4048c5)},_0x50cfb3=[_0x38a5ec(0x131),_0x38a5ec(0x15a),_0x38a5ec(0x11e),_0x38a5ec(0x110),'strengthen','weaken'],_0x15dcac=_0x418983(_0x34a8b4[_0x38a5ec(0xed)]),_0x5e77d9=_0xb2edd0[_0x38a5ec(0x119)](_0x1dbb2d=>_0x38a5ec(0xf3)===_0x1dbb2d[_0x38a5ec(0x10f)]&&_0x4cb25b(_0x1dbb2d)===_0x15dcac)[_0x38a5ec(0x11f)]((_0x3c6714,_0x1b76d9)=>_0x3c6714+_0x4ea71b(_0x1b76d9),0x0),_0x586957=_0xb2edd0[_0x38a5ec(0x119)](_0x3a5a52=>'basic'===_0x3a5a52[_0x38a5ec(0x10f)]&&_0x50cfb3[_0x38a5ec(0x10b)](_0x4cb25b(_0x3a5a52))&&_0x4cb25b(_0x3a5a52)===_0x2606df)['reduce']((_0x13e3e0,_0x4b263f)=>_0x13e3e0+_0x4ea71b(_0x4b263f),0x0)+(_0x2606df&&_0x38a5ec(0x127)!==_0x2606df?_0x4ea71b(_0x3bd5ff):0x0),_0x1279fc=Math[_0x38a5ec(0x126)]((_0xf232c2[_0x38a5ec(0xfb)]||0x0)*_0x259321)+Math[_0x38a5ec(0x126)](_0x4d02c4[_0x38a5ec(0x135)]/0x64*_0x5e77d9),_0x4f5f80=Math['round']((_0xf232c2['atk2AbilityF']||0x0)*_0x259321)+Math[_0x38a5ec(0x126)](_0x4d02c4['atk2F']/0x64*_0x5e77d9);_0x4d02c4[_0x38a5ec(0x122)]=_0x1279fc,_0x4d02c4[_0x38a5ec(0x10e)]=_0x4f5f80,_0x4d02c4[_0x38a5ec(0x116)]=Math[_0x38a5ec(0x126)](_0x4d02c4[_0x38a5ec(0x135)]/0x64*_0x586957),_0x4d02c4[_0x38a5ec(0x123)]=Math[_0x38a5ec(0x126)](_0x4d02c4[_0x38a5ec(0x14b)]/0x64*_0x586957),_0x4d02c4['atk1TotalAbilityF']=_0x4d02c4[_0x38a5ec(0x122)]+_0x4d02c4[_0x38a5ec(0x116)],_0x4d02c4[_0x38a5ec(0xec)]=_0x4d02c4[_0x38a5ec(0x10e)]+_0x4d02c4['atk2AddedAbilityF'],_0x4d02c4['atk1AbilityF']=_0x4d02c4[_0x38a5ec(0x140)],_0x4d02c4[_0x38a5ec(0x157)]=_0x4d02c4[_0x38a5ec(0xec)],_0x4d02c4['addedAbilityName']=_0x2606df&&_0x38a5ec(0x127)!==_0x2606df?_0x2606df[0x0][_0x38a5ec(0x10c)]()+_0x2606df[_0x38a5ec(0xf2)](0x1):'',_0x4d02c4[_0x38a5ec(0x11d)]=_0x586957;const _0x20b4ec=_0xb2edd0[_0x38a5ec(0x119)](_0x439091=>'speed'===_0x4cb25b(_0x439091))[_0x38a5ec(0x11f)]((_0x7d92b0,_0xb7f81e)=>_0x7d92b0+_0x4ea71b(_0xb7f81e),0x0);return Number(_0xf232c2[_0x38a5ec(0x142)])>0x0&&(_0x4d02c4[_0x38a5ec(0x142)]=_0x3ce25b(_0xf232c2[_0x38a5ec(0x142)],0x64,_0x20b4ec),_0x4d02c4[_0x38a5ec(0x11c)]=_0x41597e(_0x4d02c4['speedX100'])),_0x4d02c4;},'parseUnlockAttackEvents':_0x13066c,'getAttackEvolutionState':_0x24bff5,'getDeclaredAttackState':function(_0x2247ca,_0x40b9a8){const _0x346f00=_0xb812e8,_0x32653b=_0x13066c(_0x2247ca[_0x346f00(0x14c)])['slice']()[_0x346f00(0x106)]()[_0x346f00(0xfc)](_0x1f7521=>_0x1f7521['attack']===_0x40b9a8);return{'gene':_0x32653b?.[_0x346f00(0x14d)]||'','value':_0xd590dd(_0x2247ca[{0x1:_0x346f00(0x115),0x2:_0x346f00(0x152),'1p':_0x346f00(0xf8),'2p':_0x346f00(0x111)}[_0x40b9a8]])};},'normalizeAbilityType':_0x418983,'formatOrbTypeLabel':function(_0x421fe5=''){const _0x337789=_0xb812e8,_0x5b2057=String(_0x421fe5)[_0x337789(0x149)]()['toLowerCase']()[_0x337789(0x147)](/^special_/,'')[_0x337789(0x147)](/^add/,'')['replace'](/_/g,'\x20'),_0x4816b6=_0x5b2057[_0x337789(0x147)](/ /g,'_');return(window['MGG_CONFIG']?.['assets']?.[_0x337789(0x151)]?.['mappings']?.[_0x337789(0x137)]||{})[_0x4816b6]||(_0x5b2057?_0x5b2057[_0x337789(0x147)](/\b\w/g,_0x4492a6=>_0x4492a6[_0x337789(0x10c)]()):_0x337789(0xf1));}};}()));function _0x3a57(_0x5adc5d,_0x2ef560){_0x5adc5d=_0x5adc5d-0xeb;const _0x23b7d7=_0x23b7();let _0x3a57dd=_0x23b7d7[_0x5adc5d];if(_0x3a57['acczHx']===undefined){var _0x893c28=function(_0x256589){const _0x214045='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x54bf95='',_0x2edac1='';for(let _0xd590dd=0x0,_0x418983,_0x13066c,_0x24bff5=0x0;_0x13066c=_0x256589['charAt'](_0x24bff5++);~_0x13066c&&(_0x418983=_0xd590dd%0x4?_0x418983*0x40+_0x13066c:_0x13066c,_0xd590dd++%0x4)?_0x54bf95+=String['fromCharCode'](0xff&_0x418983>>(-0x2*_0xd590dd&0x6)):0x0){_0x13066c=_0x214045['indexOf'](_0x13066c);}for(let _0x6f4e1b=0x0,_0x4ea71b=_0x54bf95['length'];_0x6f4e1b<_0x4ea71b;_0x6f4e1b++){_0x2edac1+='%'+('00'+_0x54bf95['charCodeAt'](_0x6f4e1b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2edac1);};_0x3a57['LehJqH']=_0x893c28,_0x3a57['GtWfFs']={},_0x3a57['acczHx']=!![];}const _0x44fd6a=_0x23b7d7[0x0],_0x1829bb=_0x5adc5d+_0x44fd6a,_0x106151=_0x3a57['GtWfFs'][_0x1829bb];return!_0x106151?(_0x3a57dd=_0x3a57['LehJqH'](_0x3a57dd),_0x3a57['GtWfFs'][_0x1829bb]=_0x3a57dd):_0x3a57dd=_0x106151,_0x3a57dd;}function _0x23b7(){const _0x47c799=['z2fJAgftA2LUCW','z2fJAgfjza','AwnVBNm','yxrRmG','DMfSDwu','mZzeAKfkALO','C3bLzwrqzxjJzw50','yNjVBNPL','yxrRmKfIAwXPDhLg','yxr0ywnR','r0fdsee','CMv0ywXPyxrL','u0vbu09oquW','ndrWs0DirNe','yxrRmLrVDgfSqwjPBgL0Euy','yMfZzufIAwXPDhLuExbL','ndaXnJK2mfv1t2z0Aq','C3bLy2LHBa','C29Tzq','t3jIihr5Cgu','C2XPy2u','yMfZAwm','Bgv2zwW','yM9UDxnhywnOyq','z2fJAgfuExbL','nJmXmMLVz3vorG','yxrRmxa','odeYntbVufDgqvC','Dhj1BMm','yxrRmufIAwXPDhLg','zMLUza','mtGXmdKZnNDqtwzqwG','tuDhx0Dbq0Hbx0nptKzjrW','y3jPDgLJywW','mtm4oty3nNrSteTPvG','C29YDa','yM90Aa','z2fJAgfF','CgfYC2vjBNq','C3bSAxq','CMv2zxjZzq','yM9UDxm','B3jI','mJKYmJqWm2rZvxzHva','tM8GAw5MB3jTyxrPB24','Aw5JBhvKzxm','Dg9vChbLCKnHC2u','r0fnrvm','yxrRmKjHC2vbyMLSAxr5rG','A2LUza','C2XHC2G','yxrRmNa','ovnUs1HYCW','C3rHCNrZv2L0Aa','y29SBgvJDgLVBG','yxrRmq','yxrRmufKzgvKqwjPBgL0Euy','z2v0','Bwf0y2G','zMLSDgvY','zM9YrwfJAa','C3bLy2LHBf8','C3bLzwrg','ywrKzwrbyMLSAxr5vMfSDwu','C2HPzwXK','CMvKDwnL','CMvNzw4','C2LNBG','yxrRmujHC2vbyMLSAxr5rG','yxrRmKfKzgvKqwjPBgL0Euy','DhLWzq','AxngAw5PDgu','CM91BMq','C3bLzwq','wK9esufd','BgLMzq','ChvZAa','vKLeru9hqu1f','yMfZAwnF','Bwf4','BMfTzq','ywrK','Dg9mB3DLCKnHC2u','CMvNzw5LCMf0zq','C2LSDMvY','DgvZDa','ywjPBgL0EvbJDde','yxrRmuy','AM9PBG','B3jIvhLWzuXHyMvSCW','C2v0','ywjZ','A2v5','Dg9gAxHLza','C3rYzw5NDgHLBG','yxr0ywnRmNbFBMfTzq','q0fqvefjtLbfqunf','C2TPBG','yxrRmvrVDgfSqwjPBgL0Euy','C3bLy2LTzw4','C3bLzwrymtaW','qMfZAwm','nJCWnZGYn250rgLtCW','BwfW','nJeYteTMy2Xo','CMvWBgfJzq','CgXHDgLUDw0','DhjPBq','C3rHCLzHBhvL','yxrRmKy','Dw5SB2nRyxr0ywnR','z2vUzq','AxnszwfJDg9Y'];_0x23b7=function(){return _0x47c799;};return _0x23b7();}
+/* Motor independiente de stats, ataques, habilidades y skins. */
+(function () {
+  const STAR_VALUES = { basic: 0, bronze: 10, silver: 30, gold: 75, platinum: 100 };
+  const RESTRICTED_TYPES = ['CAPTAINPEACE', 'SEASONAL', 'GAMES', 'GACHA', 'ZODIAC', 'VIDEOGAME', 'COMMUNITY'];
+
+  function extractNumber(value) {
+    const match = String(value ?? '').trim().match(/^[+-]?(\d+)/);
+    return match ? Number.parseInt(match[1], 10) : 0;
+  }
+
+  function normalizeAbilityType(value = '') {
+    const parts = String(value).trim().toLowerCase().replace(/^ability_/, '').replace(/^add/, '').replace(/_plus$/i, '').split('_').filter(Boolean);
+    const family = /^\d+$/.test(parts[0]) ? (parts[1] || parts[0]) : parts[0];
+    return family === 'regen' ? 'regenerate' : family;
+  }
+
+  function formatOrbTypeLabel(value = '') {
+    const type = String(value).trim().toLowerCase().replace(/^special_/, '').replace(/^add/, '').replace(/_/g, ' ');
+    const key = type.replace(/ /g, '_');
+    const labels = window.MGG_CONFIG?.assets?.icons?.mappings?.orbTypeLabels || {};
+    return labels[key] || (type ? type.replace(/\b\w/g, character => character.toUpperCase()) : 'Orb type');
+  }
+
+  function parseUnlockAttackEvents(value) {
+    return String(value || '').split(';').filter(Boolean).map(part => {
+      const [attack, level, gene] = part.split(':');
+      return { attack: attack?.trim() || '', level: Number.parseInt(level, 10) || 0, gene: gene === 'neutre' ? 'n' : (gene || 'n') };
+    }).sort((a, b) => a.level - b.level);
+  }
+
+  function getAttackEvolutionState(mutant, level, attackType) {
+    const events = parseUnlockAttackEvents(mutant.unlockattack);
+    const baseKey = String(attackType);
+    const upgradeKey = `${attackType}p`;
+    const baseEvent = events.find(event => event.attack === baseKey) || null;
+    const upgradeEvent = events.find(event => event.attack === upgradeKey) || null;
+    const useUpgrade = Boolean(upgradeEvent && upgradeEvent.level <= level);
+    const selectedKey = useUpgrade ? upgradeKey : baseKey;
+    const event = useUpgrade ? upgradeEvent : baseEvent;
+    const valueField = { 1: 'atk1', 2: 'atk2', '1p': 'atk1p', '2p': 'atk2p' }[selectedKey];
+    return {
+      unlocked: Boolean(event && event.level <= level),
+      selectedKey,
+      value: extractNumber(mutant[valueField]),
+      gene: event?.gene || 'n',
+      event
+    };
+  }
+
+  function getDeclaredAttackState(mutant, attackKey) {
+    const event = parseUnlockAttackEvents(mutant.unlockattack).slice().reverse().find(item => item.attack === attackKey);
+    return { gene: event?.gene || '', value: extractNumber(mutant[{ 1: 'atk1', 2: 'atk2', '1p': 'atk1p', '2p': 'atk2p' }[attackKey]]) };
+  }
+
+  function parseAbilities(value) {
+    const result = {};
+    String(value || '').split(';').filter(Boolean).forEach(entry => {
+      const [number, ability] = entry.split(':');
+      if (number && ability) {
+        const normalized = normalizeAbilityType(ability);
+        result[number] = normalized.split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
+      }
+    });
+    return result;
+  }
+
+  function getSkinOptions(mutant) {
+    const type = String(mutant.type || '').toUpperCase();
+    const restricted = RESTRICTED_TYPES.some(item => type.includes(item));
+    const options = [{ key: 'basic', label: 'Basic', starValue: STAR_VALUES.basic }];
+    if (!restricted) {
+      ['bronze', 'silver', 'gold', 'platinum'].forEach(key => options.push({ key, label: key[0].toUpperCase() + key.slice(1), starValue: STAR_VALUES[key] }));
+    }
+    const gachaSkins = mutant.gachaSkins || window.MGG_GACHA_CONFIG?.[mutant.specimen] || [];
+    const skinCounts = new Map();
+    gachaSkins.forEach(skin => {
+      if (String(skin.gachaType || '').toLowerCase() !== 'skin') return;
+      skinCounts.set(skin.gachaId, (skinCounts.get(skin.gachaId) || 0) + 1);
+    });
+    const skinIndexes = new Map();
+    gachaSkins.forEach(skin => {
+      const gachaType = String(skin.gachaType || '').toLowerCase();
+      const duplicateSkin = gachaType === 'skin' && skinCounts.get(skin.gachaId) > 1;
+      const variantIndex = duplicateSkin ? (skinIndexes.get(skin.gachaId) || 0) + 1 : 0;
+      if (duplicateSkin) skinIndexes.set(skin.gachaId, variantIndex);
+      const gachaLabel = skin.gachaId[0].toUpperCase() + skin.gachaId.slice(1);
+      options.push({
+        key: `gacha_${skin.gachaId}${duplicateSkin ? `_variant_${variantIndex}` : ''}`,
+        label: `${gachaLabel}${duplicateSkin ? ` - var. ${variantIndex}` : ''}`,
+        starValue: STAR_VALUES[skin.starKey] ?? 0,
+        bonusGacha: Number(skin.bonus) || 0,
+        odds: skin.odds ?? '',
+        collection: skin.collection ?? null,
+        gachaType: skin.gachaType ?? null,
+        isReactor: Boolean(skin.isReactor),
+        imageSuffix: skin.gachaId
+      });
+    });
+    return options;
+  }
+
+  function getOrbValue(entry) { return Number(entry?.value ?? entry?.orb?.value ?? 0) || 0; }
+  function orbType(entry) {
+    const category = String(entry?.category || '').toLowerCase();
+    if (category.startsWith('basic_')) return category.slice(6);
+    if (category.startsWith('special_')) return category.slice(8).replace(/^add/, '');
+    const type = String(entry?.type || entry?.orb?.type || category).replace(/^special_/, '').toLowerCase();
+    return type.replace(/^add/, '');
+  }
+  function orbMultiplier(orbs, type) { return 1 + orbs.filter(orb => orb.kind === 'basic' && orbType(orb) === type).reduce((sum, orb) => sum + getOrbValue(orb), 0) / 100; }
+
+  function calculateSpeedX100(speedBase, speedPercent = 100, orbModulation = 0) {
+    const base = Number(speedBase);
+    if (!Number.isFinite(base) || base <= 0) return 0;
+    const percent = Number(speedPercent);
+    const modulation = Number(orbModulation) || 0;
+    const denominator = 100 + modulation;
+    const adjusted = base * (Number.isFinite(percent) ? percent : 100) / 100;
+    return denominator > 0 ? Math.max(1, Math.trunc(100 * adjusted / denominator)) : 1;
+  }
+
+  function formatSpeedUiDisplay(speedX100) {
+    if (speedX100 <= 0) return 'No information';
+    const display = 10 / (speedX100 / 100);
+    const rounded = Math.sign(display) * Math.round(Math.abs(display) * 100) / 100;
+    return rounded.toFixed(2);
+  }
+
+  function getAllowedBasicOrbTypes(specialType = '', baseAbilityType = '') {
+    const baseTypes = ['attack', 'critical', 'life'];
+    const normalizedBaseAbilityType = normalizeAbilityType(baseAbilityType);
+    if (normalizedBaseAbilityType) baseTypes.push(normalizedBaseAbilityType);
+    const rules = { addretaliate: ['retaliate'], addshield: ['shield'], addslash: ['slash'], addstrengthen: ['strengthen'], addweaken: ['weaken'], addregenerate: ['regenerate'], speed: [] };
+    const normalizedSpecialType = String(specialType || '').toLowerCase().replace(/^special_/, '');
+    const key = normalizedSpecialType.startsWith('add') ? normalizedSpecialType : `add${normalizedSpecialType}`;
+    return [...new Set([...baseTypes, ...(rules[key] || [])])];
+  }
+
+  function applyOrbEffectsToStats(stats = {}, selectedOrbs = [], context = {}) {
+    const special = selectedOrbs.find(orb => orb.kind === 'special');
+    const specialType = orbType(special);
+    const attackMultiplier = 1 + selectedOrbs.filter(orb => orb.kind === 'basic' && orbType(orb) === 'attack').reduce((sum, orb) => sum + getOrbValue(orb), 0) / 100;
+    const lifeMultiplier = orbMultiplier(selectedOrbs, 'life');
+    const next = { ...stats, atk1F: Math.round((stats.atk1F || 0) * attackMultiplier), atk2F: Math.round((stats.atk2F || 0) * attackMultiplier), lifeF: Math.round((stats.lifeF || 0) * lifeMultiplier) };
+    const abilityTypes = ['regenerate', 'retaliate', 'shield', 'slash', 'strengthen', 'weaken'];
+    const baseAbilityType = normalizeAbilityType(context.baseAbilityType);
+    const baseBonus = selectedOrbs.filter(orb => orb.kind === 'basic' && orbType(orb) === baseAbilityType).reduce((sum, orb) => sum + getOrbValue(orb), 0);
+    const addedBonus = selectedOrbs.filter(orb => orb.kind === 'basic' && abilityTypes.includes(orbType(orb)) && orbType(orb) === specialType).reduce((sum, orb) => sum + getOrbValue(orb), 0) + (specialType && specialType !== 'speed' ? getOrbValue(special) : 0);
+    const baseAtk1Ability = Math.round((stats.atk1AbilityF || 0) * attackMultiplier) + Math.round((next.atk1F / 100) * baseBonus);
+    const baseAtk2Ability = Math.round((stats.atk2AbilityF || 0) * attackMultiplier) + Math.round((next.atk2F / 100) * baseBonus);
+    next.atk1BaseAbilityF = baseAtk1Ability;
+    next.atk2BaseAbilityF = baseAtk2Ability;
+    next.atk1AddedAbilityF = Math.round((next.atk1F / 100) * addedBonus);
+    next.atk2AddedAbilityF = Math.round((next.atk2F / 100) * addedBonus);
+    next.atk1TotalAbilityF = next.atk1BaseAbilityF + next.atk1AddedAbilityF;
+    next.atk2TotalAbilityF = next.atk2BaseAbilityF + next.atk2AddedAbilityF;
+    next.atk1AbilityF = next.atk1TotalAbilityF;
+    next.atk2AbilityF = next.atk2TotalAbilityF;
+    next.addedAbilityName = specialType && specialType !== 'speed' ? specialType[0].toUpperCase() + specialType.slice(1) : '';
+    next.addedAbilityValue = addedBonus;
+    const speedModulation = selectedOrbs.filter(orb => orbType(orb) === 'speed').reduce((sum, orb) => sum + getOrbValue(orb), 0);
+    if (Number(stats.speedX100) > 0) {
+      next.speedX100 = calculateSpeedX100(stats.speedX100, 100, speedModulation);
+      next.speedF = formatSpeedUiDisplay(next.speedX100);
+    }
+    return next;
+  }
+
+  function calculate(mutant, fameLevel = 1, skin = 'basic', bonusGacha = 0) {
+    const normalizedFame = Math.max(1, Number.parseInt(fameLevel, 10) || 1);
+    const skinOption = getSkinOptions(mutant).find(option => option.key === skin);
+    const starValue = skinOption?.starValue ?? STAR_VALUES[skin] ?? 0;
+    bonusGacha = skinOption?.bonusGacha ?? bonusGacha;
+    const level = 100 + 10 * (normalizedFame - 1);
+    const bonusStar = 100 + starValue;
+    const attack1 = getAttackEvolutionState(mutant, normalizedFame, 1);
+    const attack2 = getAttackEvolutionState(mutant, normalizedFame, 2);
+    const life = Number(mutant.life) || 0;
+    const speed = Number(mutant.speed) || 0;
+    const speedPercent = mutant.speedPercent == null ? 100 : mutant.speedPercent;
+    const speedX100 = calculateSpeedX100(speed, speedPercent);
+    const appliesTo = mutant.appliesTo || 'both';
+    const abilityPct1 = Number(mutant.abilityPct1) || 0;
+    const abilityPct2 = Number(mutant.abilityPct2) || 0;
+    const abilityPct = normalizedFame >= 25 ? abilityPct2 : abilityPct1;
+    const scale = (value) => Math.round(Math.abs(((value * (bonusGacha / 100) + value) * bonusStar * level * 100) / 1000000));
+    const atk1F = attack1.value === null ? 0 : scale(attack1.value);
+    const atk2F = attack2.value === null ? 0 : scale(attack2.value);
+    const abilityNames = parseAbilities(mutant.abilities);
+    const ability1 = Math.round(Math.abs((atk1F / 100) * abilityPct));
+    const ability2 = appliesTo === 'both' ? Math.round(Math.abs((atk2F / 100) * abilityPct)) : 0;
+
+    return {
+      specimen: mutant.specimen,
+      name: mutant.name,
+      type: mutant.type,
+      fameLevel: normalizedFame,
+      level,
+      lifeF: Math.round((life * (bonusStar - bonusGacha) * level * 100) / 1000000),
+      speedX100,
+      speedF: formatSpeedUiDisplay(speedX100),
+      atk1F,
+      atk2F,
+      atk1AbilityF: ability1,
+      atk2AbilityF: ability2,
+      ability1Name: abilityNames['1'] || 'No information',
+      ability2Name: appliesTo === 'both' ? (abilityNames['2'] || 'No information') : '',
+      ability1Pct: abilityPct,
+      ability2Pct: abilityPct,
+      appliesTo,
+      attack1State: attack1,
+      attack2State: attack2,
+      attack1Name: mutant.attack1p_name || 'No information',
+      attack2Name: mutant.attack2p_name || 'No information'
+    };
+  }
+
+  window.MGG_STATS = { STAR_VALUES, calculate, getSkinOptions, getAllowedBasicOrbTypes, applyOrbEffectsToStats, parseUnlockAttackEvents, getAttackEvolutionState, getDeclaredAttackState, normalizeAbilityType, formatOrbTypeLabel };
+}());

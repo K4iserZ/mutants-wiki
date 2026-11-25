@@ -1,1 +1,194 @@
-(function(_0xe4f0ad,_0x5ba3f5){const _0x320f13=_0x272f,_0x286dc0=_0xe4f0ad();while(!![]){try{const _0xe175a1=parseInt(_0x320f13(0x15e))/0x1+-parseInt(_0x320f13(0x143))/0x2+-parseInt(_0x320f13(0x178))/0x3*(-parseInt(_0x320f13(0x164))/0x4)+parseInt(_0x320f13(0x141))/0x5*(parseInt(_0x320f13(0x129))/0x6)+parseInt(_0x320f13(0x153))/0x7+parseInt(_0x320f13(0x156))/0x8+-parseInt(_0x320f13(0x166))/0x9;if(_0xe175a1===_0x5ba3f5)break;else _0x286dc0['push'](_0x286dc0['shift']());}catch(_0x56655f){_0x286dc0['push'](_0x286dc0['shift']());}}}(_0x2b4e,0x7a4dd));function initWeekOffersPage(){const _0x54694b=_0x272f;document[_0x54694b(0x169)](_0x54694b(0x14e))[_0x54694b(0x11c)]=_0x54694b(0x176)+SITE_BASE+_0x54694b(0x172),loadWeekOffers();}async function loadWeekOffers(){const _0x19fe2f=_0x272f,_0x76fe5e=document[_0x19fe2f(0x169)](_0x19fe2f(0x151)),_0x58211f=document[_0x19fe2f(0x169)]('weekOffersWeekSelect'),_0x40da56=document['getElementById'](_0x19fe2f(0x167)),_0x25b162=document[_0x19fe2f(0x169)](_0x19fe2f(0x124));try{const _0x14df8a=await fetch(API_CONFIG[_0x19fe2f(0x14c)][_0x19fe2f(0x14a)]);if(!_0x14df8a['ok'])throw new Error(_0x19fe2f(0x123));const _0x3ea537=await _0x14df8a[_0x19fe2f(0x16c)](),_0xfcdc=new Date()[_0x19fe2f(0x15a)]()[_0x19fe2f(0x111)](0x0,0xa),_0x4b4475=weekOffersAvailableSprints(_0x3ea537,_0xfcdc);if(!_0x4b4475[_0x19fe2f(0x139)])throw new Error(_0x19fe2f(0x165));_0x76fe5e['innerHTML']=_0x4b4475[_0x19fe2f(0x11f)]((_0x286b8e,_0x283f5a)=>'<option\x20value=\x22'+_0x283f5a+'\x22>Sprint\x20'+escapeHtml(_0x286b8e[_0x19fe2f(0x132)]??'')+_0x19fe2f(0x13b)+escapeHtml(formatWeekOffersDate(_0x286b8e[_0x19fe2f(0x159)]))+'\x20-\x20'+escapeHtml(formatWeekOffersDate(_0x286b8e[_0x19fe2f(0x118)]))+_0x19fe2f(0x13f))[_0x19fe2f(0x14d)](''),_0x76fe5e['value']=String(weekOffersDefaultSprintIndex(_0x4b4475,_0xfcdc,_0x3ea537[_0x19fe2f(0x131)])),_0x76fe5e[_0x19fe2f(0x150)]=!0x1;const _0x358374=()=>{const _0x27a8d6=_0x19fe2f,_0x3025b0=_0x4b4475[Number(_0x76fe5e[_0x27a8d6(0x16f)])]||_0x4b4475[0x0],_0x4beaf8=[..._0x3025b0[_0x27a8d6(0x148)]][_0x27a8d6(0x160)]((_0x4892d9,_0x204110)=>Number(_0x4892d9[_0x27a8d6(0x15d)])-Number(_0x204110[_0x27a8d6(0x15d)]));_0x40da56['textContent']=_0x27a8d6(0x152)+(_0x3025b0['number']??'')+_0x27a8d6(0x13b)+formatWeekOffersDate(_0x3025b0[_0x27a8d6(0x159)])+_0x27a8d6(0x11e)+formatWeekOffersDate(_0x3025b0[_0x27a8d6(0x118)]),_0x58211f['innerHTML']=_0x4beaf8[_0x27a8d6(0x11f)]((_0xf952a1,_0x1df220)=>'<option\x20value=\x22'+_0x1df220+_0x27a8d6(0x147)+escapeHtml(_0xf952a1[_0x27a8d6(0x15d)]??_0x1df220+0x1)+_0x27a8d6(0x13b)+escapeHtml(formatWeekOffersDate(_0xf952a1[_0x27a8d6(0x159)]))+'\x20-\x20'+escapeHtml(formatWeekOffersDate(_0xf952a1[_0x27a8d6(0x118)]))+'</option>')[_0x27a8d6(0x14d)](''),_0x58211f[_0x27a8d6(0x16f)]=String(weekOffersDefaultIndex(_0x4beaf8)),_0x58211f[_0x27a8d6(0x150)]=!0x1,renderWeekOffersDay(_0x4beaf8[Number(_0x58211f[_0x27a8d6(0x16f)])]||_0x4beaf8[0x0],_0x3025b0[_0x27a8d6(0x168)]);};_0x76fe5e[_0x19fe2f(0x171)](_0x19fe2f(0x177),_0x358374),_0x58211f[_0x19fe2f(0x171)](_0x19fe2f(0x177),()=>{const _0x181f5c=_0x19fe2f,_0x3ab7c8=_0x4b4475[Number(_0x76fe5e['value'])]||_0x4b4475[0x0],_0x1152bd=[..._0x3ab7c8[_0x181f5c(0x148)]][_0x181f5c(0x160)]((_0x1e7780,_0x56f908)=>Number(_0x1e7780[_0x181f5c(0x15d)])-Number(_0x56f908['week']));renderWeekOffersDay(_0x1152bd[Number(_0x58211f[_0x181f5c(0x16f)])]||_0x1152bd[0x0],_0x3ab7c8[_0x181f5c(0x168)]);}),_0x358374();}catch(_0x36878b){_0x25b162[_0x19fe2f(0x11c)]=errorMessage(_0x36878b),_0x76fe5e[_0x19fe2f(0x150)]=!0x0,_0x58211f[_0x19fe2f(0x150)]=!0x0;}}function weekOffersAvailableSprints(_0x56390,_0xcf5df8){const _0x111ca6=_0x272f,_0x28df98=Array[_0x111ca6(0x128)](_0x56390[_0x111ca6(0x16b)])&&_0x56390[_0x111ca6(0x16b)][_0x111ca6(0x139)]?_0x56390[_0x111ca6(0x16b)]:_0x56390[_0x111ca6(0x170)]?[{..._0x56390[_0x111ca6(0x170)],'offers':_0x56390[_0x111ca6(0x168)]}]:[],_0x45e0ae=Array['isArray'](_0x56390[_0x111ca6(0x168)])?_0x56390[_0x111ca6(0x168)]:[],_0x415ab5=_0x28df98[_0x111ca6(0x11f)](_0x13c17c=>{const _0x36cad5=_0x111ca6,_0x27efd6=Array[_0x36cad5(0x128)](_0x13c17c[_0x36cad5(0x148)])?[..._0x13c17c['weeks']]['sort']((_0x29ab42,_0xc8689a)=>Number(_0x29ab42['week'])-Number(_0xc8689a[_0x36cad5(0x15d)])):[],_0x4d742c=Number(_0x13c17c['number']),_0x2894be=Array[_0x36cad5(0x128)](_0x13c17c['offers'])?_0x13c17c[_0x36cad5(0x168)]:_0x45e0ae['filter'](_0x10371a=>Number(_0x10371a['sprint'])===_0x4d742c);return{..._0x13c17c,'weeks':_0x27efd6,'offers':_0x2894be};})['filter'](_0x41291e=>_0x41291e[_0x111ca6(0x148)][_0x111ca6(0x139)])['sort']((_0x10fba7,_0x20ebc0)=>Number(_0x10fba7[_0x111ca6(0x132)])-Number(_0x20ebc0['number']));if(!_0x415ab5[_0x111ca6(0x139)])return[];const _0x5bc370=_0x415ab5[_0x111ca6(0x15b)](_0x556be3=>_0xcf5df8>=String(_0x556be3[_0x111ca6(0x159)]||'')[_0x111ca6(0x111)](0x0,0xa)&&_0xcf5df8<=String(_0x556be3['end_date']||'')[_0x111ca6(0x111)](0x0,0xa)),_0x5787fc=_0x415ab5['findIndex'](_0x271f3a=>Number(_0x271f3a[_0x111ca6(0x132)])===Number(_0x56390['current_sprint'])),_0x4aaeaa=_0x415ab5[_0x111ca6(0x15b)](_0x393418=>String(_0x393418['end_date']||'')['slice'](0x0,0xa)>=_0xcf5df8),_0x1b7616=_0x5bc370>=0x0?_0x5bc370:_0x5787fc>=0x0?_0x5787fc:_0x4aaeaa>=0x0?_0x4aaeaa:_0x415ab5['length']-0x1;return _0x415ab5['slice'](_0x1b7616,_0x1b7616+0x3);}function weekOffersDefaultSprintIndex(_0x4cd81b,_0x3bb24a,_0x274f4d){const _0xb80fab=_0x272f,_0x12dc6a=_0x4cd81b['findIndex'](_0x15985c=>_0x3bb24a>=String(_0x15985c['start_date']||'')[_0xb80fab(0x111)](0x0,0xa)&&_0x3bb24a<=String(_0x15985c['end_date']||'')[_0xb80fab(0x111)](0x0,0xa));if(_0x12dc6a>=0x0)return _0x12dc6a;const _0x3d6f47=_0x4cd81b[_0xb80fab(0x15b)](_0x2d657d=>Number(_0x2d657d[_0xb80fab(0x132)])===Number(_0x274f4d));return _0x3d6f47>=0x0?_0x3d6f47:0x0;}function renderWeekOffersDay(_0x879de,_0x2c2906){const _0x336377=_0x272f,_0x59f0ef=document[_0x336377(0x169)](_0x336377(0x130)),_0x2c354a=document[_0x336377(0x169)](_0x336377(0x124)),_0x469fe3=weekOffersDates(_0x879de[_0x336377(0x159)],_0x879de[_0x336377(0x118)]);if(!_0x469fe3[_0x336377(0x139)])return _0x59f0ef[_0x336377(0x11c)]='',void(_0x2c354a['innerHTML']=_0x336377(0x138));const _0x4c53e1=new Date()[_0x336377(0x15a)]()['slice'](0x0,0xa),_0x2c1015=_0x469fe3['includes'](_0x4c53e1)?_0x4c53e1:_0x469fe3[0x0];_0x59f0ef[_0x336377(0x11c)]=_0x469fe3[_0x336377(0x11f)](_0x20f6a9=>{const _0x61d42a=_0x336377,_0x4ee23a=_0x2c2906[_0x61d42a(0x134)](_0xcb7a9e=>String(_0xcb7a9e[_0x61d42a(0x157)]||'')[_0x61d42a(0x111)](0x0,0xa)===_0x20f6a9)['length'],_0x4f0445=new Intl['DateTimeFormat']('en',{'weekday':_0x61d42a(0x114),'timeZone':_0x61d42a(0x125)})['format'](new Date(_0x20f6a9+_0x61d42a(0x16a))),_0x340283=_0x20f6a9[_0x61d42a(0x111)](-0x2);return _0x61d42a(0x112)+(_0x20f6a9===_0x2c1015?_0x61d42a(0x16e):'')+_0x61d42a(0x142)+_0x20f6a9+_0x61d42a(0x13c)+(_0x20f6a9===_0x2c1015)+_0x61d42a(0x12d)+escapeHtml(new Intl[(_0x61d42a(0x127))]('en',{'weekday':_0x61d42a(0x146),'month':_0x61d42a(0x146),'day':_0x61d42a(0x137),'timeZone':'UTC'})[_0x61d42a(0x12a)](new Date(_0x20f6a9+'T00:00:00Z')))+_0x61d42a(0x12c)+_0x4f0445+_0x61d42a(0x135)+_0x340283+'</strong><small>'+_0x4ee23a+'\x20'+(0x1===_0x4ee23a?'offer':_0x61d42a(0x168))+'</small></button>';})['join'](''),_0x59f0ef['onclick']=_0x5adf54=>{const _0xa44c6=_0x336377,_0x501c7c=_0x5adf54[_0xa44c6(0x154)][_0xa44c6(0x12e)]('[data-offer-date]');_0x501c7c&&(_0x59f0ef[_0xa44c6(0x13d)]('.week-offers__day')[_0xa44c6(0x126)](_0x5d994b=>{const _0x4edac8=_0xa44c6,_0x4d14c8=_0x5d994b===_0x501c7c;_0x5d994b[_0x4edac8(0x149)]['toggle'](_0x4edac8(0x173),_0x4d14c8),_0x5d994b[_0x4edac8(0x140)](_0x4edac8(0x133),String(_0x4d14c8));}),renderWeekOffersResults(_0x501c7c[_0xa44c6(0x121)][_0xa44c6(0x12f)],_0x2c2906));},renderWeekOffersResults(_0x2c1015,_0x2c2906);}function renderWeekOffersResults(_0x4dbef7,_0x5682fc){const _0x1a66c5=_0x272f,_0x26eafa=document[_0x1a66c5(0x169)](_0x1a66c5(0x124)),_0x445720=_0x5682fc[_0x1a66c5(0x134)](_0x18b85a=>String(_0x18b85a['date']||'')[_0x1a66c5(0x111)](0x0,0xa)===_0x4dbef7),_0x16053f=new Intl[(_0x1a66c5(0x127))]('en',{'weekday':'long','month':_0x1a66c5(0x146),'day':'numeric','timeZone':_0x1a66c5(0x125)})['format'](new Date(_0x4dbef7+_0x1a66c5(0x16a)));_0x445720[_0x1a66c5(0x139)]?(_0x26eafa['innerHTML']=_0x1a66c5(0x155)+escapeHtml(_0x16053f)+'</h2><span>'+_0x445720['length']+'\x20'+(0x1===_0x445720[_0x1a66c5(0x139)]?_0x1a66c5(0x144):_0x1a66c5(0x168))+'</span></div><div\x20class=\x22week-offers__grid\x22>'+_0x445720[_0x1a66c5(0x11f)](weekOfferCard)[_0x1a66c5(0x14d)]('')+'</div>',_0x26eafa[_0x1a66c5(0x13d)]('.week-offer__image')['forEach'](_0x4d9695=>{const _0x56e122=_0x1a66c5;_0x4d9695[_0x56e122(0x171)](_0x56e122(0x115),()=>{const _0x346760=_0x56e122;if(_0x4d9695[_0x346760(0x121)][_0x346760(0x13a)]&&_0x346760(0x122)!==_0x4d9695[_0x346760(0x121)][_0x346760(0x163)])return _0x4d9695[_0x346760(0x121)][_0x346760(0x163)]=_0x346760(0x122),void(_0x4d9695[_0x346760(0x14f)]=_0x4d9695[_0x346760(0x121)][_0x346760(0x13a)]);_0x4d9695['hidden']=!0x0,_0x4d9695[_0x346760(0x11d)][_0x346760(0x11b)]=!0x1;});})):_0x26eafa[_0x1a66c5(0x11c)]=_0x1a66c5(0x145)+escapeHtml(_0x16053f)+_0x1a66c5(0x116);}function weekOfferCard(_0x236829){const _0xfbd86b=_0x272f,_0x5eeb44=String(_0x236829[_0xfbd86b(0x15c)]||_0x236829[_0xfbd86b(0x11a)]||_0xfbd86b(0x136)),_0x37163f=weekOfferImageName(_0x236829[_0xfbd86b(0x15f)]),_0x297bb8=weekOfferImageName(_0x236829[_0xfbd86b(0x11a)]),_0x32e9fb=/^Specimen_/i[_0xfbd86b(0x158)](_0x297bb8),_0x474156=_0x32e9fb?_0x297bb8:_0x37163f||_0x297bb8,_0x5b2681=_0x32e9fb?_0x37163f:_0x297bb8,_0x264746=weekOfferImageUrl(_0x474156),_0x107444=_0x5b2681&&_0x5b2681!==_0x474156?weekOfferImageUrl(_0x5b2681):'';return _0xfbd86b(0x13e)+escapeHtml(_0x264746)+'\x22'+(_0x107444?'\x20data-fallback-src=\x22'+escapeHtml(_0x107444)+'\x22':'')+_0xfbd86b(0x117)+escapeHtml(_0x5eeb44)+_0xfbd86b(0x119)+escapeHtml(_0x5eeb44)+_0xfbd86b(0x14b);}function weekOfferImageName(_0x1b4ceb){const _0x3c2448=_0x272f;return String(_0x1b4ceb||'')['trim']()[_0x3c2448(0x12b)](/-?\$\$/g,'-en');}function weekOfferImageUrl(_0x55fc36){const _0x5530c7=_0x272f;return API_CONFIG[_0x5530c7(0x174)]['offerImages']+'/'+encodeURIComponent(_0x55fc36)+_0x5530c7(0x162);}function _0x272f(_0x185fe5,_0x5507d2){_0x185fe5=_0x185fe5-0x111;const _0x2b4e30=_0x2b4e();let _0x272f16=_0x2b4e30[_0x185fe5];if(_0x272f['suttmD']===undefined){var _0x2b25cb=function(_0xb391db){const _0x529f2a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x76fe5e='',_0x58211f='';for(let _0x40da56=0x0,_0x25b162,_0x14df8a,_0x3ea537=0x0;_0x14df8a=_0xb391db['charAt'](_0x3ea537++);~_0x14df8a&&(_0x25b162=_0x40da56%0x4?_0x25b162*0x40+_0x14df8a:_0x14df8a,_0x40da56++%0x4)?_0x76fe5e+=String['fromCharCode'](0xff&_0x25b162>>(-0x2*_0x40da56&0x6)):0x0){_0x14df8a=_0x529f2a['indexOf'](_0x14df8a);}for(let _0xfcdc=0x0,_0x4b4475=_0x76fe5e['length'];_0xfcdc<_0x4b4475;_0xfcdc++){_0x58211f+='%'+('00'+_0x76fe5e['charCodeAt'](_0xfcdc)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x58211f);};_0x272f['KpqEpD']=_0x2b25cb,_0x272f['oZKULw']={},_0x272f['suttmD']=!![];}const _0xa5a423=_0x2b4e30[0x0],_0x29be59=_0x185fe5+_0xa5a423,_0x392c43=_0x272f['oZKULw'][_0x29be59];return!_0x392c43?(_0x272f16=_0x272f['KpqEpD'](_0x272f16),_0x272f['oZKULw'][_0x29be59]=_0x272f16):_0x272f16=_0x392c43,_0x272f16;}function _0x2b4e(){const _0x49446a=['pc9ZCgfUpJXZDhjVBMC+','t2zMzxi','BNvTzxjPyW','phaGy2XHC3m9iNDLzwSTB2zMzxjZx19LBxb0Esi+tM8GDMfSAwqGzgf0zxmGzM91BMqGzM9YihrOAxmGD2vLAY48l3a+','BgvUz3rO','zMfSBgjHy2TtCMm','imk3ia','iIbHCMLHlxbYzxnZzwq9iG','CxvLCNLtzwXLy3rVCKfSBa','pgfYDgLJBguGy2XHC3m9iNDLzwSTB2zMzxiIpJXKAxyGy2XHC3m9iNDLzwSTB2zMzxjFx2fYDci+pgLTzYbJBgfZCZ0ID2vLAY1VzMzLCL9FAw1Hz2uIihnYyZ0I','pc9VChrPB24+','C2v0qxr0CMLIDxrL','mJa3odKZmhbUr1fLtW','iIb0ExbLpsjIDxr0B24IigrHDgeTB2zMzxiTzgf0zt0I','mZm5mZK0thvgAefl','B2zMzxi','phaGy2XHC3m9iNDLzwSTB2zMzxjZx19LBxb0Esi+tM8GB2zMzxjZigzVCIa','Bg9UzW','iJ5xzwvRia','D2vLA3m','y2XHC3nmAxn0','C3bYAw50t2zMzxjZ','pc9OmZ48l2fYDgLJBgu+','yxbP','AM9PBG','CgfNzunVBNrLBNq','C3jJ','zgLZywjSzwq','D2vLA09MzMvYC1nWCMLUDfnLBgvJDa','u3bYAw50ia','ndq1mdC0mgXAvNvrra','DgfYz2v0','pgrPDIbJBgfZCZ0ID2vLAY1VzMzLCNnFx3jLC3vSDhmTAgvHzgLUzYi+pgGYpG','mZuWnZGWogroD1rdtq','zgf0zq','DgvZDa','C3rHCNrFzgf0zq','Dg9ju09tDhjPBMC','zMLUzeLUzgv4','BMfTzq','D2vLAW','mJCYmdzurwTdz1m','CgLJDhvYzq','C29YDa','ChvZAa','lNbUzW','zMfSBgjHy2TbDhrLBxb0zwq','mJGZmtq4DMPfBhbr','tM8GC3bYAw50ihDLzwTZigzVDw5K','mta4mduXmJfLs1rvzu8','D2vLA09MzMvYC1nWCMLUDa','B2zMzxjZ','z2v0rwXLBwvUDej5swq','vdaWoJaWoJaWwG','C3bYAw50CW','ANnVBG','z2v0vvrdrgf0zq','igLZlwfJDgL2zq','DMfSDwu','C3bYAw50','ywrKrxzLBNrmAxn0zw5LCG','l2fZC2v0CY9PBwCVBwfPBI9WAwn0B19ZAg9WlNbUzYiGywX0psjtAg9WiJ48zgL2pJXWignSyxnZpsjWDNaTAgvYB19FzxLLyNjVDYi+q3vYCMvUDcbHBMqGDxbJB21PBMCGC3bYAw50CZWVCd48Ade+v2vLAYbpzMzLCNm8l2GXpJXWpKjYB3DZzsb0AguGB2zMzxjZigf2ywLSywjSzsbLywnOigrHEs48l3a+phaGy2XHC3m9iNDLzwSTB2zMzxjZx19ZChjPBNqIigLKpsj3zwvRt2zMzxjZu3bYAw50iJ5mB2fKAw5NihnWCMLUDc4UlJWVCd48l2rPDJ48l2HLywrLCJ48zgL2ignSyxnZpsj3zwvRlw9MzMvYC19Fy29UDhjVBhmIpJXSywjLBcbMB3i9iNDLzwTpzMzLCNntChjPBNrtzwXLy3qIpLnWCMLUDdWVBgfIzwW+phnLBgvJDcbPzd0ID2vLA09MzMvYC1nWCMLUDfnLBgvJDciGzgLZywjSzwq+pg9WDgLVBJ5mB2fKAw5NihnWCMLUDhmUlI48l29WDgLVBJ48l3nLBgvJDd48BgfIzwWGzM9Ypsj3zwvRt2zMzxjZv2vLA1nLBgvJDci+v2vLAZWVBgfIzwW+phnLBgvJDcbPzd0ID2vLA09MzMvYC1DLzwTtzwXLy3qIigrPC2fIBgvKpJXVChrPB24+tg9HzgLUzYb3zwvRCY4UlJWVB3b0Aw9UpJWVC2vSzwn0pJWVzgL2pJXUyxyGy2XHC3m9iNDLzwSTB2zMzxjZx19KyxLZiIbPzd0ID2vLA09MzMvYC0rHExmIigfYAweTBgfIzwW9iLnLBgvJDcbHigrHEsi+pc9Uyxy+pgrPDIbJBgfZCZ0ID2vLAY1VzMzLCNnFx3jLC3vSDhmIigLKpsj3zwvRt2zMzxjZuMvZDwX0CYiGyxjPys1SAxzLpsjWB2XPDguIpJXWignSyxnZpsjSB2fKAw5NiJ5mB2fKAw5NihnWCMLUDcbVzMzLCNmUlI48l3a+pc9KAxy+pc9Zzwn0Aw9UpG','AxmTywn0AxzL','yxnZzxrZ','C2v0vvrdrgf0zq','phnLy3rPB24Gy2XHC3m9iNDLzwSTB2zMzxjZiJ48AgvHzgvYignSyxnZpsjWDNaTAgvYBYb3zwvRlw9MzMvYC19FAgvYBYi+pgLTzYbZCMm9iG','y2HHBMDL','mtvfBgTRBxO','C2XPy2u','pgj1DhrVBIbJBgfZCZ0ID2vLAY1VzMzLCNnFx2rHEq','z2v0vgLTzq','C2HVCNq','zxjYB3i','lJWVCd4','igfSDd0I','zw5Kx2rHDgu','iIbSB2fKAw5NpsjSyxP5iJ48C3bHBIbJBgfZCZ0ID2vLAY1VzMzLCL9FBwLZC2LUzYiGAgLKzgvUpKLTywDLihvUyxzHAwXHyMXLpc9ZCgfUpJWVzgL2pJXOmZ4','B2zMzxjFAwq','AgLKzgvU','Aw5Uzxjive1m','BMv4DevSzw1LBNrtAwjSAw5N','ic0G','BwfW','rgf0zsb1BMf2ywLSywjSzq','zgf0yxnLDa','Dhj1zq','vw5HyMXLihrVigXVywqGC3bYAw50ig9MzMvYCW','D2vLA09MzMvYC1jLC3vSDhm','vvrd','zM9YrwfJAa','rgf0zvrPBwvgB3jTyxq','AxnbCNjHEq','nLDcyNDQwa','zM9YBwf0','CMvWBgfJzq','iJ48C3bHBJ4','iIbHCMLHlwXHyMvSpsi','y2XVC2vZDa','B2zMzxjeyxrL','D2vLA09MzMvYC0rHExm','y3vYCMvUDf9ZChjPBNq','BNvTyMvY','yxjPys1WCMvZC2vK','zMLSDgvY'];_0x2b4e=function(){return _0x49446a;};return _0x2b4e();}function weekOffersDates(_0x3003a5,_0x152d8f){const _0x1defac=_0x272f,_0x36441d=new Date(String(_0x3003a5||'')['slice'](0x0,0xa)+_0x1defac(0x16a)),_0x20e41d=new Date(String(_0x152d8f||'')[_0x1defac(0x111)](0x0,0xa)+'T00:00:00Z');if(Number['isNaN'](_0x36441d[_0x1defac(0x113)]())||Number['isNaN'](_0x20e41d[_0x1defac(0x113)]())||_0x20e41d<_0x36441d)return[];const _0x561f8b=[];for(const _0xbc273b=new Date(_0x36441d);_0xbc273b<=_0x20e41d;_0xbc273b[_0x1defac(0x175)](_0xbc273b[_0x1defac(0x16d)]()+0x1))_0x561f8b[_0x1defac(0x161)](_0xbc273b[_0x1defac(0x15a)]()['slice'](0x0,0xa));return _0x561f8b;}function weekOffersDefaultIndex(_0x42623c){const _0xaedda2=_0x272f,_0x50a243=new Date()[_0xaedda2(0x15a)]()[_0xaedda2(0x111)](0x0,0xa),_0x9c4c11=_0x42623c[_0xaedda2(0x15b)](_0x1db43a=>_0x50a243>=_0x1db43a[_0xaedda2(0x159)]&&_0x50a243<=_0x1db43a[_0xaedda2(0x118)]);return _0x9c4c11>=0x0?_0x9c4c11:_0x50a243<_0x42623c[0x0][_0xaedda2(0x159)]?0x0:_0x42623c[_0xaedda2(0x139)]-0x1;}function formatWeekOffersDate(_0x2126cf){const _0x516fde=_0x272f;if(!_0x2126cf)return _0x516fde(0x120);const _0x115128=new Date(String(_0x2126cf)[_0x516fde(0x111)](0x0,0xa)+_0x516fde(0x16a));return Number['isNaN'](_0x115128[_0x516fde(0x113)]())?String(_0x2126cf):new Intl['DateTimeFormat']('en',{'month':_0x516fde(0x114),'day':_0x516fde(0x137),'timeZone':_0x516fde(0x125)})['format'](_0x115128);}
+function initWeekOffersPage() {
+  const page = document.getElementById('pageContent');
+  page.innerHTML = `<section class="week-offers"><header class="pvp-hero week-offers__hero"><img src="${SITE_BASE}/assets/img/main/picto_shop.png" alt="Shop"><div><p class="pvp-hero__eyebrow">Current and upcoming sprints</p><h1>Week Offers</h1><p>Browse the offers available each day.</p><p class="week-offers__sprint" id="weekOffersSprint">Loading sprint...</p></div></header><div class="week-offers__controls"><label for="weekOffersSprintSelect">Sprint</label><select id="weekOffersSprintSelect" disabled><option>Loading sprints...</option></select><label for="weekOffersWeekSelect">Week</label><select id="weekOffersWeekSelect" disabled><option>Loading weeks...</option></select></div><nav class="week-offers__days" id="weekOffersDays" aria-label="Select a day"></nav><div class="week-offers__results" id="weekOffersResults" aria-live="polite"><p class="loading">Loading sprint offers...</p></div></section>`;
+  loadWeekOffers();
+}
+
+async function loadWeekOffers() {
+  const sprintSelect = document.getElementById('weekOffersSprintSelect');
+  const weekSelect = document.getElementById('weekOffersWeekSelect');
+  const sprintLabel = document.getElementById('weekOffersSprint');
+  const results = document.getElementById('weekOffersResults');
+  try {
+    const response = await fetch(API_CONFIG.api.sprintOffers);
+    if (!response.ok) throw new Error('Unable to load sprint offers');
+    const data = await response.json();
+    const today = new Date().toISOString().slice(0, 10);
+    const sprints = weekOffersAvailableSprints(data, today);
+    if (!sprints.length) throw new Error('No sprint weeks found');
+
+    sprintSelect.innerHTML = sprints.map((sprint, index) =>
+      `<option value="${index}">Sprint ${escapeHtml(sprint.number ?? '')} · ${escapeHtml(formatWeekOffersDate(sprint.start_date))} - ${escapeHtml(formatWeekOffersDate(sprint.end_date))}</option>`
+    ).join('');
+    sprintSelect.value = String(weekOffersDefaultSprintIndex(sprints, today, data.current_sprint));
+    sprintSelect.disabled = false;
+
+    const renderSprint = () => {
+      const sprint = sprints[Number(sprintSelect.value)] || sprints[0];
+      const weeks = [...sprint.weeks].sort((a, b) => Number(a.week) - Number(b.week));
+      sprintLabel.textContent = `Sprint ${sprint.number ?? ''} · ${formatWeekOffersDate(sprint.start_date)} - ${formatWeekOffersDate(sprint.end_date)}`;
+      weekSelect.innerHTML = weeks.map((week, index) =>
+        `<option value="${index}">Week ${escapeHtml(week.week ?? index + 1)} · ${escapeHtml(formatWeekOffersDate(week.start_date))} - ${escapeHtml(formatWeekOffersDate(week.end_date))}</option>`
+      ).join('');
+      weekSelect.value = String(weekOffersDefaultIndex(weeks));
+      weekSelect.disabled = false;
+      renderWeekOffersDay(weeks[Number(weekSelect.value)] || weeks[0], sprint.offers);
+    };
+    sprintSelect.addEventListener('change', renderSprint);
+    weekSelect.addEventListener('change', () => {
+      const sprint = sprints[Number(sprintSelect.value)] || sprints[0];
+      const weeks = [...sprint.weeks].sort((a, b) => Number(a.week) - Number(b.week));
+      renderWeekOffersDay(weeks[Number(weekSelect.value)] || weeks[0], sprint.offers);
+    });
+    renderSprint();
+  } catch (error) {
+    results.innerHTML = errorMessage(error);
+    sprintSelect.disabled = true;
+    weekSelect.disabled = true;
+  }
+}
+
+function weekOffersAvailableSprints(data, today) {
+  const source = Array.isArray(data.sprints) && data.sprints.length
+    ? data.sprints
+    : data.sprint ? [{ ...data.sprint, offers: data.offers }] : [];
+  const allOffers = Array.isArray(data.offers) ? data.offers : [];
+  const sprints = source
+    .map(sprint => {
+      const weeks = Array.isArray(sprint.weeks)
+        ? [...sprint.weeks].sort((a, b) => Number(a.week) - Number(b.week))
+        : [];
+      const sprintNumber = Number(sprint.number);
+      const offers = Array.isArray(sprint.offers)
+        ? sprint.offers
+        : allOffers.filter(offer => Number(offer.sprint) === sprintNumber);
+      return { ...sprint, weeks, offers };
+    })
+    .filter(sprint => sprint.weeks.length)
+    .sort((a, b) => Number(a.number) - Number(b.number));
+  if (!sprints.length) return [];
+
+  const activeIndex = sprints.findIndex(sprint =>
+    today >= String(sprint.start_date || '').slice(0, 10) &&
+    today <= String(sprint.end_date || '').slice(0, 10)
+  );
+  const currentSprintIndex = sprints.findIndex(sprint => Number(sprint.number) === Number(data.current_sprint));
+  const nextAvailableIndex = sprints.findIndex(sprint => String(sprint.end_date || '').slice(0, 10) >= today);
+  const startIndex = activeIndex >= 0
+    ? activeIndex
+    : currentSprintIndex >= 0
+      ? currentSprintIndex
+      : nextAvailableIndex >= 0
+        ? nextAvailableIndex
+        : sprints.length - 1;
+  return sprints.slice(startIndex, startIndex + 3);
+}
+
+function weekOffersDefaultSprintIndex(sprints, today, currentSprint) {
+  const activeIndex = sprints.findIndex(sprint =>
+    today >= String(sprint.start_date || '').slice(0, 10) &&
+    today <= String(sprint.end_date || '').slice(0, 10)
+  );
+  if (activeIndex >= 0) return activeIndex;
+  const currentIndex = sprints.findIndex(sprint => Number(sprint.number) === Number(currentSprint));
+  return currentIndex >= 0 ? currentIndex : 0;
+}
+
+function renderWeekOffersDay(week, offers) {
+  const daysElement = document.getElementById('weekOffersDays');
+  const results = document.getElementById('weekOffersResults');
+  const days = weekOffersDates(week.start_date, week.end_date);
+  if (!days.length) {
+    daysElement.innerHTML = '';
+    results.innerHTML = '<p class="week-offers__empty">No valid dates found for this week.</p>';
+    return;
+  }
+
+  const today = new Date().toISOString().slice(0, 10);
+  const selectedDate = days.includes(today) ? today : days[0];
+  daysElement.innerHTML = days.map(date => {
+    const count = offers.filter(offer => String(offer.date || '').slice(0, 10) === date).length;
+    const weekday = new Intl.DateTimeFormat('en', { weekday: 'short', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
+    const dayNumber = date.slice(-2);
+    return `<button class="week-offers__day${date === selectedDate ? ' is-active' : ''}" type="button" data-offer-date="${date}" aria-pressed="${date === selectedDate}" aria-label="${escapeHtml(new Intl.DateTimeFormat('en', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`)))}"><span>${weekday}</span><strong>${dayNumber}</strong><small>${count} ${count === 1 ? 'offer' : 'offers'}</small></button>`;
+  }).join('');
+
+  daysElement.onclick = event => {
+    const button = event.target.closest('[data-offer-date]');
+    if (!button) return;
+    daysElement.querySelectorAll('.week-offers__day').forEach(dayButton => {
+      const isSelected = dayButton === button;
+      dayButton.classList.toggle('is-active', isSelected);
+      dayButton.setAttribute('aria-pressed', String(isSelected));
+    });
+    renderWeekOffersResults(button.dataset.offerDate, offers);
+  };
+  renderWeekOffersResults(selectedDate, offers);
+}
+
+function renderWeekOffersResults(date, offers) {
+  const results = document.getElementById('weekOffersResults');
+  const dayOffers = offers.filter(offer => String(offer.date || '').slice(0, 10) === date);
+  const dateLabel = new Intl.DateTimeFormat('en', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
+  if (!dayOffers.length) {
+    results.innerHTML = `<p class="week-offers__empty">No offers for ${escapeHtml(dateLabel)}.</p>`;
+    return;
+  }
+
+  results.innerHTML = `<div class="week-offers__results-heading"><h2>${escapeHtml(dateLabel)}</h2><span>${dayOffers.length} ${dayOffers.length === 1 ? 'offer' : 'offers'}</span></div><div class="week-offers__grid">${dayOffers.map(weekOfferCard).join('')}</div>`;
+  results.querySelectorAll('.week-offer__image').forEach(image => {
+    image.addEventListener('error', () => {
+      if (image.dataset.fallbackSrc && image.dataset.fallbackAttempted !== 'true') {
+        image.dataset.fallbackAttempted = 'true';
+        image.src = image.dataset.fallbackSrc;
+        return;
+      }
+      image.hidden = true;
+      image.nextElementSibling.hidden = false;
+    });
+  });
+}
+
+function weekOfferCard(offer) {
+  const name = String(offer.name || offer.offer_id || 'Offer');
+  const picture = weekOfferImageName(offer.picture);
+  const id = weekOfferImageName(offer.offer_id);
+  const isSpecimen = /^Specimen_/i.test(id);
+  const primaryName = isSpecimen ? id : picture || id;
+  const fallbackName = isSpecimen ? picture : id;
+  const primaryImage = weekOfferImageUrl(primaryName);
+  const fallbackImage = fallbackName && fallbackName !== primaryName ? weekOfferImageUrl(fallbackName) : '';
+  return `<article class="week-offer"><div class="week-offer__art"><img class="week-offer__image" src="${escapeHtml(primaryImage)}"${fallbackImage ? ` data-fallback-src="${escapeHtml(fallbackImage)}"` : ''} alt="${escapeHtml(name)}" loading="lazy"><span class="week-offer__missing" hidden>Image unavailable</span></div><h3>${escapeHtml(name)}</h3></article>`;
+}
+
+function weekOfferImageName(value) {
+  return String(value || '').trim().replace(/-?\$\$/g, '-en');
+}
+
+function weekOfferImageUrl(name) {
+  return `${API_CONFIG.assets.offerImages}/${encodeURIComponent(name)}.png`;
+}
+
+function weekOffersDates(startDate, endDate) {
+  const start = new Date(`${String(startDate || '').slice(0, 10)}T00:00:00Z`);
+  const end = new Date(`${String(endDate || '').slice(0, 10)}T00:00:00Z`);
+  if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime()) || end < start) return [];
+  const dates = [];
+  for (const date = new Date(start); date <= end; date.setUTCDate(date.getUTCDate() + 1)) {
+    dates.push(date.toISOString().slice(0, 10));
+  }
+  return dates;
+}
+
+function weekOffersDefaultIndex(weeks) {
+  const today = new Date().toISOString().slice(0, 10);
+  const currentIndex = weeks.findIndex(week => today >= week.start_date && today <= week.end_date);
+  if (currentIndex >= 0) return currentIndex;
+  return today < weeks[0].start_date ? 0 : weeks.length - 1;
+}
+
+function formatWeekOffersDate(value) {
+  if (!value) return 'Date unavailable';
+  const date = new Date(`${String(value).slice(0, 10)}T00:00:00Z`);
+  return Number.isNaN(date.getTime()) ? String(value) : new Intl.DateTimeFormat('en', { month: 'short', day: 'numeric', timeZone: 'UTC' }).format(date);
+}

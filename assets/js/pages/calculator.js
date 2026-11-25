@@ -1,1 +1,568 @@
-const _0x309174=_0x2957;function _0x2957(_0x4d2648,_0x19383f){_0x4d2648=_0x4d2648-0xd2;const _0x403530=_0x4035();let _0x2957ec=_0x403530[_0x4d2648];if(_0x2957['ritesc']===undefined){var _0xad20a0=function(_0x2f3a40){const _0x524587='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4e94df='',_0x4d226b='';for(let _0x4497a1=0x0,_0xe571eb,_0x2b0ce9,_0x11add5=0x0;_0x2b0ce9=_0x2f3a40['charAt'](_0x11add5++);~_0x2b0ce9&&(_0xe571eb=_0x4497a1%0x4?_0xe571eb*0x40+_0x2b0ce9:_0x2b0ce9,_0x4497a1++%0x4)?_0x4e94df+=String['fromCharCode'](0xff&_0xe571eb>>(-0x2*_0x4497a1&0x6)):0x0){_0x2b0ce9=_0x524587['indexOf'](_0x2b0ce9);}for(let _0x55818e=0x0,_0x4dcd5e=_0x4e94df['length'];_0x55818e<_0x4dcd5e;_0x55818e++){_0x4d226b+='%'+('00'+_0x4e94df['charCodeAt'](_0x55818e)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4d226b);};_0x2957['WIjXCs']=_0xad20a0,_0x2957['DaWMoJ']={},_0x2957['ritesc']=!![];}const _0x41a6e0=_0x403530[0x0],_0x34dcff=_0x4d2648+_0x41a6e0,_0x3d7f29=_0x2957['DaWMoJ'][_0x34dcff];return!_0x3d7f29?(_0x2957ec=_0x2957['WIjXCs'](_0x2957ec),_0x2957['DaWMoJ'][_0x34dcff]=_0x2957ec):_0x2957ec=_0x3d7f29,_0x2957ec;}function _0x4035(){const _0x1905d6=['BgLMzq','ndqXmtGZm3vABeHewa','CMvTB3zL','yxjPys1WCMvZC2vK','qMfZzufIAwXPDhLg','w2rHDgeTy2fSy3vSyxrVCI1ZzwXLy3rD','BwvZC2fNzq','iJ7dLZWVyNv0Dg9UpG','y2fSy3vSyxrVCLnRAw4','CMvZDwX0','iIbHBhq9iIiGB25LCNjVCJ0IDgHPCY5OAwrKzw49Dhj1zsi+pc9ZCgfUpJXZCgfUignSyxnZpsjJywXJDwXHDg9YlwzPDciGzgf0ys1TyxG9iJeYiJ4','CxvLCNLtzwXLy3rVCKfSBa','lMnHBgn1Bgf0B3iTzML0','ANnVBG','B3jIr3jVDxa','tuDhifDPA2KGFcbdywXJDwXHDg9Y','iIb0ExbLpsjUDw1IzxiIig1PBJ0ImsiGDMfSDwu9iG','iJ48l2XHyMvSpG','yMfZzuzHBgXIywnR','DMfYkc0TDgv4Dc1TDxrLzcK','ywjPBgL0Eq','tgLMzq','yxr0ywnR','pc9ZCgfUpGOGicaGicaGicaGica8C3bHBIbJBgfZCZ0Iy2fSy3vSyxrVCI1JyxjKx19ZAg93BI1SzxzLBci+tgv2zwWG','ignHBgn1Bgf0B3iTCM93ls1HDhrHy2S','zNjVBq','iIbKyxrHlwzHBgXIywnRpsi','C3bSAwnL','iokaLcbmzxzLBdWVC3bHBJ48Aw5WDxqGAwq9iMnHBgn1Bgf0B3jmzxzLBa','pc9ZCgfUpGOGicaGicaGicaGpc9KAxy+cIaGicaGicaGpc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0Iy2fSy3vSyxrVCI1VCMjZiJ4','AwnVBNm','Aw5JBhvKzxm','z2v0rwXLBwvUDej5swq','z2vUzuLJB24','yw1Izxi','y3LHBG','y2fSy3vSyxrVCKXLDMvS','yM90Aa','Aw5KzxHpzG','ywjZ','phaGy2XHC3m9iMnHBgn1Bgf0B3iTzw1WDhKTB3jICYi+tM8GB3jIihnSB3rZigf2ywLSywjSzs48l3a+','mZbUD1Plsve','AxngAw5PDgu','Dg9Nz2XL','ywrKrxzLBNrmAxn0zw5LCG','y2fSy3vSyxrVCLnLBgvJDa','C3bLy2LTzw4G','iJ48Aw1NignSyxnZpsjVCMiTCgLJA2vYx19VChrPB24TAwnVBIiGC3jJpsi','z2v0u2TPBK9WDgLVBNm','ChvZAa','phnLy3rPB24Gy2XHC3m9iNnLy3rPB24GC2vJDgLVBI0TDgLNAhqGy2fSy3vSyxrVCI1WywDLiIbKyxrHlwnVBxbHCMu9iM9MzIi+cIaGicaGidXKAxyGy2XHC3m9iNnLy3rPB25Fx2HLywqIpGOGicaGicaGidXKAxy+pgGXpKnHBgn1Bgf0B3i8l2GXpJXWignSyxnZpsjZzwn0Aw9Ux19SzwrLiJ5dB21WyxjLihnWzwnPBwvUihn0yxrZlcbZA2LUCYbHBMqGB3jIignVBwjPBMf0Aw9UCY48l3a+pc9KAxy+cIaGicaGidWVzgL2pGOGicaGica8zgL2ignSyxnZpsjJywXJDwXHDg9YlxrVB2XIyxiIpGOGicaGicaGidXIDxr0B24Gy2XHC3m9iMj0BIbIDg4TlxnTywXSigj0BI0TB3v0BgLUzsiGDhLWzt0IyNv0Dg9UiIbKyxrHlwnHBgn1Bgf0B3iTywn0Aw9UpsjJB21WyxjLiIbHCMLHlxbYzxnZzwq9iMzHBhnLiJ5dB21WyxjLig9MzJWVyNv0Dg9UpGOGicaGicaGidXKAxyGy2XHC3m9iMnHBgn1Bgf0B3iTBgv2zwWTy29UDhjVBhmIigLKpsjJywXJDwXHDg9Ytgv2zwXZiIbHCMLHlwXHyMvSpsjtCgvJAw1LBIbSzxzLBhmIpJWVzgL2pGOGicaGicaGidXSywjLBcbJBgfZCZ0Iy2fSy3vSyxrVCI1JB250CM9SignHBgn1Bgf0B3iTCgfSzxr0zsiGAgLKzgvUpKnVBg9YCWOGicaGicaGicaGphnLBgvJDcbPzd0Iy2fSy3vSyxrVCLbHBgv0DguIpJXVChrPB24GDMfSDwu9iNjHBMSIpKj5ihjHBMTPBMC8l29WDgLVBJ48B3b0Aw9UihzHBhvLpsjZCgvJAw1LBIi+qNKGC3bLy2LTzw48l29WDgLVBJ48l3nLBgvJDd4kicaGicaGica8l2XHyMvSpGOGicaGicaGidXIDxr0B24Gy2XHC3m9iMj0BIbIDg4TlxnTywXSigj0BI0TChjPBwfYEsiGDhLWzt0IyNv0Dg9UiIbKyxrHlwnHBgn1Bgf0B3iTywn0Aw9UpsjHzgqIigHPzgrLBJ5bzgqGC3bLy2LTzw48l2j1DhrVBJ4kicaGicaGpc9KAxy+cIaGicaGidXWignSyxnZpsjJywXJDwXHDg9Ylxn0yxr1CYbSB2fKAw5NiIbPzd0Iy2fSy3vSyxrVCLn0yxr1CYi+tg9HzgLUzYbZCgvJAw1LBIbJyxrHBg9NlI4Upc9WpGOGicaGica8zgL2ignSyxnZpsjJywXJDwXHDg9YlwDYAwqIigLKpsjJywXJDwXHDg9Yq2fYzhmIpJWVzgL2pGOGicaGpc9Zzwn0Aw9UpG','w2rHDgeTy2fSy3vSyxrVCI1JyxjKxq','BMfTzq','zxzLCNK','pgj1DhrVBIbJBgfZCZ0Iy2fSy3vSyxrVCI1Yzw1VDMuIihr5Cgu9iMj1DhrVBIiGzgf0ys1JywXJDwXHDg9YlwfJDgLVBJ0ICMvTB3zLiIbHCMLHlwXHyMvSpsjszw1VDMuG','iIbVBMvYCM9Ypsj0AgLZlMHPzgrLBJ10CNvLiJ4','AxmTD3jHChbLza','zgLZywjSzwq','w2rHDgeTy2fSy3vSyxrVCI1Hy3rPB249iMnVBxbHCMuIxq','vw5HyMXLihrVigXVywqGC3bLy2LTzw4GC3rHDhmU','w2rHDgeTB3jIlxjLBw92zv0','Bgv2zwW','phnWyw4Gy2XHC3m9iMnHBgn1Bgf0B3iTC2TPBgXFx2jHC2uIihrPDgXLpsi','phaGy2XHC3m9iMXVywrPBMCGy2fSy3vSyxrVCI1JyxjKx19TzxnZywDLiJ5mB2fKAw5NihnWzwnPBwvUihn0yxrZlI4Upc9WpG','ywjPBgL0AwvZ','w2rHDgeTy2fSy3vSyxrVCI1SzxzLBf0','phnWyw4Gy2XHC3m9iMnHBgn1Bgf0B3iTC3bLy2LTzw4Tzw1WDhKIpK5Vig1HDgnOAw5NihnWzwnPBwvUCZWVC3bHBJ4','C3bLzwrg','iJ48C3bHBIbJBgfZCZ0Iy2fSy3vSyxrVCI1ZA2LSBf9FAwnVBIi+pgLTzYbZCMm9iG','C29YDa','pgfYDgLJBguGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzciGzgf0ys1JywXJDwXHDg9YlwnHCMq9iG','yMfZAwm','C2nYB2XSv2LKDgG','yxnZzxrZ','tuDhx0Dbq0Hbx0nptKzjrW','iIbZDhLSzt0Ils1JywXJDwXHDg9Ylxn0yxqTy29SB3i6','nKLiAwvRBG','BgvUz3rO','iJ48C3bHBJ4','pc9IDxr0B24+','w2rHDgeTy2fSy3vSyxrVCI1Hy3rPB249iMfKzcjD','y2fSy3vSyxrVCKfJDgLVBG','zgf0yxnLDa','pgrPDIbJBgfZCZ0Iy2fSy3vSyxrVCI1ZA2LSBci+','DMfSDwu','zM9UDhm','ywrK','cIaGicaGicaGpc9KAxy+cIaGicaGidWVyxj0AwnSzt4','C3bLzwq','B3jIu2XVDhm','qwrKzwrbyMLSAxr5rG','iIb0ExbLpsjIDxr0B24IigrHDgeTy2fSy3vSyxrVCI1ZA2LUpsi','Aw5Uzxjive1m','pc9ZCgfUpGOGicaGicaGidXZDhjVBMCGy2XHC3m9iMnHBgn1Bgf0B3iTzML0ignHBgn1Bgf0B3iTCM93x192ywX1zsiGzgf0ys1TyxG9iJe5iJ4','w2rHDgeTy2fSy3vSyxrVCI1ZzwfYy2HD','DgL0Bgu','BgfIzwW','yxrR','y2fSy3vSyxrVCKnHCMrZ','w2rHDgeTB3jIlw1LBNvD','zMfSC2u','C3bLy2LHBa','DMfSDwvZ','lMnHBgn1Bgf0B3iTCgfNzq','y2f0y2G','DgvZDa','ywrKzwrbyMLSAxr5tMfTzq','tuDhx1nuqvrt','phnWyw4Gy2XHC3m9iMnHBgn1Bgf0B3iTzgLMzMvYzw5JzsbJywXJDwXHDg9YlwzPDciGzgf0ys1TyxG9iJeXiJ4','Dhj1zq','mJCWntG4nur0qwroqG','C2vSzwn0zwrlzxK','DhLWzq','pgj1DhrVBIbJBgfZCZ0IB3jIlxbPy2TLCL9FB3b0Aw9Uig9YyI1WAwnRzxjFx29WDgLVBI0TCMvTB3zLiIb0ExbLpsjIDxr0B24IigrHDgeTB3jIlxjLBw92zt5szw1VDMuGB3jIpc9IDxr0B24+','DhLWzunVBg9Y','odK1nJK2wMjougvb','AgfZ','C3r5Bgu','y2HHBMDL','zgLMzMvYzw5Jzq','qxr0ywnRidi','AM9PBG','CMvK','zMLUza','pc9ZCgfUpGOGicaGicaGicaG','pc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0Iy2fSy3vSyxrVCI1JyxjKx19OzxjViJ4kicaGicaGicaGidXPBwCGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzf9Fyxj0iIbZCMm9iG','vw5HyMXLihrVigXVywqG','DgH1BwjUywLSrMfSBgjHy2S','iJ48Aw1NihnYyZ0I','pc9KAxy+','cIaGicaGidWVzgL2pG','Bg9HzgLUzW','Dg9mB3DLCKnHC2u','Dg9vChbLCKnHC2u','y2fSy3vSyxrVCKnHCMq','pgrPDIbJBgfZCZ0IB3jIlxbPy2TLCL9FAxrLBxmIpG','DgHLBG','Bwf0y2HLCW','zg5H','tM8GC3bLy2LTzw5ZigfYzsbHDMfPBgfIBguGzM9YihrOzsbJywXJDwXHDg9YlG','mtrWEa','y2XVC2vZDa','yxbP','phnWyw4Gy2XHC3m9iMnHBgn1Bgf0B3iTB3jIlwvYCM9YiJ5pCMiGB3b0Aw9UCYbHCMuGDw5HDMfPBgfIBguUpc9ZCgfUpG','tuDhx09sqLm','Bgv2zwXZ','lMnHBgn1Bgf0B3iTy2fYzf9Fyxj0','pc9OmJ4kicaGicaGicaGidXKAxyGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzf9FBwv0ysi+cIaGicaGicaGicaGidXZCgfUignSyxnZpsjJywXJDwXHDg9YlwnHCMrFx3r5CguIpJXPBwCGC3jJpsi','Aw5WDxq','z2vUzq','CMfUAW','iIbHBhq9iIi+','C3jJ','BwfW','pgLTzYbZCMm9iG','E3nWzwnPBwvUFq','tMfTzq','mtziy1Dot3a','y29SB3i','y2XPy2S','igLZlwfJDgL2zq','mJy1mJu1ntbWDvzHvgq','B3jICW','yxrRmKy','w2rHDgeTy2fSy3vSyxrVCI1Hy3rPB25D','pgLTzYbJBgfZCZ0Iy2fSy3vSyxrVCI1Nzw5LiIbZCMm9iG','zxjYB3i','Bw9KzwW','cIaGicaGicaGica','iIb0AxrSzt0I','iIbHBhq9iG','lMnHBgn1Bgf0B3iTCgfSzxr0zq','phaGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzf9FBwvZC2fNzsi+q2HVB3nLigeGC3bLy2LTzw4GDg8Gy29TCgfYzs48l3a+','z3jLzw4','y2XPzw50v2LKDgG','CgfYC2vjBNq','cIaGicaGicaGpc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0Iy2fSy3vSyxrVCI1JyxjKx19PzgvUDgL0Esi+cIaGicaGicaGica8AdiGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzf9FBMfTzsi+','A2v5','zM9UDfnPEMu','y2XHC3nmAxn0','yxrRmuy','iIbHBhq9iIiGB25LCNjVCJ0IDgHPCY5OAwrKzw49Dhj1zsi+','tuDhx0nbtenvtefut1i','AxmTB24','otGXnZCXuvfODKHg','CxvLCNLtzwXLy3rVCG','zMLSDgvY','Dgv4DenVBNrLBNq','pgrPDIbJBgfZCZ0Iy2fSy3vSyxrVCI1ZA2LUCYiGyxjPys1SywjLBd0Iu3bLy2LTzw4GC2TPBIi+cIaGicaGicaG','C2TPBG','y2fSy3vSyxrLza','ywrKzwrbyMLSAxr5','C3bSAxq','yxbWBgLLC1rV','w2rHDgeTy2fSy3vSyxrVCI1ZA2LUxq','C3vTBwfYEq','BgLMzuy','u3bLzwq','iIbHBhq9iIi+phnWyw4+','ndK0mJGWmenoD2v4AG','q29TBw9U','odeYnZyWvg5iENjL','iIbKyxrHlwnHBgn1Bgf0B3iTBgv2zwWGyxjPys1SywjLBd0Itgv2zwWGzM9Yia','y2fSy3vSyxrVCLbHBgv0Dgu','zM9YrwfJAa','oY0Ty2fSy3vSyxrVCI1IyxiTD2LKDgG6','pc9ZDhjVBMC+pc9ZCgfUpG','pgj1DhrVBIbJBgfZCZ0IB3jIlxbPy2TLCL9FB3b0Aw9UiIb0ExbLpsjIDxr0B24IigrHDgeTB3jIlwDYB3vWpsi','pc9ZCgfUpGOGicaGicaGidXZCgfUignSyxnZpsjJywXJDwXHDg9YlxjVD19FBgfIzwWIpG','yMX1zq','iJ4kicaGicaGica8C3bHBIbJBgfZCZ0Iy2fSy3vSyxrVCI1ZDgf0lwLJB24IpG','CMvWBgfJzq','C2v0','phaGy2XHC3m9iMnHBgn1Bgf0B3iTy2fYzf9FBwvZC2fNzsbJywXJDwXHDg9YlwnHCMrFx2vYCM9YiJ4','y2f0zwDVCMLLCW','AgLKzgvU','vw5HyMXLihrVigXVywqGDgHLignHBgn1Bgf0B3iU','phnWyw4Gy2XHC3m9iMnHBgn1Bgf0B3iTywrKzwqTC2TPBgWIihrPDgXLpsi','pc9ZCgfUpJWVyNv0Dg9UpG','pc9ZCgfUpJWVC3bHBJ4','qxr0ywnRide','C3bLy2LTzw4','w2rHDgeTB3jIlxnSB3rD','pc9ZCgfUpG','yxr0ywnRmG','pc9WpG','DgfYz2v0','iJ4kicaGicaGica8zgL2ignSyxnZpsjJywXJDwXHDg9YlwnHCMrFx3nLBgvJDg9YiJ48zgL2ignSyxnZpsjJywXJDwXHDg9YlxnWzwnPBwvUlxbPy2TLCIi+pgLUChv0ihr5Cgu9iNnLyxjJAciGDMfSDwu9iG','zM9YBwf0t3jIvhLWzuXHyMvS','pgj1DhrVBIbJBgfZCZ0IB3jIlxbPy2TLCL9FB3b0Aw9UiIb0ExbLpsjIDxr0B24IigrHDgeTB3jIlwXLDMvSlwLKpsi','DMfYkc0TCgXHC21Hkq','Bwf4','lMnHBgn1Bgf0B3iTy2fYza','iIbWBgfJzwHVBgrLCJ0Iu2vHCMnOihnWzwnPBwvUlI4UiIbHCMLHlwXHyMvSpsjtzwfYy2GGC3bLy2LTzw4Iigf1Dg9JB21WBgv0zt0IB2zMiIbKyxrHlwnHBgn1Bgf0B3iTC2vHCMnOpJXKAxyGy2XHC3m9iMnHBgn1Bgf0B3iTC3bLy2LTzw4TCMvZDwX0CYiGCM9Szt0IBgLZDgjVEciGAgLKzgvUpJWVzgL2pJWVzgL2pG','lMnHBgn1Bgf0B3iTC3bLy2LTzw4TCgLJA2vY','lMnHBgn1Bgf0B3iTC3bLy2LTzw4TCMvZDwX0CW','C2v0qxr0CMLIDxrL','iIbHCMLHlwXHyMvSpsi','iIbHBhq9iKDLBMuG','w2rHDgeTB3jIlwXLDMvSlwLKxq','zw50CMLLCW','yxr0ywnRCW','q29TCgfYzsbVzMy'];_0x4035=function(){return _0x1905d6;};return _0x4035();}(function(_0x446ee2,_0x184306){const _0x4ad713=_0x2957,_0x20e3b9=_0x446ee2();while(!![]){try{const _0x18a70c=parseInt(_0x4ad713(0x152))/0x1+parseInt(_0x4ad713(0x10d))/0x2+parseInt(_0x4ad713(0x18e))/0x3+-parseInt(_0x4ad713(0x163))/0x4*(-parseInt(_0x4ad713(0x1b6))/0x5)+-parseInt(_0x4ad713(0xe6))/0x6*(-parseInt(_0x4ad713(0x108))/0x7)+parseInt(_0x4ad713(0x137))/0x8*(-parseInt(_0x4ad713(0x161))/0x9)+-parseInt(_0x4ad713(0x13b))/0xa;if(_0x18a70c===_0x184306)break;else _0x20e3b9['push'](_0x20e3b9['shift']());}catch(_0x441209){_0x20e3b9['push'](_0x20e3b9['shift']());}}}(_0x4035,0xb851a),window[_0x309174(0x150)]={async 'init'(){const _0x133feb=_0x309174;document[_0x133feb(0xf9)]=_0x133feb(0x19c);const _0x4e94df=document[_0x133feb(0x1ad)]('pageContent');_0x4e94df[_0x133feb(0xf6)]=_0x133feb(0x1bf);const _0x4d226b=_0x4e94df[_0x133feb(0x153)](_0x133feb(0x101)),_0x4497a1=document[_0x133feb(0x1ad)](_0x133feb(0xfc)),_0xe571eb=document[_0x133feb(0x1ad)]('calculatorStatus'),_0x2b0ce9=document['getElementById']('calculatorLevels'),_0x11add5=document[_0x133feb(0x1ad)](_0x133feb(0x165));let _0x55818e,_0x4dcd5e,_0x3fc9f4,_0x3649af,_0x16748f=[],_0x1ee89a=!0x1,_0xf25db=_0x133feb(0x130);const _0x138b6c=new Map(),_0x1c496d=[];function _0x139370(_0x56e713){const _0xd6bc4a=_0x133feb;(async function(_0x3e718b){const _0x7d855d=_0x2957,_0x4d522a=_0x3e718b[_0x7d855d(0x177)];if(!_0x138b6c[_0x7d855d(0x10e)](_0x4d522a)){const _0x2f6cd6=((async()=>{const _0x3b034a=_0x7d855d,_0x45c9ef=API_CONFIG[_0x3b034a(0x128)][_0x3b034a(0x177)]['replace'](_0x3b034a(0x135),encodeURIComponent(_0x4d522a)),_0x64d9bd=await fetch(_0x45c9ef);if(!_0x64d9bd['ok'])throw new Error(_0x3b034a(0x118)+_0x3e718b[_0x3b034a(0x1c1)]);const _0x467c63=await _0x64d9bd[_0x3b034a(0x19a)]();return normalizeSpecimenDetail(_0x467c63,{},_0x3e718b,_0x4dcd5e);})());_0x138b6c[_0x7d855d(0x16e)](_0x4d522a,_0x2f6cd6);}return _0x138b6c['get'](_0x4d522a);}(_0x56e713[_0xd6bc4a(0x15d)])['then'](_0x303b35=>{const _0x34ee82=_0xd6bc4a;_0x1c496d[_0x34ee82(0x1ac)](_0x56e713)&&(_0x56e713[_0x34ee82(0x141)]=_0x303b35,_0x56e713[_0x34ee82(0x157)]=_0x34ee82(0xe1),_0x56e713[_0x34ee82(0x11d)]=!0x1,_0x56e713[_0x34ee82(0x140)]='',_0x20493e());})[_0xd6bc4a(0x102)](_0x1000c3=>{const _0x64091c=_0xd6bc4a;_0x1c496d[_0x64091c(0x1ac)](_0x56e713)&&(_0x56e713[_0x64091c(0x11d)]=!0x1,_0x56e713['error']=_0x1000c3['message']||_0x64091c(0xd5),_0x20493e());}));}function _0x4e901c(_0x277fba=0x1){_0x1c496d['push']({'summary':null,'model':null,'skin':null,'orbs':{},'level':_0x277fba,'error':'','loading':!0x1});}function _0x2044a3(_0x1aaa96,_0x4cd259,_0x541120,_0x9d2dba,_0x1a7d9d,_0x57c2f4){const _0x1d93b8=_0x133feb,_0x319007=function(_0x476847,_0x8bb4de,_0x523f4e){const _0x123fa3=_0x2957;if(!_0x1ee89a)return{'rank':0x0,'color':'','percent':0x64,'difference':''};const _0x196491=_0x1c496d[_0x123fa3(0x133)]((_0x223be6,_0x14c469)=>({'index':_0x14c469,'value':_0x223be6[_0x123fa3(0x196)]?.[_0x123fa3(0x100)][_0x476847]}))['filter'](_0x52bad0=>void 0x0!==_0x52bad0[_0x123fa3(0xee)]&&Number[_0x123fa3(0x1b7)](_0x52bad0['value'])),_0x105294=_0x8bb4de[_0x123fa3(0x100)][_0x476847];if(_0x196491[_0x123fa3(0xe7)]<0x2)return{'rank':0x0,'color':'','percent':0x64,'difference':''};const _0x1aef71=0x1+_0x196491['filter'](_0x2ddc04=>_0x2ddc04[_0x123fa3(0xee)]>_0x105294)[_0x123fa3(0xe7)],_0x1a398b=_0x196491[_0x123fa3(0x1c2)](_0x35fe11=>_0x35fe11['value']===_0x196491[0x0][_0x123fa3(0xee)]),_0x39781d={0x2:['green',_0x123fa3(0x114)],0x3:['green','cyan','red'],0x4:[_0x123fa3(0x147),_0x123fa3(0x1b0),_0x123fa3(0x16b),_0x123fa3(0x114)],0x5:[_0x123fa3(0x147),_0x123fa3(0x1b0),'blue',_0x123fa3(0x1af),_0x123fa3(0x114)]}[_0x196491[_0x123fa3(0xe7)]],_0x2f1f8c=_0x123fa3(0x177)===_0xf25db?[_0x123fa3(0x114),_0x123fa3(0x1b0),_0x123fa3(0x16b),_0x123fa3(0x147),'amber'][_0x523f4e]:_0x1a398b?'':_0x39781d[_0x1aef71-0x1],_0x4c3e60=_0x196491[_0x123fa3(0x154)](_0x312c0f=>_0x312c0f['index']!==_0x523f4e)[_0x123fa3(0x133)](_0x241e96=>_0x241e96[_0x123fa3(0xee)]),_0x2a5138=0x1===_0x1aef71?Math['max'](..._0x4c3e60):Math[_0x123fa3(0x181)](..._0x196491[_0x123fa3(0x133)](_0x545f56=>_0x545f56['value'])),_0x477154=_0x105294-_0x2a5138;return{'rank':_0x1aef71,'color':_0x2f1f8c,'percent':Math[_0x123fa3(0x181)](0x6,_0x105294/(Math['max'](..._0x196491['map'](_0x3a887d=>_0x3a887d['value']))||0x1)*0x64),'difference':0x0===_0x477154?'=':''+(_0x477154>0x0?'+':'−')+formatStatValue(Math[_0x123fa3(0x1b4)](_0x477154))};}(_0x4cd259,_0x1aaa96[_0x1d93b8(0x196)],_0x57c2f4),_0x5543f1=_0x319007['color']?'var(--calculator-'+_0x319007[_0x1d93b8(0x138)]+')':_0x1d93b8(0x1a0),_0xc6e9c5=_0x319007['percent']+'%',_0x5aaa37=_0x1c496d[_0x1d93b8(0xe7)]>0x2&&_0x319007[_0x1d93b8(0x130)]?'<span\x20class=\x22calculator-rank\x22\x20style=\x22background:'+_0x5543f1+'\x22>'+_0x319007['rank']+_0x1d93b8(0x179):'',_0x1b320a=_0x319007['difference']?_0x1d93b8(0x106)+_0x319007[_0x1d93b8(0x111)]+'</span>':'',_0x254e0a=_0x1a7d9d?function(_0x1ef84d){const _0x33edc1=_0x1d93b8;return _0x1ef84d['ability']||_0x1ef84d[_0x33edc1(0x159)]?_0x33edc1(0xed)+(_0x1ef84d[_0x33edc1(0x1a1)]?_0x33edc1(0xd8)+escapeHtml(_0x1ef84d[_0x33edc1(0x1a1)])+_0x33edc1(0xde)+escapeHtml(_0x1ef84d['abilityIcon'])+_0x33edc1(0x197)+(formatStatValue(_0x1ef84d['abilityValue'])||'–')+_0x33edc1(0x175):'')+(_0x1ef84d[_0x33edc1(0x159)]?_0x33edc1(0x173)+escapeHtml(_0x1ef84d[_0x33edc1(0x159)][_0x33edc1(0x1c1)])+_0x33edc1(0x11a)+escapeHtml(_0x1ef84d[_0x33edc1(0x159)]['icon'])+'\x22\x20alt=\x22\x22\x20onerror=\x22this.hidden=true\x22><strong\x20class=\x22calculator-fit\x22\x20data-max=\x2212\x22>'+formatStatValue(_0x1ef84d[_0x33edc1(0x159)][_0x33edc1(0xee)])+_0x33edc1(0x168):'')+'</div>':'';}(_0x1a7d9d):'',_0x1c952a=_0x9d2dba?'<img\x20src=\x22'+escapeHtml(_0x9d2dba)+_0x1d93b8(0x14f):'',_0x2991c1=_0x1d93b8(0xf2)===_0x4cd259?_0x1aaa96['result']['calculated'][_0x1d93b8(0xdd)]:formatStatValue(_0x1aaa96[_0x1d93b8(0x196)][_0x1d93b8(0x100)][_0x4cd259]);return'<div\x20class=\x22calculator-row'+(_0x1a7d9d?_0x1d93b8(0x1a5):'')+_0x1d93b8(0xe5)+_0x5543f1+_0x1d93b8(0x167)+_0xc6e9c5+_0x1d93b8(0x16c)+(_0x1a7d9d?_0x1d93b8(0x134)+escapeHtml(_0x1a7d9d[_0x1d93b8(0x1ae)])+_0x1d93b8(0x14f):_0x1c952a)+_0x1d93b8(0x16a)+escapeHtml(_0x541120)+_0x5aaa37+_0x1b320a+_0x1d93b8(0xf7)+escapeHtml(_0x2991c1)+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22calculator-bar\x22\x20aria-hidden=\x22true\x22><i></i></span>'+_0x254e0a+'\x0a\x20\x20\x20\x20\x20\x20</div>';}function _0x2e2337(_0x3fc745,_0x2909d3){const _0x505ab4=_0x133feb,_0x1d4ea9=_0x3fc745[_0x505ab4(0x196)];if(!_0x3fc745[_0x505ab4(0x141)]||!_0x1d4ea9)return'<article\x20class=\x22calculator-card\x22\x20data-calculator-card=\x22'+_0x2909d3+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22calculator-card__selector\x22><div\x20class=\x22calculator-specimen-picker\x22><input\x20type=\x22search\x22\x20value=\x22'+escapeHtml(_0x3fc745[_0x505ab4(0x15d)]?.[_0x505ab4(0x1c1)]||'')+_0x505ab4(0x183)+(_0x1c496d['length']>0x1?_0x505ab4(0x1c3)+escapeHtml(_0x3fc745['summary']?.['name']||_0x505ab4(0x1bb)+(_0x2909d3+0x1))+_0x505ab4(0x194):'')+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x3fc745[_0x505ab4(0x11d)]?_0x505ab4(0xd9):_0x3fc745[_0x505ab4(0x140)]?_0x505ab4(0x16f)+escapeHtml(_0x3fc745[_0x505ab4(0x140)])+_0x505ab4(0x17b):_0x505ab4(0x146))+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20</article>';const _0x418d8b=_0x3fc745['model'],_0x3134ed=skinImageUrl(_0x418d8b,_0x3fc745[_0x505ab4(0x157)]),_0x449079=typeIconUrl(_0x418d8b[_0x505ab4(0x10a)]),_0x2f46ac=Array[_0x505ab4(0x1a6)](String(_0x418d8b[_0x505ab4(0x124)]||'')[_0x505ab4(0x11e)]())[_0x505ab4(0x154)](_0x51da1a=>/^[a-fn]$/[_0x505ab4(0x103)](_0x51da1a))['map'](_0x4eb2e7=>_0x505ab4(0x13f)+geneIconUrl(_0x4eb2e7)+_0x505ab4(0x188)+_0x4eb2e7['toUpperCase']()+'\x22\x20title=\x22Gene\x20'+_0x4eb2e7[_0x505ab4(0x11f)]()+_0x505ab4(0x1c4))[_0x505ab4(0x113)]('');return _0x3fc745[_0x505ab4(0x196)]=_0x1d4ea9,_0x505ab4(0xe0)+_0x2909d3+'\x22\x20style=\x22--calculator-type:'+escapeHtml(_0x418d8b[_0x505ab4(0x10c)]||_0x505ab4(0x180))+_0x505ab4(0x17d)+escapeHtml(_0x418d8b[_0x505ab4(0x1c1)])+_0x505ab4(0x183)+(_0x1c496d[_0x505ab4(0xe7)]>0x1?_0x505ab4(0x1c3)+escapeHtml(_0x418d8b['name'])+'\x22>×</button>':'')+_0x505ab4(0x117)+escapeHtml(_0x3134ed)+_0x505ab4(0x144)+escapeHtml(_0x418d8b[_0x505ab4(0x1c1)])+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22calculator-card__genes\x22>'+(_0x2f46ac||'<span\x20class=\x22calculator-gene--empty\x22>—</span>')+_0x505ab4(0x116)+function(_0x5a9f48){const _0x1bf894=_0x505ab4,_0x55653e=window[_0x1bf894(0x105)][_0x1bf894(0x1bd)](_0x5a9f48[_0x1bf894(0x141)]);return _0x55653e[_0x1bf894(0xe7)]<0x2?'':_0x1bf894(0x156)+_0x55653e[_0x1bf894(0x133)](_0x3ef0f2=>'<button\x20class=\x22calculator-skin'+(_0x3ef0f2[_0x1bf894(0x14b)]===_0x5a9f48['skin']?_0x1bf894(0x13a):'')+_0x1bf894(0xf5)+escapeHtml(_0x3ef0f2[_0x1bf894(0x14b)])+_0x1bf894(0x143)+escapeHtml(_0x3ef0f2[_0x1bf894(0xfa)])+_0x1bf894(0x187)+escapeHtml(_0x3ef0f2[_0x1bf894(0xfa)])+_0x1bf894(0x11a)+escapeHtml(skinTabIconUrl(_0x3ef0f2))+_0x1bf894(0x1a7)+escapeHtml(skinTabIconFallbackUrl(_0x3ef0f2))+'\x22\x20alt=\x22\x22\x20onerror=\x22if(this.dataset.fallback){this.src=this.dataset.fallback;this.removeAttribute(\x27data-fallback\x27)}else{this.hidden=true}\x22><span>'+escapeHtml(_0x3ef0f2[_0x1bf894(0xfa)])+_0x1bf894(0x174))[_0x1bf894(0x113)]('')+_0x1bf894(0x11c);}(_0x3fc745)+_0x505ab4(0x14a)+escapeHtml(_0x418d8b[_0x505ab4(0x1c1)])+_0x505ab4(0x12d)+escapeHtml(_0x449079)+_0x505ab4(0x131)+escapeHtml(_0x418d8b['typeLabel']||_0x418d8b[_0x505ab4(0x10a)]||_0x505ab4(0x162))+_0x505ab4(0x1a4)+escapeHtml(String(_0x3fc745[_0x505ab4(0xd7)]))+_0x505ab4(0x1aa)+function(_0x287aa7){const _0x457789=_0x505ab4,_0x298548=_0x287aa7[_0x457789(0x141)][_0x457789(0xf3)];return _0x298548?orbSlotMarkup(_0x298548,_0x287aa7[_0x457789(0x13c)],_0x287aa7['model']):_0x457789(0x1b5);}(_0x3fc745)+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22calculator-stats\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x2044a3(_0x3fc745,_0x505ab4(0x18d),_0x505ab4(0x1a2),API_CONFIG[_0x505ab4(0xe3)][_0x505ab4(0x1ab)][_0x505ab4(0x18d)],null,_0x2909d3)+_0x505ab4(0x142)+_0x2044a3(_0x3fc745,'attack1',_0x1d4ea9[_0x505ab4(0x158)]['attack1Name']||_0x505ab4(0x176),'',_0x1d4ea9[_0x505ab4(0x18b)][0x0],_0x2909d3)+_0x505ab4(0x142)+_0x2044a3(_0x3fc745,_0x505ab4(0x17a),_0x1d4ea9[_0x505ab4(0x158)]['attack2Name']||_0x505ab4(0x112),'',_0x1d4ea9['attacks'][0x1],_0x2909d3)+_0x505ab4(0x142)+_0x2044a3(_0x3fc745,_0x505ab4(0xf2),_0x505ab4(0x15f),API_CONFIG['assets'][_0x505ab4(0x1ab)][_0x505ab4(0xf2)],null,_0x2909d3)+_0x505ab4(0xf1);}function _0x3d9724(_0x439383){const _0x4a0e44=_0x133feb,_0x573f29=_0x439383[_0x4a0e44(0x153)]('.calculator-card__name');if(_0x573f29){_0x573f29['classList']['remove'](_0x4a0e44(0xd2));let _0x171d3d=0x1a;for(_0x573f29[_0x4a0e44(0x10f)]['fontSize']=_0x171d3d+'px';_0x171d3d>0xe&&_0x573f29['scrollWidth']>_0x573f29[_0x4a0e44(0x148)]+0.5;)_0x171d3d-=0x1,_0x573f29['style'][_0x4a0e44(0x14c)]=_0x171d3d+'px';_0x573f29[_0x4a0e44(0xe2)]>_0x573f29[_0x4a0e44(0x148)]+0.5&&(_0x573f29['classList'][_0x4a0e44(0xf0)](_0x4a0e44(0xd2)),_0x573f29[_0x4a0e44(0x10f)][_0x4a0e44(0x14c)]=_0x4a0e44(0x126));}_0x439383['querySelectorAll'](_0x4a0e44(0x199))['forEach'](_0x4499f1=>{const _0x20f625=_0x4a0e44;let _0x3f0b8c=Number(_0x4499f1[_0x20f625(0xec)][_0x20f625(0x181)])||0x10;for(_0x4499f1[_0x20f625(0x10f)][_0x20f625(0x14c)]=_0x3f0b8c+'px';_0x3f0b8c>0x7&&_0x4499f1[_0x20f625(0xe2)]>_0x4499f1['clientWidth']+0.5;)_0x3f0b8c-=0.5,_0x4499f1['style'][_0x20f625(0x14c)]=_0x3f0b8c+'px';});}function _0x20493e(){const _0x4999ae=_0x133feb;_0x1c496d['forEach'](_0x28bdda=>{const _0x3931e0=_0x2957;_0x28bdda[_0x3931e0(0x196)]=function(_0x367542){const _0x39c211=_0x3931e0;if(!_0x367542['model'])return null;const _0x249892=_0x367542[_0x39c211(0x141)],_0x26e3db=window[_0x39c211(0x105)]['calculate'](_0x249892,_0x367542[_0x39c211(0xd7)],_0x367542[_0x39c211(0x157)]),_0x55f9cf=window[_0x39c211(0x105)]['applyOrbEffectsToStats'](_0x26e3db,Object[_0x39c211(0x100)](_0x367542[_0x39c211(0x13c)]),{'baseAbilityType':_0x249892[_0x39c211(0xda)]?.[_0x39c211(0x15a)](';')[0x0]?.[_0x39c211(0x15a)](':')[0x1]}),_0x4cc6c7=String(_0x249892[_0x39c211(0x15b)]||_0x39c211(0x1b2))[_0x39c211(0x11e)](),_0x102fdf=[0x1,0x2][_0x39c211(0x133)](_0x20a60c=>{const _0x2b4646=_0x39c211,_0x199b80=_0x55f9cf[_0x2b4646(0x1a3)+_0x20a60c+'State'],_0x4415dc=_0x199b80[_0x2b4646(0x109)]===_0x20a60c+'p'?_0x2b4646(0xfb)+_0x20a60c+'p':_0x2b4646(0xfb)+_0x20a60c,_0x58da7f=_0x249892[_0x2b4646(0xda)]?.[_0x2b4646(0x15a)](';')[_0x20a60c-0x1]?.[_0x2b4646(0x15a)](':')[0x1]||'',_0x100d33=_0x2b4646(0x1b2)===_0x4cc6c7||_0x4cc6c7===_0x2b4646(0xfb)+_0x20a60c,_0x5a81a9=_0x55f9cf[_0x2b4646(0x1a1)+_0x20a60c+_0x2b4646(0x136)],_0x401443=_0x100d33&&_0x5a81a9&&'No\x20information'!==_0x5a81a9,_0x4873e4=_0x55f9cf[_0x2b4646(0xfb)+_0x20a60c+_0x2b4646(0xf4)];return{'value':_0x55f9cf[_0x2b4646(0xfb)+_0x20a60c+'F'],'geneIcon':attackGeneIconUrl(_0x199b80[_0x2b4646(0x12f)],_0x249892[_0x4415dc]),'ability':_0x401443?_0x5a81a9:'','abilityIcon':_0x401443&&_0x58da7f?abilityIconUrl(_0x58da7f):'','abilityValue':_0x401443?_0x55f9cf[_0x2b4646(0xfb)+_0x20a60c+_0x2b4646(0x191)]:0x0,'addedAbility':_0x55f9cf['addedAbilityName']&&_0x4873e4?{'name':_0x55f9cf[_0x2b4646(0x104)],'icon':abilityIconUrl(_0x55f9cf[_0x2b4646(0x104)]),'value':_0x4873e4}:null};});return{'model':_0x249892,'calculated':_0x55f9cf,'values':{'life':Number(_0x55f9cf[_0x39c211(0x15e)])||0x0,'attack1':Number(_0x55f9cf[_0x39c211(0x14e)])||0x0,'attack2':Number(_0x55f9cf[_0x39c211(0x13d)])||0x0,'speed':Number(_0x55f9cf['speedF'])||0x0},'attacks':_0x102fdf};}(_0x28bdda);}),_0x2b0ce9['innerHTML']=_0x1c496d[_0x4999ae(0x133)]((_0x42c43d,_0xb89236)=>'<label\x20class=\x22calculator-control\x20calculator-level-control\x22\x20for=\x22calculatorLevel'+_0xb89236+_0x4999ae(0xe8)+escapeHtml(_0x42c43d[_0x4999ae(0x15d)]?.['name']||'Specimen\x20'+(_0xb89236+0x1))+_0x4999ae(0x1a9)+_0xb89236+_0x4999ae(0x19d)+_0x42c43d[_0x4999ae(0xd7)]+_0x4999ae(0x164)+escapeHtml(_0x42c43d[_0x4999ae(0x15d)]?.['name']||_0x4999ae(0x1bb)+(_0xb89236+0x1))+_0x4999ae(0x19e))[_0x4999ae(0x113)](''),_0x4497a1[_0x4999ae(0xf6)]=_0x1c496d[_0x4999ae(0x133)](_0x2e2337)[_0x4999ae(0x113)](''),_0x4497a1[_0x4999ae(0x198)](_0x4999ae(0x12c))['forEach'](_0x132063=>{const _0xd14f03=_0x4999ae,_0x2ad544=_0x1c496d[Number(_0x132063[_0xd14f03(0x127)](_0xd14f03(0x1c0))[_0xd14f03(0xec)][_0xd14f03(0x120)])];_0x132063[_0xd14f03(0x1b9)](_0xd14f03(0x140),()=>{const _0x20ca16=_0xd14f03;_0x132063[_0x20ca16(0xec)]['baseFallback']?_0x132063[_0x20ca16(0xec)][_0x20ca16(0x119)]?_0x132063[_0x20ca16(0x171)]=!0x0:(_0x132063[_0x20ca16(0xec)][_0x20ca16(0x119)]=_0x20ca16(0x107),_0x132063[_0x20ca16(0x132)]=thumbnailSkinImage(_0x2ad544['model'][_0x20ca16(0x177)],_0x20ca16(0xe1))):(_0x132063['dataset'][_0x20ca16(0x19f)]=_0x20ca16(0x107),_0x132063[_0x20ca16(0x132)]=specimenSkinImage(_0x2ad544[_0x20ca16(0x141)][_0x20ca16(0x177)],'basic'));});}),_0x4497a1[_0x4999ae(0x198)](_0x4999ae(0x182))[_0x4999ae(0x166)](_0x3d9724),_0x4e94df[_0x4999ae(0x153)](_0x4999ae(0xea))[_0x4999ae(0xd3)]=_0x1c496d[_0x4999ae(0xe7)]>=0x5,_0x4e94df[_0x4999ae(0x153)](_0x4999ae(0xea))[_0x4999ae(0x171)]=!_0x1ee89a,_0x4e94df[_0x4999ae(0x153)](_0x4999ae(0x145))[_0x4999ae(0x171)]=!_0x1ee89a,_0xe571eb[_0x4999ae(0x171)]=!0x0;}const _0x354b41=()=>requestAnimationFrame(()=>{const _0x4033b1=_0x133feb;_0x4497a1[_0x4033b1(0x198)](_0x4033b1(0x182))[_0x4033b1(0x166)](_0x3d9724);});function _0x15eb2a(_0x4fa89a,_0x4cfb09='categories'){const _0xff651f=_0x133feb,_0x4fd720=Number(_0x4fa89a['closest']('[data-calculator-card]')?.[_0xff651f(0xec)]['calculatorCard']),_0x1b3030=_0x1c496d[_0x4fd720],_0x30715b=_0x4fa89a[_0xff651f(0xec)]['orbKind']||_0xff651f(0xe1),_0x79b9f1=_0x4fa89a[_0xff651f(0x153)](_0xff651f(0xfd));if(!_0x1b3030||!_0x79b9f1)return;const _0x260307=Number(_0x4fa89a[_0xff651f(0xec)]['orbSlot']);if(_0xff651f(0x12b)===_0x4cfb09){const _0x1b2575=_0x79b9f1[_0xff651f(0xec)][_0xff651f(0x19b)]||'',_0x5ccdf0=window['MGG_ORBS']?.[_0x30715b]?.[_0x1b2575]||[];return void(_0x79b9f1[_0xff651f(0xf6)]='<button\x20class=\x22orb-picker__back\x22\x20type=\x22button\x22\x20data-orb-back>←\x20Back</button><div\x20class=\x22orb-picker__items\x22>'+_0x5ccdf0[_0xff651f(0x133)](_0x37ae37=>_0xff651f(0x17f)+escapeHtml(_0x37ae37['id'])+_0xff651f(0x1bc)+escapeHtml(orbImageUrl(_0x37ae37['id']))+_0xff651f(0x160)+escapeHtml(_0x37ae37[_0xff651f(0x1c1)])+_0xff651f(0x174))[_0xff651f(0x113)]('')+_0xff651f(0x11b));}const _0x3cad6b=orbAllowedTypes(_0x30715b,_0x1b3030[_0xff651f(0x141)],_0x1b3030[_0xff651f(0x13c)]),_0x27b708=Object[_0xff651f(0x18a)](window[_0xff651f(0x12a)]?.[_0x30715b]||{})[_0xff651f(0x154)](([_0x58e71f])=>_0x3cad6b[_0xff651f(0x1ac)]('special'===_0x30715b?_0x58e71f:_0x58e71f['replace'](/^add/,'')[_0xff651f(0x11e)]())),_0x4679cc=_0x1b3030[_0xff651f(0x13c)][_0x260307]?_0xff651f(0x10b):'';_0x79b9f1['dataset'][_0xff651f(0x19b)]='',_0x79b9f1[_0xff651f(0xf6)]=_0x27b708[_0xff651f(0xe7)]?_0xff651f(0x121)+_0x4679cc+_0x27b708['map'](([_0xaaf06a])=>_0xff651f(0x169)+escapeHtml(_0xaaf06a)+'\x22>'+escapeHtml(window['MGG_STATS'][_0xff651f(0x17e)](_0xaaf06a))+_0xff651f(0xe9))['join']('')+_0xff651f(0x11b):_0xff651f(0x129);}window[_0x133feb(0x1b9)]('resize',_0x354b41,{'passive':!0x0}),document[_0x133feb(0xef)]&&document[_0x133feb(0xef)]['ready'][_0x133feb(0x122)](_0x354b41),_0x4497a1[_0x133feb(0x1b9)](_0x133feb(0x139),_0x4e41aa=>{const _0x25f1c8=_0x133feb,_0x59a5ac=_0x4e41aa[_0x25f1c8(0x17c)]['closest'](_0x25f1c8(0x192));if(_0x59a5ac){const _0x44873f=_0x59a5ac[_0x25f1c8(0x127)](_0x25f1c8(0x1c0)),_0x482b8b=Number(_0x44873f[_0x25f1c8(0xec)][_0x25f1c8(0x120)]),_0x42558c=_0x16748f[Number(_0x59a5ac['dataset'][_0x25f1c8(0x1ba)])];if(!_0x42558c)return;return _0x1c496d[_0x482b8b]={'summary':_0x42558c,'model':null,'skin':null,'orbs':{},'level':_0x1c496d[_0x482b8b]['level'],'error':'','loading':!0x0},_0x139370(_0x1c496d[_0x482b8b]),void _0x20493e();}const _0x4121d4=_0x4e41aa[_0x25f1c8(0x17c)][_0x25f1c8(0x127)](_0x25f1c8(0x13e));if(_0x25f1c8(0x18f)===_0x4121d4?.[_0x25f1c8(0xec)][_0x25f1c8(0xeb)]){if(_0x1c496d[_0x25f1c8(0xe7)]<=0x1)return;if(_0x1c496d[_0x25f1c8(0x1a8)](Number(_0x4121d4[_0x25f1c8(0x127)](_0x25f1c8(0x1c0))[_0x25f1c8(0xec)][_0x25f1c8(0x120)]),0x1),0x1===_0x1c496d[_0x25f1c8(0xe7)]){_0x1ee89a=!0x1,_0x4d226b[_0x25f1c8(0xec)]['compare']='off';const _0x2eeefe=_0x4e94df['querySelector'](_0x25f1c8(0xd4));_0x2eeefe[_0x25f1c8(0x14d)][_0x25f1c8(0x18f)]('is-on'),_0x2eeefe['setAttribute'](_0x25f1c8(0x190),_0x25f1c8(0xfe)),_0x2eeefe[_0x25f1c8(0x155)]=_0x25f1c8(0x18c);}return void _0x20493e();}const _0x315807=_0x4e41aa[_0x25f1c8(0x17c)][_0x25f1c8(0x127)](_0x25f1c8(0x15c));if(_0x315807)return _0x1c496d[Number(_0x315807['closest'](_0x25f1c8(0x1c0))['dataset'][_0x25f1c8(0x120)])]['skin']=_0x315807[_0x25f1c8(0xec)][_0x25f1c8(0x195)],void _0x20493e();const _0x1dc29a=_0x4e41aa[_0x25f1c8(0x17c)]['closest']('[data-orb-picker]');if(_0x1dc29a){const _0x1fce2a=_0x1dc29a['closest'](_0x25f1c8(0x178)),_0x59ed3c=_0x1fce2a[_0x25f1c8(0x153)](_0x25f1c8(0xfd)),_0x1c0bdf=_0x59ed3c[_0x25f1c8(0x171)];return _0x4497a1[_0x25f1c8(0x198)](_0x25f1c8(0xfd))['forEach'](_0x110d38=>{const _0x31cf86=_0x25f1c8;_0x110d38[_0x31cf86(0x171)]=!0x0;}),_0x59ed3c['hidden']=!_0x1c0bdf,void(_0x1c0bdf&&_0x15eb2a(_0x1fce2a,_0x25f1c8(0x170)));}const _0x23e41e=_0x4e41aa[_0x25f1c8(0x17c)][_0x25f1c8(0x127)]('[data-orb-menu]');if(!_0x23e41e)return;const _0x12c28c=_0x23e41e[_0x25f1c8(0x127)](_0x25f1c8(0x178));if(_0x4e41aa[_0x25f1c8(0x17c)]['closest']('[data-orb-back]'))return void _0x15eb2a(_0x12c28c);const _0x87c16e=_0x4e41aa['target']['closest'](_0x25f1c8(0xd6)),_0x3daea5=Number(_0x12c28c[_0x25f1c8(0xec)]['orbSlot']),_0x92c1f9=_0x1c496d[Number(_0x12c28c[_0x25f1c8(0x127)](_0x25f1c8(0x1c0))[_0x25f1c8(0xec)][_0x25f1c8(0x120)])];if(_0x87c16e)return delete _0x92c1f9[_0x25f1c8(0x13c)][_0x3daea5],void _0x20493e();const _0x285921=_0x4e41aa[_0x25f1c8(0x17c)][_0x25f1c8(0x127)]('[data-orb-group]');if(_0x285921&&_0x285921!==_0x23e41e&&!_0x4e41aa[_0x25f1c8(0x17c)][_0x25f1c8(0x127)](_0x25f1c8(0x189)))return _0x23e41e[_0x25f1c8(0xec)]['orbGroup']=_0x285921[_0x25f1c8(0xec)]['orbGroup'],void _0x15eb2a(_0x12c28c,'levels');const _0x16d796=_0x4e41aa[_0x25f1c8(0x17c)]['closest'](_0x25f1c8(0x189));if(_0x16d796){const _0x1c8595=[...orbEntries(_0x25f1c8(0xe1)),...orbEntries(_0x25f1c8(0xff))][_0x25f1c8(0x115)](_0x40aab2=>_0x40aab2['id']===_0x16d796[_0x25f1c8(0xec)]['orbLevelId']);_0x1c8595&&(_0x92c1f9[_0x25f1c8(0x13c)][_0x3daea5]=_0x1c8595),_0x20493e();}}),_0x4497a1['addEventListener'](_0x133feb(0x12e),_0x52c4ca=>{const _0x4d1cd5=_0x133feb;_0x52c4ca['target'][_0x4d1cd5(0x123)](_0x4d1cd5(0xf8))&&function(_0x8e8250){const _0x241f91=_0x4d1cd5,_0x8ba5e7=_0x8e8250['closest'](_0x241f91(0x184))[_0x241f91(0x153)](_0x241f91(0x185)),_0x5be59a=_0x8e8250['value']['trim']()[_0x241f91(0x11e)](),_0x534d59=_0x16748f[_0x241f91(0x154)](_0x1938a8=>!_0x5be59a||(_0x1938a8['name']+'\x20'+_0x1938a8[_0x241f91(0x177)]+'\x20'+(_0x1938a8[_0x241f91(0x124)]||''))[_0x241f91(0x11e)]()[_0x241f91(0x1ac)](_0x5be59a))['slice'](0x0,0xc);_0x8ba5e7[_0x241f91(0xf6)]=_0x534d59[_0x241f91(0x133)](_0x26777c=>'<button\x20class=\x22calculator-specimen-result\x22\x20type=\x22button\x22\x20role=\x22option\x22\x20data-calculator-select=\x22'+_0x16748f[_0x241f91(0x1b3)](_0x26777c)+'\x22>'+escapeHtml(_0x26777c[_0x241f91(0x1c1)])+'<span>'+escapeHtml(_0x26777c['typeLabel']||_0x26777c[_0x241f91(0x10a)]||'')+'</span></button>')['join']('')||_0x241f91(0xdc),_0x8ba5e7[_0x241f91(0x171)]=!0x1;}(_0x52c4ca[_0x4d1cd5(0x17c)]);}),_0x2b0ce9[_0x133feb(0x1b9)](_0x133feb(0x110),_0xb1401d=>{const _0x40001b=_0x133feb;if(!_0xb1401d['target'][_0x40001b(0x123)](_0x40001b(0xdb)))return;_0x1c496d[Number(_0xb1401d['target']['id'][_0x40001b(0x16d)](_0x40001b(0x1b1),''))][_0x40001b(0xd7)]=Math[_0x40001b(0x181)](0x1,Number[_0x40001b(0x149)](_0xb1401d['target'][_0x40001b(0xee)],0xa)||0x1),_0x20493e();}),_0x4e94df[_0x133feb(0x1b9)]('click',_0x191bda=>{const _0x3951a7=_0x133feb;_0x191bda[_0x3951a7(0x17c)][_0x3951a7(0x127)](_0x3951a7(0x184))||_0x4497a1[_0x3951a7(0x198)](_0x3951a7(0x185))[_0x3951a7(0x166)](_0xeca84a=>{const _0x3497cf=_0x3951a7;_0xeca84a[_0x3497cf(0x171)]=!0x0;});if(_0x191bda['target'][_0x3951a7(0x127)](_0x3951a7(0xea))){if(_0x1c496d[_0x3951a7(0xe7)]>=0x5)return;return _0x4e901c(),void _0x20493e();}const _0x23c931=_0x191bda[_0x3951a7(0x17c)]['closest'](_0x3951a7(0xd4));if(_0x23c931)return _0x1ee89a=!_0x1ee89a,_0x1ee89a&&0x1===_0x1c496d[_0x3951a7(0xe7)]?_0x4e901c(_0x1c496d[0x0][_0x3951a7(0xd7)]):!_0x1ee89a&&_0x1c496d[_0x3951a7(0xe7)]>0x1&&_0x1c496d[_0x3951a7(0x1a8)](0x1),_0x4d226b['dataset']['compare']=_0x1ee89a?'on':'off',_0x23c931[_0x3951a7(0x14d)][_0x3951a7(0x1b8)](_0x3951a7(0x151),_0x1ee89a),_0x23c931[_0x3951a7(0x186)](_0x3951a7(0x190),String(_0x1ee89a)),_0x23c931['textContent']=_0x1ee89a?'Compare\x20on':_0x3951a7(0x18c),void _0x20493e();}),_0x11add5[_0x133feb(0x1b9)](_0x133feb(0x110),()=>{const _0x571171=_0x133feb;_0xf25db=_0x11add5[_0x571171(0xee)],_0x20493e();});try{[_0x55818e,_0x4dcd5e,_0x3fc9f4,_0x3649af]=await Promise['all']([loadIndex(),loadAbilitiesConfig(),loadGachaConfig(),loadOrbsConfig()]),window[_0x133feb(0xe4)]=_0x3fc9f4,window['MGG_ORBS']=_0x3649af,_0xb88cae=_0x55818e,_0x16748f=[..._0xb88cae][_0x133feb(0xdf)]((_0x36e457,_0x1aea35)=>_0x36e457[_0x133feb(0x1c1)]['localeCompare'](_0x1aea35[_0x133feb(0x1c1)]));const _0x51c458=_0x16748f[_0x133feb(0x154)]((_0x38ed4d,_0x5803fa,_0x26a7e3)=>_0x26a7e3['findIndex'](_0x4c5dea=>_0x4c5dea[_0x133feb(0x177)]===_0x38ed4d[_0x133feb(0x177)])===_0x5803fa);if(!_0x51c458['length'])throw new Error(_0x133feb(0x125));_0xe571eb[_0x133feb(0x171)]=!0x0,(!function(_0x5518bf,_0x30b585=0x1){const _0x130b89=_0x133feb,_0x27de20={'summary':_0x5518bf,'model':null,'skin':null,'orbs':{},'level':_0x30b585,'error':'','loading':!0x0};_0x1c496d[_0x130b89(0x1be)](_0x27de20),_0x139370(_0x27de20);}(_0x51c458[_0x133feb(0x115)](_0x1dc625=>/(?:^|_)d_14$/i[_0x133feb(0x103)](_0x1dc625[_0x133feb(0x177)]))||_0x51c458[0x0]),_0x20493e());}catch(_0xa047e0){_0xe571eb['classList'][_0x133feb(0x18f)](_0x133feb(0x11d)),_0xe571eb[_0x133feb(0x155)]=_0xa047e0[_0x133feb(0x193)]||_0x133feb(0x172);}var _0xb88cae;}});
+window.MGG_CALCULATOR = {
+  async init() {
+    document.title = 'MGG Wiki | Calculator';
+    const page = document.getElementById('pageContent');
+    page.innerHTML = `<section class="section section--tight calculator-page" data-compare="off">
+      <div class="section__head">
+        <div><h1>Calculator</h1><p class="section__lede">Compare specimen stats, skins and orb combinations.</p></div>
+      </div>
+      <div class="calculator-toolbar">
+        <button class="btn btn--small btn--outline" type="button" data-calculator-action="compare" aria-pressed="false">Compare off</button>
+        <div class="calculator-level-controls" id="calculatorLevels" aria-label="Specimen levels"></div>
+        <label class="calculator-control calculator-palette" hidden>Colors
+          <select id="calculatorPalette"><option value="rank">By ranking</option><option value="specimen">By specimen</option></select>
+        </label>
+        <button class="btn btn--small btn--outline" type="button" data-calculator-action="export" hidden disabled>Download comparison JPG</button>
+        <button class="btn btn--small btn--primary" type="button" data-calculator-action="add" hidden>Add specimen</button>
+      </div>
+      <p class="calculator-status loading" id="calculatorStatus">Loading specimen catalog...</p>
+      <div class="calculator-grid" id="calculatorCards"></div>
+    </section>`;
+
+    const calculatorPage = page.querySelector('.calculator-page');
+    const catalogHost = document.getElementById('calculatorCards');
+    const status = document.getElementById('calculatorStatus');
+    const levelControls = document.getElementById('calculatorLevels');
+    const paletteInput = document.getElementById('calculatorPalette');
+    const exportButton = page.querySelector('[data-calculator-action="export"]');
+    let catalog;
+    let sortedCatalog = [];
+    let abilities;
+    let gacha;
+    let orbConfig;
+    let compare = false;
+    let palette = 'rank';
+    const detailCache = new Map();
+    const states = [];
+    let html2CanvasPromise;
+
+    function loadHtml2Canvas() {
+      if (window.html2canvas) return Promise.resolve(window.html2canvas);
+      if (!html2CanvasPromise) {
+        html2CanvasPromise = new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
+          script.crossOrigin = 'anonymous';
+          script.onload = () => {
+            if (window.html2canvas) resolve(window.html2canvas);
+            else reject(new Error('The JPG capture library did not load.'));
+          };
+          script.onerror = () => reject(new Error('Unable to load the JPG capture library.'));
+          document.head.appendChild(script);
+        });
+      }
+      return html2CanvasPromise;
+    }
+
+    async function verifyImageExportAccess(images) {
+      const checkedOrigins = new Set();
+      for (const image of images) {
+        const source = new URL(image.currentSrc || image.src, window.location.href);
+        if (source.origin === window.location.origin || checkedOrigins.has(source.origin)) continue;
+        checkedOrigins.add(source.origin);
+        const probe = new Image();
+        probe.crossOrigin = 'anonymous';
+        probe.src = source.href;
+        try {
+          await probe.decode();
+          const canvas = document.createElement('canvas');
+          canvas.width = 1;
+          canvas.height = 1;
+          canvas.getContext('2d').drawImage(probe, 0, 0, 1, 1);
+          canvas.toDataURL('image/jpeg');
+        } catch {
+          throw new Error(`The image server blocks JPG export from ${window.location.origin}.`);
+        }
+      }
+    }
+
+    async function exportComparison() {
+      if (states.length < 2 || states.some(state => !state.model || state.loading || state.error)) return;
+      exportButton.disabled = true;
+      exportButton.textContent = 'Preparing JPG...';
+      status.classList.add('loading');
+      status.textContent = 'Preparing comparison image...';
+      status.hidden = false;
+      try {
+        await document.fonts?.ready;
+        const cards = [...catalogHost.querySelectorAll('.calculator-card img:not([hidden])')];
+        await Promise.all(cards.map(image => image.decode()));
+        await verifyImageExportAccess(cards);
+        const html2canvas = await loadHtml2Canvas();
+        const canvas = await html2canvas(catalogHost, {
+          backgroundColor: getComputedStyle(document.body).backgroundColor,
+          scale: 2,
+          useCORS: true,
+          allowTaint: false,
+          logging: false,
+          onclone: clonedDocument => {
+            const sourceCards = [...catalogHost.querySelectorAll('.calculator-card')];
+            clonedDocument.querySelectorAll('.calculator-card__hero').forEach((hero, index) => {
+              const typeColor = getComputedStyle(sourceCards[index]).getPropertyValue('--calculator-type').trim();
+              const match = typeColor.match(/^#([0-9a-f]{6})$/i);
+              if (!match) throw new Error('Unable to preserve specimen colors in the JPG.');
+              const channels = [0, 2, 4].map(offset => Number.parseInt(match[1].slice(offset, offset + 2), 16));
+              const glow = `rgba(${channels.join(',')},0.24)`;
+              const background = getComputedStyle(sourceCards[index].querySelector('.calculator-card__hero')).backgroundColor;
+              hero.style.background = `radial-gradient(70% 60% at 50% 88%,${glow},transparent 72%),${background}`;
+            });
+          }
+        });
+        const blob = await new Promise((resolve, reject) => {
+          canvas.toBlob(image => image ? resolve(image) : reject(new Error('Unable to create the JPG image.')), 'image/jpeg', 0.95);
+        });
+        const downloadUrl = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = downloadUrl;
+        link.download = `mgg-comparison-${new Date().toISOString().slice(0, 10)}.jpg`;
+        link.click();
+        setTimeout(() => URL.revokeObjectURL(downloadUrl), 1000);
+        status.classList.remove('loading');
+        status.textContent = 'JPG downloaded.';
+      } catch (error) {
+        status.classList.remove('loading');
+        status.textContent = `Unable to export comparison: ${error.message || 'unknown error'}`;
+      } finally {
+        exportButton.disabled = states.length < 2 || states.some(state => !state.model || state.loading || state.error);
+        exportButton.textContent = 'Download comparison JPG';
+      }
+    }
+
+    const sortCatalog = items => [...items].sort((a, b) => a.name.localeCompare(b.name));
+    async function loadDetail(summary) {
+      const key = summary.specimen;
+      if (!detailCache.has(key)) {
+        const request = (async () => {
+          const endpoint = API_CONFIG.api.specimen.replace('{specimen}', encodeURIComponent(key));
+          const response = await fetch(endpoint);
+          if (!response.ok) throw new Error(`Unable to load ${summary.name}`);
+          const apiDetail = await response.json();
+          return normalizeSpecimenDetail(apiDetail, {}, summary, abilities);
+        })();
+        detailCache.set(key, request);
+      }
+      return detailCache.get(key);
+    }
+
+    function loadState(state) {
+      const summary = state.summary;
+      loadDetail(summary).then(model => {
+        if (!states.includes(state)) return;
+        state.model = model;
+        state.skin = 'basic';
+        state.loading = false;
+        state.error = '';
+        draw();
+      }).catch(error => {
+        if (!states.includes(state)) return;
+        state.loading = false;
+        state.error = error.message || 'Unable to load specimen stats.';
+        draw();
+      });
+    }
+
+    function addState(summary, level = 1) {
+      const state = { summary, model: null, skin: null, orbs: {}, level, error: '', loading: true };
+      states.push(state);
+      loadState(state);
+      return state;
+    }
+
+    function addEmptyState(level = 1) {
+      states.push({ summary: null, model: null, skin: null, orbs: {}, level, error: '', loading: false });
+    }
+
+    function orbMarkup(state) {
+      const slots = state.model.orbSlots;
+      return slots ? orbSlotMarkup(slots, state.orbs, state.model) : '<p class="calculator-empty-orbs">No orb slots available.</p>';
+    }
+
+    function resultsFor(state) {
+      if (!state.model) return null;
+      const model = state.model;
+      const base = window.MGG_STATS.calculate(model, state.level, state.skin);
+      const calculated = window.MGG_STATS.applyOrbEffectsToStats(base, Object.values(state.orbs), {
+        baseAbilityType: model.abilities?.split(';')[0]?.split(':')[1]
+      });
+      const normalizedAppliesTo = String(model.appliesTo || 'both').toLowerCase();
+      const attacks = [1, 2].map(index => {
+        const attackState = calculated[`attack${index}State`];
+        const field = attackState.selectedKey === `${index}p` ? `atk${index}p` : `atk${index}`;
+        const abilityKey = model.abilities?.split(';')[index - 1]?.split(':')[1] || '';
+        const abilityApplies = normalizedAppliesTo === 'both' || normalizedAppliesTo === `atk${index}`;
+        const configuredAbility = calculated[`ability${index}Name`];
+        const hasConfiguredAbility = abilityApplies && configuredAbility && configuredAbility !== 'No information';
+        const addedAbilityValue = calculated[`atk${index}AddedAbilityF`];
+        return {
+          value: calculated[`atk${index}F`],
+          geneIcon: attackGeneIconUrl(attackState.gene, model[field]),
+          ability: hasConfiguredAbility ? configuredAbility : '',
+          abilityIcon: hasConfiguredAbility && abilityKey ? abilityIconUrl(abilityKey) : '',
+          abilityValue: hasConfiguredAbility ? calculated[`atk${index}BaseAbilityF`] : 0,
+          addedAbility: calculated.addedAbilityName && addedAbilityValue ? {
+            name: calculated.addedAbilityName,
+            icon: abilityIconUrl(calculated.addedAbilityName),
+            value: addedAbilityValue
+          } : null
+        };
+      });
+      return {
+        model,
+        calculated,
+        values: {
+          life: Number(calculated.lifeF) || 0,
+          attack1: Number(calculated.atk1F) || 0,
+          attack2: Number(calculated.atk2F) || 0,
+          speed: Number(calculated.speedF) || 0
+        },
+        attacks
+      };
+    }
+
+    function comparison(metric, current, currentIndex) {
+      if (!compare) return { rank: 0, color: '', percent: 100, difference: '' };
+      const entries = states.map((state, index) => ({ index, value: state.result?.values[metric] }))
+        .filter(entry => entry.value !== undefined && Number.isFinite(entry.value));
+      const value = current.values[metric];
+      if (entries.length < 2) return { rank: 0, color: '', percent: 100, difference: '' };
+      const rank = 1 + entries.filter(entry => entry.value > value).length;
+      const equal = entries.every(entry => entry.value === entries[0].value);
+      const rankColors = {
+        2: ['green', 'red'],
+        3: ['green', 'cyan', 'red'],
+        4: ['green', 'cyan', 'blue', 'red'],
+        5: ['green', 'cyan', 'blue', 'amber', 'red']
+      }[entries.length];
+      const specimenColors = ['red', 'cyan', 'blue', 'green', 'amber'];
+      const color = palette === 'specimen'
+        ? specimenColors[currentIndex]
+        : (equal ? '' : rankColors[rank - 1]);
+      const others = entries.filter(entry => entry.index !== currentIndex).map(entry => entry.value);
+      const reference = rank === 1 ? Math.max(...others) : Math.max(...entries.map(entry => entry.value));
+      const difference = value - reference;
+      return {
+        rank,
+        color,
+        percent: Math.max(6, (value / (Math.max(...entries.map(entry => entry.value)) || 1)) * 100),
+        difference: difference === 0 ? '=' : `${difference > 0 ? '+' : '−'}${formatStatValue(Math.abs(difference))}`
+      };
+    }
+
+    function skillMarkup(attack) {
+      if (!attack.ability && !attack.addedAbility) return '';
+      const primary = attack.ability
+        ? `<span class="calculator-skill__base" title="${escapeHtml(attack.ability)}"><span class="calculator-skill__icon"><img src="${escapeHtml(attack.abilityIcon)}" alt="" onerror="this.hidden=true"></span><span class="calculator-fit" data-max="12">${formatStatValue(attack.abilityValue) || '–'}</span></span>`
+        : '';
+      const added = attack.addedAbility
+        ? `<span class="calculator-added-skill" title="${escapeHtml(attack.addedAbility.name)}"><img src="${escapeHtml(attack.addedAbility.icon)}" alt="" onerror="this.hidden=true"><strong class="calculator-fit" data-max="12">${formatStatValue(attack.addedAbility.value)}</strong></span>`
+        : '';
+      return `<div class="calculator-skill">${primary}${added}</div>`;
+    }
+
+    function metricMarkup(state, metric, label, icon, attack, index) {
+      const info = comparison(metric, state.result, index);
+      const color = info.color ? `var(--calculator-${info.color})` : 'var(--text-muted)';
+      const barWidth = `${info.percent}%`;
+      const ranking = states.length > 2 && info.rank ? `<span class="calculator-rank" style="background:${color}">${info.rank}</span>` : '';
+      const difference = info.difference ? `<span class="calculator-difference calculator-fit" data-max="11">${info.difference}</span>` : '';
+      const ability = attack ? skillMarkup(attack) : '';
+      const iconMarkup = icon ? `<img src="${escapeHtml(icon)}" alt="" onerror="this.hidden=true">` : '';
+      const value = metric === 'speed' ? state.result.calculated.speedF : formatStatValue(state.result.values[metric]);
+      return `<div class="calculator-row${attack ? ' calculator-row--attack' : ''}" style="--calculator-stat-color:${color};--calculator-bar-width:${barWidth}">
+        <span class="calculator-stat-icon">${attack ? `<img src="${escapeHtml(attack.geneIcon)}" alt="" onerror="this.hidden=true">` : iconMarkup}</span>
+        <span class="calculator-row__label">${escapeHtml(label)}${ranking}${difference}</span>
+        <strong class="calculator-fit calculator-row__value" data-max="19">${escapeHtml(value)}</strong>
+        <span class="calculator-bar" aria-hidden="true"><i></i></span>${ability}
+      </div>`;
+    }
+
+    function skinMarkup(state) {
+      const options = window.MGG_STATS.getSkinOptions(state.model);
+      if (options.length < 2) return '';
+      return `<div class="calculator-skins" aria-label="Specimen skin">
+        ${options.map(option => `<button class="calculator-skin${option.key === state.skin ? ' is-active' : ''}" type="button" data-calculator-skin="${escapeHtml(option.key)}" title="${escapeHtml(option.label)}" aria-label="${escapeHtml(option.label)}"><img src="${escapeHtml(skinTabIconUrl(option))}" data-fallback="${escapeHtml(skinTabIconFallbackUrl(option))}" alt="" onerror="if(this.dataset.fallback){this.src=this.dataset.fallback;this.removeAttribute('data-fallback')}else{this.hidden=true}"><span>${escapeHtml(option.label)}</span></button>`).join('')}
+      </div>`;
+    }
+
+    function cardMarkup(state, index) {
+      const result = state.result;
+      if (!state.model || !result) {
+        return `<article class="calculator-card" data-calculator-card="${index}">
+          <div class="calculator-card__selector"><div class="calculator-specimen-picker"><input type="search" value="${escapeHtml(state.summary?.name || '')}" placeholder="Search specimen..." aria-label="Search specimen" autocomplete="off" data-calculator-search><div class="calculator-specimen-results" role="listbox" hidden></div></div>${states.length > 1 ? `<button class="calculator-remove" type="button" data-calculator-action="remove" aria-label="Remove ${escapeHtml(state.summary?.name || `specimen ${index + 1}`)}">×</button>` : ''}</div>
+          ${state.loading ? '<p class="loading calculator-card__message">Loading specimen stats...</p>' : state.error ? `<p class="calculator-card__message calculator-card__error">${escapeHtml(state.error)}</p>` : '<p class="calculator-card__message">Choose a specimen to compare.</p>'}
+        </article>`;
+      }
+
+      const mutant = state.model;
+      const image = skinImageUrl(mutant, state.skin);
+      const typeImage = typeIconUrl(mutant.type);
+      const geneIcons = Array.from(String(mutant.dna || '').toLowerCase())
+        .filter(gene => /^[a-fn]$/.test(gene))
+        .map(gene => `<img class="calculator-gene" src="${geneIconUrl(gene)}" alt="Gene ${gene.toUpperCase()}" title="Gene ${gene.toUpperCase()}" onerror="this.hidden=true">`)
+        .join('');
+      state.result = result;
+      return `<article class="calculator-card" data-calculator-card="${index}" style="--calculator-type:${escapeHtml(mutant.typeColor || 'var(--plasma)')}">
+        <div class="calculator-card__selector"><div class="calculator-specimen-picker"><input type="search" value="${escapeHtml(mutant.name)}" placeholder="Search specimen..." aria-label="Search specimen" autocomplete="off" data-calculator-search><div class="calculator-specimen-results" role="listbox" hidden></div></div>${states.length > 1 ? `<button class="calculator-remove" type="button" data-calculator-action="remove" aria-label="Remove ${escapeHtml(mutant.name)}">×</button>` : ''}</div>
+        <div class="calculator-card__hero">
+          <img class="calculator-card__art" src="${escapeHtml(image)}" alt="${escapeHtml(mutant.name)}">
+          <span class="calculator-card__genes">${geneIcons || '<span class="calculator-gene--empty">—</span>'}</span>
+          ${skinMarkup(state)}
+        </div>
+        <div class="calculator-card__identity">
+          <h2 class="calculator-card__name">${escapeHtml(mutant.name)}</h2>
+          <div class="calculator-card__meta">
+            <span class="calculator-card__type"><img src="${escapeHtml(typeImage)}" alt="">${escapeHtml(mutant.typeLabel || mutant.type || 'Common')}</span>
+            <span class="calculator-card__shown-level">Level ${escapeHtml(String(state.level))}</span>
+          </div>
+        </div>
+        <div class="calculator-orbs">${orbMarkup(state)}</div>
+        <div class="calculator-stats">
+          ${metricMarkup(state, 'life', 'Life', API_CONFIG.assets.icons.life, null, index)}
+          ${metricMarkup(state, 'attack1', result.calculated.attack1Name || 'Attack 1', '', result.attacks[0], index)}
+          ${metricMarkup(state, 'attack2', result.calculated.attack2Name || 'Attack 2', '', result.attacks[1], index)}
+          ${metricMarkup(state, 'speed', 'Speed', API_CONFIG.assets.icons.speed, null, index)}
+        </div>
+      </article>`;
+    }
+
+    function fitCard(card) {
+      const name = card.querySelector('.calculator-card__name');
+      if (name) {
+        name.classList.remove('is-wrapped');
+        let size = 26;
+        name.style.fontSize = `${size}px`;
+        while (size > 14 && name.scrollWidth > name.clientWidth + 0.5) {
+          size -= 1;
+          name.style.fontSize = `${size}px`;
+        }
+        if (name.scrollWidth > name.clientWidth + 0.5) {
+          name.classList.add('is-wrapped');
+          name.style.fontSize = '14px';
+        }
+      }
+      card.querySelectorAll('.calculator-fit').forEach(element => {
+        let size = Number(element.dataset.max) || 16;
+        element.style.fontSize = `${size}px`;
+        while (size > 7 && element.scrollWidth > element.clientWidth + 0.5) {
+          size -= 0.5;
+          element.style.fontSize = `${size}px`;
+        }
+      });
+    }
+
+    function draw() {
+      states.forEach(state => { state.result = resultsFor(state); });
+      levelControls.innerHTML = states.map((state, index) =>
+        `<label class="calculator-control calculator-level-control" for="calculatorLevel${index}"><span>${escapeHtml(state.summary?.name || `Specimen ${index + 1}`)} — Level</span><input id="calculatorLevel${index}" type="number" min="1" value="${state.level}" data-calculator-level aria-label="Level for ${escapeHtml(state.summary?.name || `specimen ${index + 1}`)}"></label>`
+      ).join('');
+      catalogHost.innerHTML = states.map(cardMarkup).join('');
+      catalogHost.querySelectorAll('.calculator-card__art').forEach(image => {
+        const state = states[Number(image.closest('[data-calculator-card]').dataset.calculatorCard)];
+        image.addEventListener('error', () => {
+          if (!image.dataset.baseFallback) {
+            image.dataset.baseFallback = 'true';
+            image.src = specimenSkinImage(state.model.specimen, 'basic');
+          } else if (!image.dataset.thumbnailFallback) {
+            image.dataset.thumbnailFallback = 'true';
+            image.src = thumbnailSkinImage(state.model.specimen, 'basic');
+          } else {
+            image.hidden = true;
+          }
+        });
+      });
+      catalogHost.querySelectorAll('.calculator-card').forEach(fitCard);
+      page.querySelector('[data-calculator-action="add"]').disabled = states.length >= 5;
+      page.querySelector('[data-calculator-action="add"]').hidden = !compare;
+      page.querySelector('.calculator-palette').hidden = !compare;
+      exportButton.hidden = !compare;
+      exportButton.disabled = states.length < 2 || states.some(state => !state.model || state.loading || state.error);
+      status.hidden = true;
+    }
+
+    const refitCards = () => requestAnimationFrame(() => {
+      catalogHost.querySelectorAll('.calculator-card').forEach(fitCard);
+    });
+    window.addEventListener('resize', refitCards, { passive: true });
+    if (document.fonts) document.fonts.ready.then(refitCards);
+
+    function showOrbMenu(slot, view = 'categories') {
+      const stateIndex = Number(slot.closest('[data-calculator-card]')?.dataset.calculatorCard);
+      const state = states[stateIndex];
+      const kind = slot.dataset.orbKind || 'basic';
+      const menu = slot.querySelector('[data-orb-menu]');
+      if (!state || !menu) return;
+      const slotIndex = Number(slot.dataset.orbSlot);
+      if (view === 'levels') {
+        const group = menu.dataset.orbGroup || '';
+        const entries = window.MGG_ORBS?.[kind]?.[group] || [];
+        menu.innerHTML = `<button class="orb-picker__back" type="button" data-orb-back>← Back</button><div class="orb-picker__items">${entries.map(orb => `<button class="orb-picker__option" type="button" data-orb-level-id="${escapeHtml(orb.id)}"><img class="orb-picker__option-icon" src="${escapeHtml(orbImageUrl(orb.id))}" alt=""><span>${escapeHtml(orb.name)}</span></button>`).join('')}</div>`;
+        return;
+      }
+      const allowed = orbAllowedTypes(kind, state.model, state.orbs);
+      const groups = Object.entries(window.MGG_ORBS?.[kind] || {}).filter(([group]) =>
+        allowed.includes(kind === 'special' ? group : group.replace(/^add/, '').toLowerCase()));
+      const remove = state.orbs[slotIndex] ? '<button class="orb-picker__option orb-picker__option--remove" type="button" data-orb-remove>Remove orb</button>' : '';
+      menu.dataset.orbGroup = '';
+      menu.innerHTML = groups.length
+        ? `<div class="orb-picker__items">${remove}${groups.map(([group]) => `<button class="orb-picker__option" type="button" data-orb-group="${escapeHtml(group)}">${escapeHtml(window.MGG_STATS.formatOrbTypeLabel(group))}</button>`).join('')}</div>`
+        : '<span class="calculator-orb-error">Orb options are unavailable.</span>';
+    }
+
+    function showSpecimenResults(input) {
+      const picker = input.closest('.calculator-specimen-picker');
+      const results = picker.querySelector('.calculator-specimen-results');
+      const term = input.value.trim().toLowerCase();
+      const matches = sortedCatalog.filter(mutant =>
+        !term || `${mutant.name} ${mutant.specimen} ${mutant.dna || ''}`.toLowerCase().includes(term)).slice(0, 12);
+      results.innerHTML = matches.map(mutant => {
+        const index = sortedCatalog.indexOf(mutant);
+        return `<button class="calculator-specimen-result" type="button" role="option" data-calculator-select="${index}">${escapeHtml(mutant.name)}<span>${escapeHtml(mutant.typeLabel || mutant.type || '')}</span></button>`;
+      }).join('') || '<span class="calculator-specimen-empty">No matching specimens</span>';
+      results.hidden = false;
+    }
+
+    catalogHost.addEventListener('click', event => {
+      const specimenChoice = event.target.closest('[data-calculator-select]');
+      if (specimenChoice) {
+        const card = specimenChoice.closest('[data-calculator-card]');
+        const index = Number(card.dataset.calculatorCard);
+        const summary = sortedCatalog[Number(specimenChoice.dataset.calculatorSelect)];
+        if (!summary) return;
+        states[index] = { summary, model: null, skin: null, orbs: {}, level: states[index].level, error: '', loading: true };
+        loadState(states[index]);
+        draw();
+        return;
+      }
+      const action = event.target.closest('[data-calculator-action]');
+      if (action?.dataset.calculatorAction === 'remove') {
+        if (states.length <= 1) return;
+        states.splice(Number(action.closest('[data-calculator-card]').dataset.calculatorCard), 1);
+        if (states.length === 1) {
+          compare = false;
+          calculatorPage.dataset.compare = 'off';
+          const compareButton = page.querySelector('[data-calculator-action="compare"]');
+          compareButton.classList.remove('is-on');
+          compareButton.setAttribute('aria-pressed', 'false');
+          compareButton.textContent = 'Compare off';
+        }
+        draw();
+        return;
+      }
+      const skinButton = event.target.closest('[data-calculator-skin]');
+      if (skinButton) {
+        const state = states[Number(skinButton.closest('[data-calculator-card]').dataset.calculatorCard)];
+        state.skin = skinButton.dataset.calculatorSkin;
+        draw();
+        return;
+      }
+      const orbButton = event.target.closest('[data-orb-picker]');
+      if (orbButton) {
+        const orbSlot = orbButton.closest('[data-orb-slot]');
+        const menu = orbSlot.querySelector('[data-orb-menu]');
+        const opening = menu.hidden;
+        catalogHost.querySelectorAll('[data-orb-menu]').forEach(item => { item.hidden = true; });
+        menu.hidden = !opening;
+        if (opening) showOrbMenu(orbSlot, 'categories');
+        return;
+      }
+      const menu = event.target.closest('[data-orb-menu]');
+      if (!menu) return;
+      const slot = menu.closest('[data-orb-slot]');
+      if (event.target.closest('[data-orb-back]')) {
+        showOrbMenu(slot);
+        return;
+      }
+      const removeOrb = event.target.closest('[data-orb-remove]');
+      const slotIndex = Number(slot.dataset.orbSlot);
+      const state = states[Number(slot.closest('[data-calculator-card]').dataset.calculatorCard)];
+      if (removeOrb) {
+        delete state.orbs[slotIndex];
+        draw();
+        return;
+      }
+      const group = event.target.closest('[data-orb-group]');
+      if (group && group !== menu && !event.target.closest('[data-orb-level-id]')) {
+        menu.dataset.orbGroup = group.dataset.orbGroup;
+        showOrbMenu(slot, 'levels');
+        return;
+      }
+      const levelButton = event.target.closest('[data-orb-level-id]');
+      if (levelButton) {
+        const orb = [...orbEntries('basic'), ...orbEntries('special')].find(item => item.id === levelButton.dataset.orbLevelId);
+        if (orb) state.orbs[slotIndex] = orb;
+        draw();
+      }
+    });
+
+    catalogHost.addEventListener('input', event => {
+      if (event.target.matches('[data-calculator-search]')) showSpecimenResults(event.target);
+    });
+
+    levelControls.addEventListener('change', event => {
+      if (!event.target.matches('[data-calculator-level]')) return;
+      const state = states[Number(event.target.id.replace('calculatorLevel', ''))];
+      state.level = Math.max(1, Number.parseInt(event.target.value, 10) || 1);
+      draw();
+    });
+
+    page.addEventListener('click', event => {
+      if (!event.target.closest('.calculator-specimen-picker')) {
+        catalogHost.querySelectorAll('.calculator-specimen-results').forEach(results => { results.hidden = true; });
+      }
+      const addButton = event.target.closest('[data-calculator-action="add"]');
+      if (addButton) {
+        if (states.length >= 5) return;
+        addEmptyState();
+        draw();
+        return;
+      }
+      const exportButtonClicked = event.target.closest('[data-calculator-action="export"]');
+      if (exportButtonClicked) {
+        exportComparison();
+        return;
+      }
+      const compareButton = event.target.closest('[data-calculator-action="compare"]');
+      if (compareButton) {
+        compare = !compare;
+        if (compare && states.length === 1) {
+          addEmptyState(states[0].level);
+        } else if (!compare && states.length > 1) {
+          states.splice(1);
+        }
+        calculatorPage.dataset.compare = compare ? 'on' : 'off';
+        compareButton.classList.toggle('is-on', compare);
+        compareButton.setAttribute('aria-pressed', String(compare));
+        compareButton.textContent = compare ? 'Compare on' : 'Compare off';
+        draw();
+        return;
+      }
+    });
+
+    paletteInput.addEventListener('change', () => {
+      palette = paletteInput.value;
+      draw();
+    });
+
+    try {
+      [catalog, abilities, gacha, orbConfig] = await Promise.all([
+        loadIndex(),
+        loadAbilitiesConfig(),
+        loadGachaConfig(),
+        loadOrbsConfig()
+      ]);
+      window.MGG_GACHA_CONFIG = gacha;
+      window.MGG_ORBS = orbConfig;
+      sortedCatalog = sortCatalog(catalog);
+      const initialSpecimens = sortedCatalog.filter((mutant, index, items) =>
+        items.findIndex(item => item.specimen === mutant.specimen) === index);
+      if (!initialSpecimens.length) throw new Error('No specimens are available for the calculator.');
+      status.hidden = true;
+      const testSpecimen = initialSpecimens.find(mutant => /(?:^|_)d_14$/i.test(mutant.specimen));
+      addState(testSpecimen || initialSpecimens[0]);
+      draw();
+    } catch (error) {
+      status.classList.remove('loading');
+      status.textContent = error.message || 'Unable to load the calculator.';
+    }
+  }
+};

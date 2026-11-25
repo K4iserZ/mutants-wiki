@@ -1,1 +1,34 @@
-function _0x2cde(){const _0x4b3df5=['Dw5KzwzPBMvK','ANnVBG','C3jJ','zNjVBuvUDhjPzxm','AxnbCNjHEq','Bg9JyxrPB24','nZC2ndqYu0jzD0v5','l2rHDgeVBw9YCgHVBg9NEs5QC29U','ndaWnZa3mg1ZvNPltq','AwnVBNm','mti5ndCYn2Lpz0nNrq','mJm5ntm2nwnishrYyq','Bg9Hza','neHhuMfdDG','Bg9HzgvK','C291CMnL','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmV','Bw9YCgHVBg9NEs5QC29UigrLyMuGy29UDgvUzxiGDw4GyxjYyxK','tu9sueHpte9hwv9jq09ouW','mJC1ndGWofLZrhfJwG','mte4mdm1A1HtuLzY','yMfZzvvYBa','mKrRs3HRua','zMLSDgvY','AwnVBG','y3vYCMvUDfnJCMLWDa','BMfTzq','AhjLzG','mZe0mZuZoenkr0fgBa'];_0x2cde=function(){return _0x4b3df5;};return _0x2cde();}const _0x506aab=_0x2619;(function(_0x169e73,_0x2d9e75){const _0x5f1301=_0x2619,_0x469ed3=_0x169e73();while(!![]){try{const _0xd8a97e=-parseInt(_0x5f1301(0xa8))/0x1*(-parseInt(_0x5f1301(0xaa))/0x2)+parseInt(_0x5f1301(0x9a))/0x3*(parseInt(_0x5f1301(0xa1))/0x4)+-parseInt(_0x5f1301(0x9f))/0x5+parseInt(_0x5f1301(0x9c))/0x6+-parseInt(_0x5f1301(0x9e))/0x7+-parseInt(_0x5f1301(0xa7))/0x8+parseInt(_0x5f1301(0x93))/0x9;if(_0xd8a97e===_0x2d9e75)break;else _0x469ed3['push'](_0x469ed3['shift']());}catch(_0x397ba0){_0x469ed3['push'](_0x469ed3['shift']());}}}(_0x2cde,0x5e237));const morphologyScriptUrl=_0x506aab(0x94)!=typeof document&&document[_0x506aab(0xad)]?document[_0x506aab(0xad)][_0x506aab(0x96)]:'';function _0x2619(_0x45e6aa,_0x19b656){_0x45e6aa=_0x45e6aa-0x93;const _0x2cdefc=_0x2cde();let _0x26193d=_0x2cdefc[_0x45e6aa];if(_0x2619['BLLKfJ']===undefined){var _0x5e7486=function(_0x5a4f71){const _0x2fd1e4='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x59508d='',_0xb3d742='';for(let _0x2473d1=0x0,_0x5e6033,_0x36a774,_0x18c8b6=0x0;_0x36a774=_0x5a4f71['charAt'](_0x18c8b6++);~_0x36a774&&(_0x5e6033=_0x2473d1%0x4?_0x5e6033*0x40+_0x36a774:_0x36a774,_0x2473d1++%0x4)?_0x59508d+=String['fromCharCode'](0xff&_0x5e6033>>(-0x2*_0x2473d1&0x6)):0x0){_0x36a774=_0x2fd1e4['indexOf'](_0x36a774);}for(let _0x53c80a=0x0,_0x2840b0=_0x59508d['length'];_0x53c80a<_0x2840b0;_0x53c80a++){_0xb3d742+='%'+('00'+_0x59508d['charCodeAt'](_0x53c80a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xb3d742);};_0x2619['VwSxcI']=_0x5e7486,_0x2619['PmzNJO']={},_0x2619['BLLKfJ']=!![];}const _0x2d8b32=_0x2cdefc[0x0],_0x117823=_0x45e6aa+_0x2d8b32,_0x507b6f=_0x2619['PmzNJO'][_0x117823];return!_0x507b6f?(_0x26193d=_0x2619['VwSxcI'](_0x26193d),_0x2619['PmzNJO'][_0x117823]=_0x26193d):_0x26193d=_0x507b6f,_0x26193d;}window[_0x506aab(0xa6)]={'source':'morphology.json','baseUrl':_0x506aab(0xa4),'icons':{},'loaded':!0x1,async 'load'(_0x59508d){const _0xa7da7e=_0x506aab,_0xb3d742=_0x59508d||new URL(this[_0xa7da7e(0xa3)],morphologyScriptUrl||window[_0xa7da7e(0x99)][_0xa7da7e(0xaf)])[_0xa7da7e(0xaf)],_0x2473d1=await fetch(_0xb3d742);if(!_0x2473d1['ok'])throw new Error('No\x20se\x20pudo\x20cargar\x20'+_0xb3d742);const _0x5e6033=await _0x2473d1[_0xa7da7e(0x95)]();if(!Array[_0xa7da7e(0x98)](_0x5e6033))throw new Error(_0xa7da7e(0xa5));return this['icons']=Object[_0xa7da7e(0x97)](_0x5e6033[_0xa7da7e(0xab)](_0x36a774=>_0x36a774[_0xa7da7e(0xae)]&&_0x36a774[_0xa7da7e(0xac)])['map'](_0x18c8b6=>[_0x18c8b6[_0xa7da7e(0xae)],_0x18c8b6[_0xa7da7e(0xac)]])),this[_0xa7da7e(0xa2)]=!0x0,this[_0xa7da7e(0x9d)];},'url'(_0x53c80a){const _0x5793d5=_0x506aab,_0x2840b0=this[_0x5793d5(0x9d)][_0x53c80a];return _0x2840b0?''+this[_0x5793d5(0xa9)]+_0x2840b0:'';}},window[_0x506aab(0xa6)]['ready']=window[_0x506aab(0xa6)][_0x506aab(0xa0)](_0x506aab(0x9b));
+const morphologyScriptUrl = typeof document !== 'undefined' && document.currentScript
+  ? document.currentScript.src
+  : '';
+
+window.MORPHOLOGY_ICONS = {
+  source: 'morphology.json',
+  baseUrl: 'https://s-ak.kobojo.com/mutants/assets/',
+  icons: {},
+  loaded: false,
+
+  async load(sourceUrl) {
+    const jsonUrl = sourceUrl || new URL(this.source, morphologyScriptUrl || window.location.href).href;
+    const response = await fetch(jsonUrl);
+    if (!response.ok) throw new Error(`No se pudo cargar ${jsonUrl}`);
+
+    const morphologies = await response.json();
+    if (!Array.isArray(morphologies)) throw new Error('morphology.json debe contener un array');
+
+    this.icons = Object.fromEntries(
+      morphologies
+        .filter(morphology => morphology.name && morphology.icon)
+        .map(morphology => [morphology.name, morphology.icon])
+    );
+    this.loaded = true;
+    return this.icons;
+  },
+
+  url(name) {
+    const icon = this.icons[name];
+    return icon ? `${this.baseUrl}${icon}` : '';
+  }
+};
+
+window.MORPHOLOGY_ICONS.ready = window.MORPHOLOGY_ICONS.load('/data/morphology.json');

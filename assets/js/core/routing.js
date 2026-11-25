@@ -1,1 +1,45 @@
-const _0x1cbbf7=_0x9426;function _0x19e1(){const _0x2ca012=['ywrKrxzLBNrmAxn0zw5LCG','CgfNzunVBNrLBNq','ndm5mZuZownMrvb4qG','y3jLyxrLrwXLBwvUDa','CMvZB2X2zq','l2nHBgn1Bgf0B3iUAhrTBa','CMvUzgvYu2HLBgW','mJC2nhnJvNncrW','l2r1BMDLB25ZlMH0BwW','C2XPy2u','mJC1nZu4B0XTBw9Q','yvTOCMvMxJ0IlYjD','mtiYnJvZEhrkzee','C3jJ','AgvHza','nda1nxHUr3HZuG','ntm1nde5mMTouKrHuW','tuDhx1rftvbmqvrfuW','Aw5Uzxjive1m','l211DgfUDhm','y2f0y2G','z2v0qxr0CMLIDxrL','Cg9W','Cgf0Ag5HBwu','BgvUz3rO','l3b2Ca','AhjLzG','mJqWotC5ohLREhvAsa','l2jPBMDVCW','Bg9JyxrPB24','l2j1AwXKAw5NCW','l3DLzwSTB2zMzxjZ','l3jLywn0B3iUAhrTBa','mta2oerewMDdvG','y2XPy2S','DgfYz2v0','ChjLDMvUDerLzMf1Bhq','l2jPBMDVCY5ODg1S','DgHLBG','C2nYAxb0','l3DLzwSTB2zMzxjZlMH0BwW','mtbrwLfgCKW','tuDhx1nuqvrt','yxbWzw5Kq2HPBgq','CMvWBgfJzq','mtrQEvzgrfG','mZGYmde3m1fHsvPptG','y2XVC2vZDa','tuDhx1njvevFqKftrq','l2nHBgn1Bgf0B3i','m3r4BNvcza','l2j1AwXKAw5NCY5ODg1S','Aw5PDa','l2fZC2v0CY9QCY9JywXJDwXHDg9Yl3n0yxrZlwvUz2LUzs5QCW'];_0x19e1=function(){return _0x2ca012;};return _0x19e1();}(function(_0x487c2f,_0x3ae432){const _0x48421a=_0x9426,_0x30e04e=_0x487c2f();while(!![]){try{const _0x391690=parseInt(_0x48421a(0x15b))/0x1*(-parseInt(_0x48421a(0x133))/0x2)+-parseInt(_0x48421a(0x157))/0x3+-parseInt(_0x48421a(0x130))/0x4*(-parseInt(_0x48421a(0x138))/0x5)+-parseInt(_0x48421a(0x144))/0x6*(-parseInt(_0x48421a(0x156))/0x7)+parseInt(_0x48421a(0x139))/0x8+parseInt(_0x48421a(0x12b))/0x9*(parseInt(_0x48421a(0x152))/0xa)+parseInt(_0x48421a(0x135))/0xb*(-parseInt(_0x48421a(0x14a))/0xc);if(_0x391690===_0x3ae432)break;else _0x30e04e['push'](_0x30e04e['shift']());}catch(_0x5ef6c2){_0x30e04e['push'](_0x30e04e['shift']());}}}(_0x19e1,0xb3681));let statsEnginePromise;function _0x9426(_0x501111,_0x5b3f5a){_0x501111=_0x501111-0x12b;const _0x19e14a=_0x19e1();let _0x942617=_0x19e14a[_0x501111];if(_0x9426['JPIEhu']===undefined){var _0x5aa97a=function(_0x50e648){const _0x43294c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x325469='',_0x15bf88='';for(let _0x2dec60=0x0,_0x5b4268,_0x207fe5,_0x591b0a=0x0;_0x207fe5=_0x50e648['charAt'](_0x591b0a++);~_0x207fe5&&(_0x5b4268=_0x2dec60%0x4?_0x5b4268*0x40+_0x207fe5:_0x207fe5,_0x2dec60++%0x4)?_0x325469+=String['fromCharCode'](0xff&_0x5b4268>>(-0x2*_0x2dec60&0x6)):0x0){_0x207fe5=_0x43294c['indexOf'](_0x207fe5);}for(let _0x5d5769=0x0,_0x639a6=_0x325469['length'];_0x5d5769<_0x639a6;_0x5d5769++){_0x15bf88+='%'+('00'+_0x325469['charCodeAt'](_0x5d5769)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x15bf88);};_0x9426['SrYtew']=_0x5aa97a,_0x9426['dvXhLR']={},_0x9426['JPIEhu']=!![];}const _0x41676a=_0x19e14a[0x0],_0x32acca=_0x501111+_0x41676a,_0x8fb620=_0x9426['dvXhLR'][_0x32acca];return!_0x8fb620?(_0x942617=_0x9426['SrYtew'](_0x942617),_0x9426['dvXhLR'][_0x32acca]=_0x942617):_0x942617=_0x8fb620,_0x942617;}function loadStatsEngine(){const _0x2c97ed=_0x9426;return window[_0x2c97ed(0x153)]?Promise[_0x2c97ed(0x12d)]():statsEnginePromise||(statsEnginePromise=new Promise((_0x325469,_0x15bf88)=>{const _0x24be4f=_0x2c97ed,_0x2dec60=document[_0x24be4f(0x12c)](_0x24be4f(0x150));_0x2dec60[_0x24be4f(0x136)]=window[_0x24be4f(0x159)]+_0x24be4f(0x15e),_0x2dec60['onload']=_0x325469,_0x2dec60['onerror']=()=>_0x15bf88(new Error('Unable\x20to\x20load\x20the\x20stats\x20engine')),document[_0x24be4f(0x137)][_0x24be4f(0x154)](_0x2dec60);}),statsEnginePromise);}document[_0x1cbbf7(0x15f)]('DOMContentLoaded',()=>{const _0x834049=_0x1cbbf7;window[_0x834049(0x13a)][_0x834049(0x12f)](),document[_0x834049(0x15f)](_0x834049(0x14b),_0x207fe5=>{const _0x1aaa93=_0x834049,_0x591b0a=_0x207fe5[_0x1aaa93(0x14c)][_0x1aaa93(0x158)](_0x1aaa93(0x134));_0x591b0a&&window[_0x1aaa93(0x159)]&&(_0x207fe5[_0x1aaa93(0x14d)](),window[_0x1aaa93(0x146)]['href']=url(_0x591b0a[_0x1aaa93(0x13e)](_0x1aaa93(0x143))));});const _0x5b4268=window[_0x834049(0x146)][_0x834049(0x140)][_0x834049(0x132)](window[_0x834049(0x159)][_0x834049(0x141)])[_0x834049(0x155)](/\/$/,'');/\/specimen\/[^/]+$/i['test'](_0x5b4268)?loadStatsEngine()[_0x834049(0x14f)](()=>initMutantDetailPage(_0x5b4268['split']('/')[_0x834049(0x13f)]()))['catch'](_0x5d5769=>{const _0x15e070=_0x834049;document['getElementById'](_0x15e070(0x160))[_0x15e070(0x13b)]=errorMessage(_0x5d5769);}):_0x834049(0x15a)===_0x5b4268||_0x834049(0x12e)===_0x5b4268?loadStatsEngine()['then'](()=>window['MGG_CALCULATOR']['init']())[_0x834049(0x13d)](_0x639a6=>{const _0x1308bf=_0x834049;document['getElementById'](_0x1308bf(0x160))['innerHTML']=errorMessage(_0x639a6);}):_0x834049(0x13c)===_0x5b4268||'/mutants.html'===_0x5b4268?initMutantsPage():'/reactor'===_0x5b4268||_0x834049(0x149)===_0x5b4268?initReactorPage():_0x834049(0x142)===_0x5b4268||'/pvp.html'===_0x5b4268?initPvpPage():'/dungeons'===_0x5b4268||_0x834049(0x131)===_0x5b4268?initDungeonsPage():_0x834049(0x147)===_0x5b4268||_0x834049(0x15c)===_0x5b4268?initBuildingsPage():_0x834049(0x148)===_0x5b4268||_0x834049(0x151)===_0x5b4268?initWeekOffersPage():_0x834049(0x145)===_0x5b4268||_0x834049(0x14e)===_0x5b4268?initBingosPage():window['MGG_HOME'][_0x834049(0x15d)](),initQuickSearch();});
+let statsEnginePromise;
+
+function loadStatsEngine() {
+  if (window.MGG_STATS) return Promise.resolve();
+  if (statsEnginePromise) return statsEnginePromise;
+  statsEnginePromise = new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = `${window.MGG_SITE_BASE}/assets/js/calculator/stats-engine.js`;
+    script.onload = resolve;
+    script.onerror = () => reject(new Error('Unable to load the stats engine'));
+    document.head.appendChild(script);
+  });
+  return statsEnginePromise;
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  window.MGG_TEMPLATES.renderShell();
+  document.addEventListener('click', event => {
+    const link = event.target.closest('a[href^="/"]');
+    if (!link || !window.MGG_SITE_BASE) return;
+    event.preventDefault();
+    window.location.href = url(link.getAttribute('href'));
+  });
+
+  const path = window.location.pathname.slice(window.MGG_SITE_BASE.length).replace(/\/$/, '');
+  if (/\/specimen\/[^/]+$/i.test(path)) {
+    loadStatsEngine().then(() => initMutantDetailPage(path.split('/').pop())).catch(error => {
+      document.getElementById('pageContent').innerHTML = errorMessage(error);
+    });
+  }
+  else if (path === '/calculator' || path === '/calculator.html') {
+    loadStatsEngine().then(() => window.MGG_CALCULATOR.init()).catch(error => {
+      document.getElementById('pageContent').innerHTML = errorMessage(error);
+    });
+  }
+  else if (path === '/mutants' || path === '/mutants.html') initMutantsPage();
+  else if (path === '/reactor' || path === '/reactor.html') initReactorPage();
+  else if (path === '/pvp' || path === '/pvp.html') initPvpPage();
+  else if (path === '/dungeons' || path === '/dungeons.html') initDungeonsPage();
+  else if (path === '/buildings' || path === '/buildings.html') initBuildingsPage();
+  else if (path === '/week-offers' || path === '/week-offers.html') initWeekOffersPage();
+  else if (path === '/bingos' || path === '/bingos.html') initBingosPage();
+  else window.MGG_HOME.init();
+  initQuickSearch();
+});

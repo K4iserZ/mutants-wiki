@@ -1,1 +1,284 @@
-function _0xabc4(_0x52002b,_0x3b672c){_0x52002b=_0x52002b-0x1a5;const _0x341542=_0x3415();let _0xabc436=_0x341542[_0x52002b];if(_0xabc4['sQZOsD']===undefined){var _0x44d6d9=function(_0x5c70d8){const _0x14e13e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1ae75f='',_0x154a72='';for(let _0x180dba=0x0,_0x329240,_0x40aa6f,_0x4a100f=0x0;_0x40aa6f=_0x5c70d8['charAt'](_0x4a100f++);~_0x40aa6f&&(_0x329240=_0x180dba%0x4?_0x329240*0x40+_0x40aa6f:_0x40aa6f,_0x180dba++%0x4)?_0x1ae75f+=String['fromCharCode'](0xff&_0x329240>>(-0x2*_0x180dba&0x6)):0x0){_0x40aa6f=_0x14e13e['indexOf'](_0x40aa6f);}for(let _0x4d31f5=0x0,_0x543d1f=_0x1ae75f['length'];_0x4d31f5<_0x543d1f;_0x4d31f5++){_0x154a72+='%'+('00'+_0x1ae75f['charCodeAt'](_0x4d31f5)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x154a72);};_0xabc4['TiIxWg']=_0x44d6d9,_0xabc4['iyMGgo']={},_0xabc4['sQZOsD']=!![];}const _0x39679d=_0x341542[0x0],_0x47dc35=_0x52002b+_0x39679d,_0x3e487e=_0xabc4['iyMGgo'][_0x47dc35];return!_0x3e487e?(_0xabc436=_0xabc4['TiIxWg'](_0xabc436),_0xabc4['iyMGgo'][_0x47dc35]=_0xabc436):_0xabc436=_0x3e487e,_0xabc436;}const _0x111e78=_0xabc4;(function(_0x1b62c9,_0x47f0d1){const _0x5d70fb=_0xabc4,_0xb1e57d=_0x1b62c9();while(!![]){try{const _0x47833a=parseInt(_0x5d70fb(0x213))/0x1*(-parseInt(_0x5d70fb(0x1ac))/0x2)+parseInt(_0x5d70fb(0x21b))/0x3+parseInt(_0x5d70fb(0x20a))/0x4+parseInt(_0x5d70fb(0x1e5))/0x5+parseInt(_0x5d70fb(0x1c3))/0x6*(parseInt(_0x5d70fb(0x22a))/0x7)+-parseInt(_0x5d70fb(0x1e2))/0x8+parseInt(_0x5d70fb(0x1f9))/0x9*(-parseInt(_0x5d70fb(0x21c))/0xa);if(_0x47833a===_0x47f0d1)break;else _0xb1e57d['push'](_0xb1e57d['shift']());}catch(_0x5570b4){_0xb1e57d['push'](_0xb1e57d['shift']());}}}(_0x3415,0x4919e));const API_BASE=void 0x0!==window['__BASE_URL__']?window[_0x111e78(0x205)]:document[_0x111e78(0x1f8)](_0x111e78(0x216))[_0x111e78(0x20e)][_0x111e78(0x1a8)](_0x111e78(0x1df))[0x0];function initMutantsPage(_0x1ae75f){const _0x3ce143=_0x111e78;let _0x154a72=[],_0x180dba=_0x3ce143(0x1af);function _0x329240(){const _0xacc6b8=_0x3ce143,_0x40aa6f='all'===_0x180dba?_0x154a72:_0x154a72[_0xacc6b8(0x206)](_0x4a100f=>_0x4a100f[_0xacc6b8(0x1fc)]===_0x180dba);_0x40aa6f[_0xacc6b8(0x209)]?_0x1ae75f['innerHTML']=_0x40aa6f[_0xacc6b8(0x1ce)](_0x4d31f5=>_0xacc6b8(0x1c7)+_0x4d31f5[_0xacc6b8(0x1fc)]+_0xacc6b8(0x1b3)+API_BASE+_0xacc6b8(0x204)+encodeURIComponent(_0x4d31f5[_0xacc6b8(0x1c4)])+_0xacc6b8(0x208)+initial(_0x4d31f5[_0xacc6b8(0x1cf)])+_0xacc6b8(0x21d)+escapeHtml(_0x4d31f5['name'])+_0xacc6b8(0x22d)+_0x4d31f5[_0xacc6b8(0x1fc)]+'\x22>'+rarityLabel(_0x4d31f5[_0xacc6b8(0x1fc)])+_0xacc6b8(0x1fb)+(_0x4d31f5['genes']||[])[_0xacc6b8(0x1ce)](_0x543d1f=>_0xacc6b8(0x1ef)+_0x543d1f+'\x22>'+escapeHtml(_0x543d1f)+_0xacc6b8(0x1c2))['join']('')+_0xacc6b8(0x1d0))['join'](''):_0x1ae75f['innerHTML']=_0xacc6b8(0x1ea);}fetch(API_BASE+'/api/mutants.php')[_0x3ce143(0x222)](_0x227958=>_0x227958[_0x3ce143(0x1d3)]())[_0x3ce143(0x222)](_0x323953=>{const _0x27cfe4=_0x3ce143;if(!_0x323953['ok'])throw new Error(_0x323953[_0x27cfe4(0x1e6)]||_0x27cfe4(0x200));_0x154a72=_0x323953['data'],_0x329240();})[_0x3ce143(0x207)](_0x577ffc=>{const _0x5a6ecf=_0x3ce143;_0x1ae75f['innerHTML']=_0x5a6ecf(0x231)+_0x577ffc[_0x5a6ecf(0x1b7)]+').</p>';}),document[_0x3ce143(0x1a5)](_0x3ce143(0x20b))[_0x3ce143(0x233)](_0x3b26a4=>{const _0x21dae5=_0x3ce143;_0x3b26a4['addEventListener'](_0x21dae5(0x22c),()=>{const _0x17b40a=_0x21dae5;document[_0x17b40a(0x1a5)](_0x17b40a(0x20b))['forEach'](_0x41c3d5=>_0x41c3d5[_0x17b40a(0x22e)][_0x17b40a(0x223)]('is-active')),_0x3b26a4[_0x17b40a(0x22e)][_0x17b40a(0x21e)](_0x17b40a(0x1dd)),_0x180dba=_0x3b26a4['dataset'][_0x17b40a(0x206)],_0x329240();});});}function initMutantDetailPage(_0x518639){const _0x575d38=_0x111e78,_0x1566f7=_0x518639['dataset'][_0x575d38(0x1c4)];_0x1566f7?fetch(API_BASE+_0x575d38(0x20c)+encodeURIComponent(_0x1566f7))[_0x575d38(0x222)](_0xaf0f4c=>_0xaf0f4c[_0x575d38(0x1d3)]())[_0x575d38(0x222)](_0x46b0c9=>{const _0x3a5021=_0x575d38;if(!_0x46b0c9['ok'])throw new Error(_0x46b0c9[_0x3a5021(0x1e6)]||_0x3a5021(0x1ba));renderDetail(_0x518639,_0x46b0c9[_0x3a5021(0x1d9)]);})[_0x575d38(0x207)](_0x4239e0=>{const _0x54eedc=_0x575d38;_0x518639[_0x54eedc(0x211)]=_0x54eedc(0x20d)+_0x4239e0[_0x54eedc(0x1b7)]+_0x54eedc(0x229);}):_0x518639[_0x575d38(0x211)]='<p\x20class=\x22loading\x22>No\x20se\x20especificó\x20un\x20mutante.</p>';}function renderDetail(_0x46d5b0,_0x5a004c){const _0x1994cc=_0x111e78,_0x1fab99=document[_0x1994cc(0x221)]('tpl-mutant-detail')[_0x1994cc(0x228)][_0x1994cc(0x1d1)](!0x0);_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1d8))[_0x1994cc(0x201)]=_0x5a004c['name'],_0x1fab99[_0x1994cc(0x1f8)]('[data-field=\x22name-side\x22]')[_0x1994cc(0x201)]=_0x5a004c[_0x1994cc(0x1cf)],_0x1fab99['querySelector'](_0x1994cc(0x1aa))[_0x1994cc(0x201)]=_0x5a004c[_0x1994cc(0x1be)]||_0x1994cc(0x226),_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x235))[_0x1994cc(0x201)]=_0x5a004c[_0x1994cc(0x1d2)]||'Sin\x20información\x20todavía.',_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1c9))[_0x1994cc(0x211)]='\x0a\x20\x20\x20\x20<span\x20class=\x22pill\x20pill--'+_0x5a004c[_0x1994cc(0x1fc)]+'\x22>'+rarityLabel(_0x5a004c[_0x1994cc(0x1fc)])+_0x1994cc(0x22f)+(_0x5a004c['genes']||[])['map'](_0xa8d354=>_0x1994cc(0x1ef)+_0xa8d354+'\x22>'+escapeHtml(_0xa8d354)+_0x1994cc(0x1c2))[_0x1994cc(0x1c5)]('')+_0x1994cc(0x1a7),_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x220))['innerHTML']=(_0x5a004c[_0x1994cc(0x1d5)]||[])[_0x1994cc(0x1ce)](_0x53f159=>_0x1994cc(0x1ef)+_0x53f159+'\x22>'+escapeHtml(_0x53f159)+_0x1994cc(0x1c2))['join']('\x20')||'—',_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1dc))['textContent']=_0x5a004c[_0x1994cc(0x210)]||'—',_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x215))[_0x1994cc(0x201)]=(_0x5a004c[_0x1994cc(0x1d4)]||'—')[_0x1994cc(0x1f3)](/_/g,'\x20'),_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1d6))[_0x1994cc(0x201)]=breedableLabel(_0x5a004c[_0x1994cc(0x1de)]),_0x1fab99['querySelector'](_0x1994cc(0x1ee))[_0x1994cc(0x201)]=_0x5a004c[_0x1994cc(0x1ed)]??'—',_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1b5))[_0x1994cc(0x211)]='<img\x20src=\x22'+specimenImage(_0x5a004c,!0x0)+_0x1994cc(0x237)+escapeHtml(_0x5a004c[_0x1994cc(0x1cf)])+_0x1994cc(0x1db)+specimenImage(_0x5a004c,!0x1)+'\x27\x22>';const _0x30ca12=_0x5a004c['icons']||[];_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1e0))[_0x1994cc(0x211)]=_0x30ca12[_0x1994cc(0x1ce)]((_0x31dd0f,_0x8ac867)=>'<span\x20class=\x22'+(_0x8ac867===_0x30ca12[_0x1994cc(0x209)]-0x1?_0x1994cc(0x217):'')+'\x22>'+escapeHtml(_0x31dd0f)+'</span>')[_0x1994cc(0x1c5)](''),_0x1fab99[_0x1994cc(0x1f8)](_0x1994cc(0x1e7))[_0x1994cc(0x211)]=_0x30ca12['map'](_0x2741c5=>_0x1994cc(0x1b0)+_0x2741c5[_0x1994cc(0x21a)](0x0,0x2)['toUpperCase']()+_0x1994cc(0x225)+escapeHtml(_0x2741c5)+'</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20')[_0x1994cc(0x1c5)]('')||_0x1994cc(0x1a6),_0x5a004c[_0x1994cc(0x1f7)]&&_0x5a004c[_0x1994cc(0x1f7)][_0x1994cc(0x209)]&&(_0x1fab99[_0x1994cc(0x1f8)]('[data-field=\x22larvae-block\x22]')[_0x1994cc(0x214)]=!0x1,_0x1fab99[_0x1994cc(0x1f8)]('[data-field=\x22larvae\x22]')[_0x1994cc(0x211)]=_0x5a004c[_0x1994cc(0x1f7)][_0x1994cc(0x1ce)](_0xe32bf9=>_0x1994cc(0x1f2)+escapeHtml(_0xe32bf9['slice'](0x0,0x2)[_0x1994cc(0x1ae)]())+_0x1994cc(0x1b2)+escapeHtml(_0xe32bf9)+_0x1994cc(0x1e4))[_0x1994cc(0x1c5)]('')),_0x46d5b0[_0x1994cc(0x211)]='',_0x46d5b0[_0x1994cc(0x218)](_0x1fab99),setupStats(_0x46d5b0,_0x5a004c);}function setupStats(_0x29f50f,_0x3c7b7e){const _0x3027a7=_0x111e78,_0x294c57=_0x3c7b7e['stats']&&_0x3c7b7e['stats'][_0x3027a7(0x1c0)]||{},_0x1d9f60=_0x3c7b7e[_0x3027a7(0x236)]&&_0x3c7b7e[_0x3027a7(0x236)][_0x3027a7(0x1eb)]||{},_0x1fc1c1=_0x29f50f[_0x3027a7(0x1f8)]('[data-field=\x22statsgrid\x22]'),_0x193cbe=_0x29f50f[_0x3027a7(0x1a5)](_0x3027a7(0x1fa)),_0x9bce0a=_0x29f50f[_0x3027a7(0x1f8)](_0x3027a7(0x1b9)),_0x504a14=_0x29f50f[_0x3027a7(0x1f8)](_0x3027a7(0x1b8)),_0x4edb62=_0x29f50f[_0x3027a7(0x1f8)](_0x3027a7(0x1fe)),_0x42d917=_0x29f50f[_0x3027a7(0x1f8)](_0x3027a7(0x1b4));let _0x23c56e=_0x3027a7(0x1c0);function _0x465023(){const _0xdb1c54=_0x3027a7,_0x2d5a5='upgraded'===_0x23c56e?0xa:0x0,_0x5cfe65=_0x194bcb=>(_0x294c57[_0x194bcb]??0x0)+(_0x1d9f60[_0x194bcb]??0x0)*_0x2d5a5;_0x1fc1c1[_0xdb1c54(0x211)]=_0xdb1c54(0x227)+escapeHtml(_0x294c57[_0xdb1c54(0x21f)]||_0xdb1c54(0x1f5))+_0xdb1c54(0x1b1)+_0x5cfe65(_0xdb1c54(0x1d7))+'</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22statbox\x20statbox--attack\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22statbox__label\x22>⚔\x20'+escapeHtml(_0x294c57[_0xdb1c54(0x1e3)]||'Ataque\x202')+_0xdb1c54(0x1b1)+_0x5cfe65(_0xdb1c54(0x1bc))+_0xdb1c54(0x202)+_0x5cfe65(_0xdb1c54(0x1ff))+'</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22statbox\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22statbox__label\x22>⚡\x20Velocidad</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22statbox__value\x22>'+(_0x294c57[_0xdb1c54(0x219)]??'—')+_0xdb1c54(0x232)+(_0x294c57[_0xdb1c54(0x1cb)]??'—')+_0xdb1c54(0x1c6)+escapeHtml(_0x294c57[_0xdb1c54(0x1bd)]||'—')+'</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20';}function _0x31a9d2(){const _0x1a8594=_0x3027a7,_0x2ebb45=Math[_0x1a8594(0x1e8)](0x1,parseInt(_0x4edb62[_0x1a8594(0x1ad)],0xa)||0x1),_0x22cd5f=_0x25d5d8=>(_0x294c57[_0x25d5d8]??0x0)+(_0x1d9f60[_0x25d5d8]??0x0)*(_0x2ebb45-0x1);_0x42d917[_0x1a8594(0x211)]=_0x1a8594(0x1c1)+escapeHtml(_0x294c57['attack_name_1']||_0x1a8594(0x1f5))+_0x1a8594(0x1c8)+_0x22cd5f(_0x1a8594(0x1d7))+_0x1a8594(0x224)+escapeHtml(_0x294c57['attack_name_2']||_0x1a8594(0x1a9))+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<strong>'+_0x22cd5f(_0x1a8594(0x1bc))+'</strong>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22calc__result\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span>Salud</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<strong>'+_0x22cd5f(_0x1a8594(0x1ff))+_0x1a8594(0x1cc);}_0x465023(),_0x193cbe[_0x3027a7(0x233)](_0x51df1a=>{const _0x1c423d=_0x3027a7;_0x51df1a[_0x1c423d(0x1fd)](_0x1c423d(0x22c),()=>{const _0x585984=_0x1c423d;_0x193cbe[_0x585984(0x233)](_0x41a33f=>_0x41a33f[_0x585984(0x22e)]['remove']('is-active')),_0x51df1a['classList'][_0x585984(0x21e)](_0x585984(0x1dd)),_0x23c56e=_0x51df1a[_0x585984(0x1f4)]['mode'],_0x465023();});}),_0x504a14[_0x3027a7(0x1fd)]('click',()=>{const _0x291b2b=_0x3027a7;_0x9bce0a[_0x291b2b(0x1f0)](_0x291b2b(0x214))?(_0x9bce0a[_0x291b2b(0x1ec)](_0x291b2b(0x214)),_0x504a14['classList']['add'](_0x291b2b(0x212)),_0x31a9d2()):(_0x9bce0a[_0x291b2b(0x230)](_0x291b2b(0x214),''),_0x504a14['classList'][_0x291b2b(0x223)](_0x291b2b(0x212)));}),_0x4edb62['addEventListener'](_0x3027a7(0x1bf),_0x31a9d2);}function initQuickSearch(){const _0x4630c0=_0x111e78,_0x59d05e=document[_0x4630c0(0x221)]('quickSearch');_0x59d05e&&_0x59d05e[_0x4630c0(0x1fd)](_0x4630c0(0x1ca),_0x1e60d4=>{const _0x2749ff=_0x4630c0;_0x2749ff(0x1ab)===_0x1e60d4[_0x2749ff(0x22b)]&&_0x59d05e[_0x2749ff(0x1ad)]['trim']()&&(window['location']['href']=API_BASE+'/mutants.php?q='+encodeURIComponent(_0x59d05e[_0x2749ff(0x1ad)][_0x2749ff(0x1e1)]()));});}function initial(_0x110b2f){const _0xcf111e=_0x111e78;return escapeHtml((_0x110b2f||'?')[_0xcf111e(0x1e9)](0x0)['toUpperCase']());}function specimenImage(_0x145f8e,_0x523690){const _0x1a47e9=_0x111e78;return _0x1a47e9(0x1cd)+(_0x145f8e[_0x1a47e9(0x1da)]||_0x145f8e[_0x1a47e9(0x1c4)]||'')[_0x1a47e9(0x1f3)](/^specimen_/i,'')['toLowerCase']()+(_0x523690?_0x1a47e9(0x1f1):'')+'.png';}function rarityLabel(_0xd4d90b){const _0xf60ee5=_0x111e78;return{'common':_0xf60ee5(0x1bb),'rare':_0xf60ee5(0x1b6),'epic':'Épica','legendary':_0xf60ee5(0x234)}[_0xd4d90b]||_0xd4d90b;}function breedableLabel(_0xcc32f){const _0x4bb540=_0x111e78;return{'yes':'Sí','no':'No','if_owned':_0x4bb540(0x1f6)}[_0xcc32f]||_0xcc32f||'—';}function _0x3415(){const _0x730db6=['w2rHDgeTzMLLBgq9iMfYDcjD','uMfYyq','BwvZC2fNzq','i3rVz2DSzunHBgm','i2nHBgnqyw5LBa','tM8Gzw5JB250CMfKBW','q29TW7PU','yxr0ywnRx3zHBhvLxZi','zw5LCMD5x3jLz2vU','yMLVz3jHCgH5','Aw5WDxq','yMfZzq','cIaGicaGidXKAxyGy2XHC3m9iMnHBgnFx3jLC3vSDci+cIaGicaGicaGphnWyw4+','pc9ZCgfUpG','mtHnr3L2Dei','C2X1zW','AM9PBG','jtWVzgL2pGOGicaGica8l2rPDJ4kicaGicaGpgrPDIbJBgfZCZ0IC3rHDgjVEci+cIaGicaGicaGpgrPDIbJBgfZCZ0IC3rHDgjVEf9FBgfIzwWIpVcFLiSGrw5LCMFdRwe8l2rPDJ4kicaGicaGica8zgL2ignSyxnZpsjZDgf0yM94x192ywX1zsi+','cIaGicaGidXHignSyxnZpsjTy2fYzcbTy2fYzc0T','pc9ZCgfUpGOGicaGicaGidXZDhjVBMC+','w2rHDgeTzMLLBgq9iM92zxj2Awv3lwDLBMvZiL0','A2v5zg93BG','y3jPDf9JAgfUy2u','pc9ZDhjVBMC+cIaGicaGidWVzgL2pGOGicaG','Ahr0Chm6lY9WAwnTzY5WywDLCY5KzxyVC3bLy2LTzw5ZlW','BwfW','BMfTzq','cIaGicaGicaGica8l2rPDJ4kicaGicaGica8l2rPDJ4kicaGicaGpc9HpGOGicaG','y2XVBMvoB2rL','Ag93x3rVx29IDgfPBG','ANnVBG','ywjPBgL0Eq','z2vUzxm','w2rHDgeTzMLLBgq9iMjYzwvKywjSzsjD','yxr0ywnRx3zHBhvLxZe','w2rHDgeTzMLLBgq9iM5HBwuIxq','zgf0yq','C3bLy2LTzw4','iIbZDhLSzt0ID2LKDgG6mtaWjtTOzwLNAhq6mtaWjtTVyMPLy3qTzML0oMnVBNrHAw4Iig9UzxjYB3i9iNrOAxmUB25LCNjVCJ1UDwXSo3rOAxmUC3jJpsC','w2rHDgeTzMLLBgq9iMnHDgvNB3j5iL0','AxmTywn0AxzL','yNjLzwrHyMXL','l2fZC2v0CY8','w2rHDgeTzMLLBgq9iMLJB24TDgfICYjD','DhjPBq','mZqWnJm1mLjYDuvVAW','yxr0ywnRx25HBwvFmG','pc9KAxy+cIaGicaGidWVzgL2pGOGicaG','mtm0mJm4mfPPvhz5yq','zxjYB3i','w2rHDgeTzMLLBgq9iMLJB25ZiL0','Bwf4','y2HHCKf0','phaGy2XHC3m9iMXVywrPBMCIpLnPBIbLC3bLy8oTBwvUzxmGzw4Gzxn0ysbJyxrLz29YW61HihrVzgf2W61HlJWVCd4','z3jVD3rOx3bLCL9SzxzLBa','CMvTB3zLqxr0CMLIDxrL','yMLUz28','w2rHDgeTzMLLBgq9iMjPBMDViL0','phnWyw4Gy2XHC3m9iMDLBMuGz2vUzs0T','AgfZqxr0CMLIDxrL','x3bSyxrPBNvT','cIaGicaGidXKAxyGy2XHC3m9iMLJB25JAgLWiJ4kicaGicaGica8zgL2ignSyxnZpsjPy29Uy2HPCf9FyMfKz2uIpG','CMvWBgfJzq','zgf0yxnLDa','qxrHCxvLide','u2KGEweGBg8GDgLLBMvZ','BgfYDMfL','CxvLCNLtzwXLy3rVCG','nJnQu09cEeu','i3n0yxrnB2rLic5ZD2L0y2HFx29WDa','pc9ZCgfUpGOGicaGicaGicaGpgrPDIbJBgfZCZ0IBwnHCMrFx2DLBMvZiJ4kicaGicaGicaGicaG','CMfYAxr5','ywrKrxzLBNrmAxn0zw5LCG','i2nHBgnmzxzLBa','AgvHBhrO','rxjYB3iGywWGy2fYz2fY','Dgv4DenVBNrLBNq','pc9KAxy+cIaGicaGidWVzgL2pGOGicaGica8zgL2ignSyxnZpsjZDgf0yM94iJ4kicaGicaGica8zgL2ignSyxnZpsjZDgf0yM94x19SywjLBci+4P2KifnHBhvKpc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0IC3rHDgjVEf9FDMfSDwuIpG','Bxv0yw50rgv0ywLS','l211DgfUDc5WAha/C2X1zZ0','x19cqvnfx1vstf9F','zMLSDgvY','y2f0y2G','iJ4kicaGicaGica8zgL2ignSyxnZpsjTy2fYzf9Fyxj0iJ48C3bHBIbJBgfZCZ0IBwnHCMrFx2LUAxrPywWIpG','BgvUz3rO','mJiZndGXmNzMvgfsAW','i2zPBhrLCNmGlMzPBhrLCG','l2fWAs9TDxrHBNrZlNbOCd9ZBhvNpq','phaGy2XHC3m9iMXVywrPBMCIpK5VihnLigvUy29UDhldSYbLC2uGBxv0yw50zsaO','AhjLzG','zgL2','y2f0zwDVCNK','Aw5Uzxjive1m','AxmTB24','ntiZv2TKz2LP','AgLKzgvU','w2rHDgeTzMLLBgq9iMfIAwXPDhKIxq','BgLUA1TOCMvMkJ0IC3r5BguUy3nZiL0','AxmTy3vYCMvUDa','yxbWzw5Kq2HPBgq','C3bLzwq','C2XPy2u','mtC4nZGYou9qBwXiDa','ote4odyWswLZBend','pc9ZCgfUpJWVzgL2pGOGicaGicaGidXKAxyGy2XHC3m9iM1JyxjKx19IB2r5iJ4kicaGicaGicaGidXOmZ4','ywrK','yxr0ywnRx25HBwvFmq','w2rHDgeTzMLLBgq9iMDLBMvZlwjHzgDLCYjD','z2v0rwXLBwvUDej5swq','DgHLBG','CMvTB3zL','pc9ZDhjVBMC+cIaGicaGidWVzgL2pGOGicaGica8zgL2ignSyxnZpsjJywXJx19Yzxn1BhqIpGOGicaGicaGidXZCgfUpG','pc9KAxy+cIaGicaGidXKAxyGy2XHC3m9iMLJB25JAgLWx19SywjLBci+','u2LUigLUzM9YBwfJACoZBIb0B2rHDSoTys4','cIaGicaGidXKAxyGy2XHC3m9iNn0yxrIB3GGC3rHDgjVEc0Tyxr0ywnRiJ4kicaGicaGica8zgL2ignSyxnZpsjZDgf0yM94x19SywjLBci+4PQuia','y29UDgvUDa','ks48l3a+','mteZmduYmxzACKDlwq','A2v5','y2XPy2S','pc9OmZ4kicaGicaGicaGidXZCgfUignSyxnZpsjWAwXSihbPBgWTlq','y2XHC3nmAxn0','pc9ZCgfUpGOGicaG','C2v0qxr0CMLIDxrL','phaGy2XHC3m9iMXVywrPBMCIpK5VihnLihb1zg8Gy2fYz2fYigvSignHDmoHBg9NBYaO','pc9KAxy+cIaGicaGidWVzgL2pGOGicaGica8zgL2ignSyxnZpsjZDgf0yM94iJ4kicaGicaGica8zgL2ignSyxnZpsjZDgf0yM94x19SywjLBci+8j+oRYbdCSoTDgLJBZWVzgL2pGOGicaGicaGidXKAxyGy2XHC3m9iNn0yxrIB3HFx3zHBhvLiJ4','zM9YrwfJAa','tgvNzw5KyxjPyq','w2rHDgeTzMLLBgq9iMHVD190B19VyNrHAw4Ixq','C3rHDhm','iIbHBhq9iG','CxvLCNLtzwXLy3rVCKfSBa','phaGy2XHC3m9iMXVywrPBMCIpLnPBIbPy29UB3mGCMvNAxn0CMfKB3mUpc9WpG','cIaG','C3bSAxq','qxrHCxvLidi','w2rHDgeTzMLLBgq9iMjPB2DYyxbOEsjD','rw50zxi','mJa2mM9fu09Hva','DMfSDwu','Dg9vChbLCKnHC2u','ywXS','cIaGica8zgL2ignSyxnZpsjPy29Uy2HPCci+cIaGicaGidXKAxyGy2XHC3m9iMLJB25JAgLWx19IywrNzsi+','pc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0IC3rHDgjVEf9FDMfSDwuIpG','pc9KAxy+cIaGicaGicaGpgrPDIbJBgfZCZ0IAwnVBMnOAxbFx2XHyMvSiJ4','iIbOCMvMpsi','i2nHBgnszxn1BhrZ'];_0x3415=function(){return _0x730db6;};return _0x3415();}function escapeHtml(_0x12a4fa){const _0x2728a3=_0x111e78,_0x52f2ef=document['createElement'](_0x2728a3(0x20f));return _0x52f2ef[_0x2728a3(0x201)]=_0x12a4fa??'',_0x52f2ef[_0x2728a3(0x211)];}document['addEventListener']('DOMContentLoaded',()=>{const _0x1e3bd9=_0x111e78,_0x5e6658=document['getElementById']('mutantGrid'),_0x4b21f3=document[_0x1e3bd9(0x221)](_0x1e3bd9(0x203));_0x5e6658&&initMutantsPage(_0x5e6658),_0x4b21f3&&initMutantDetailPage(_0x4b21f3),initQuickSearch();});
+/**
+ * main.js — Mutants Genetic Gladiators Wiki
+ *
+ * Todo el sitio consume /api/mutants.php (ver ese archivo). Hoy ese
+ * endpoint lee JSON local de prueba; el día que conectes la API real,
+ * este archivo no necesita cambios: solo cambia el origen de datos en
+ * config/config.php.
+ */
+
+// Ojo: BASE_URL puede ser un string vacío a propósito (proyecto en la raíz
+// del sitio), así que se compara con undefined y NO con un check "falsy".
+const API_BASE = (typeof window.__BASE_URL__ !== 'undefined')
+  ? window.__BASE_URL__
+  : document.querySelector('link[href*="style.css"]').href.split('/assets/')[0];
+
+document.addEventListener('DOMContentLoaded', () => {
+  const grid = document.getElementById('mutantGrid');
+  const detail = document.getElementById('mutantDetail');
+
+  if (grid) initMutantsPage(grid);
+  if (detail) initMutantDetailPage(detail);
+
+  initQuickSearch();
+});
+
+/* ==========================================================================
+   Página de listado (mutants.php)
+   ========================================================================== */
+function initMutantsPage(grid) {
+  let allMutants = [];
+  let activeFilter = 'all';
+
+  fetch(`${API_BASE}/api/mutants.php`)
+    .then(r => r.json())
+    .then(res => {
+      if (!res.ok) throw new Error(res.error || 'Error al cargar');
+      allMutants = res.data;
+      renderGrid();
+    })
+    .catch(err => {
+      grid.innerHTML = `<p class="loading">No se pudo cargar el catálogo (${err.message}).</p>`;
+    });
+
+  document.querySelectorAll('#filters .filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#filters .filter').forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      activeFilter = btn.dataset.filter;
+      renderGrid();
+    });
+  });
+
+  function renderGrid() {
+    const list = activeFilter === 'all'
+      ? allMutants
+      : allMutants.filter(m => m.rarity === activeFilter);
+
+    if (!list.length) {
+      grid.innerHTML = '<p class="loading">Sin especímenes en esta categoría todavía.</p>';
+      return;
+    }
+
+    grid.innerHTML = list.map(m => `
+      <a class="mcard mcard--${m.rarity}" href="${API_BASE}/mutant.php?slug=${encodeURIComponent(m.slug)}">
+        <div class="mcard__art"><span class="mcard__initial">${initial(m.name)}</span></div>
+        <div class="mcard__body">
+          <h3>${escapeHtml(m.name)}</h3>
+          <span class="pill pill--${m.rarity}">${rarityLabel(m.rarity)}</span>
+          <div class="mcard__genes">
+            ${(m.genes || []).map(g => `<span class="gene gene--${g}">${escapeHtml(g)}</span>`).join('')}
+          </div>
+        </div>
+      </a>
+    `).join('');
+  }
+}
+
+/* ==========================================================================
+   Página de ficha individual (mutant.php)
+   ========================================================================== */
+function initMutantDetailPage(container) {
+  const slug = container.dataset.slug;
+  if (!slug) {
+    container.innerHTML = '<p class="loading">No se especificó un mutante.</p>';
+    return;
+  }
+
+  fetch(`${API_BASE}/api/mutants.php?slug=${encodeURIComponent(slug)}`)
+    .then(r => r.json())
+    .then(res => {
+      if (!res.ok) throw new Error(res.error || 'No encontrado');
+      renderDetail(container, res.data);
+    })
+    .catch(err => {
+      container.innerHTML = `<p class="loading">No se encontró ese mutante (${err.message}).</p>`;
+    });
+}
+
+function renderDetail(container, m) {
+  const tpl = document.getElementById('tpl-mutant-detail');
+  const node = tpl.content.cloneNode(true);
+
+  node.querySelector('[data-field="name"]').textContent = m.name;
+  node.querySelector('[data-field="name-side"]').textContent = m.name;
+  node.querySelector('[data-field="biography"]').textContent = m.biography || 'Sin información todavía.';
+  node.querySelector('[data-field="how_to_obtain"]').textContent = m.how_to_obtain || 'Sin información todavía.';
+
+  // Overview: rareza + genes como badges rápidos
+  node.querySelector('[data-field="overview-genes"]').innerHTML = `
+    <span class="pill pill--${m.rarity}">${rarityLabel(m.rarity)}</span>
+    ${(m.genes || []).map(g => `<span class="gene gene--${g}">${escapeHtml(g)}</span>`).join('')}
+  `;
+
+  // Sidebar meta
+  node.querySelector('[data-field="genes-badges"]').innerHTML =
+    (m.genes || []).map(g => `<span class="gene gene--${g}">${escapeHtml(g)}</span>`).join(' ') || '—';
+  node.querySelector('[data-field="category"]').textContent = m.category || '—';
+  node.querySelector('[data-field="ability"]').textContent = (m.ability || '—').replace(/_/g, ' ');
+  node.querySelector('[data-field="breedable"]').textContent = breedableLabel(m.breedable);
+  node.querySelector('[data-field="bingo"]').textContent = m.bingo ?? '—';
+  const art = node.querySelector('[data-field="art"]');
+  art.innerHTML = `<img src="${specimenImage(m, true)}" alt="${escapeHtml(m.name)}" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='${specimenImage(m, false)}'">`;
+
+  // Tabs de icono (Basic/Bronze/Silver/Gold/Platinum...)
+  const iconList = m.icons || [];
+  node.querySelector('[data-field="icon-tabs"]').innerHTML = iconList
+    .map((ic, i) => `<span class="${i === iconList.length - 1 ? 'is-current' : ''}">${escapeHtml(ic)}</span>`)
+    .join('');
+
+  // Icons grid (bloque inferior)
+  node.querySelector('[data-field="icons"]').innerHTML = iconList.map(ic => `
+    <div class="iconchip">
+      <div class="iconchip__badge">${ic.slice(0, 2).toUpperCase()}</div>
+      <div class="iconchip__label">${escapeHtml(ic)}</div>
+    </div>
+  `).join('') || '<p class="loading">Sin iconos registrados.</p>';
+
+  // Larvae (opcional)
+  if (m.larvae && m.larvae.length) {
+    node.querySelector('[data-field="larvae-block"]').hidden = false;
+    node.querySelector('[data-field="larvae"]').innerHTML = m.larvae.map(l => `
+      <div class="iconchip">
+        <div class="iconchip__badge">${escapeHtml(l.slice(0, 2).toUpperCase())}</div>
+        <div class="iconchip__label">${escapeHtml(l)}</div>
+      </div>
+    `).join('');
+  }
+
+  container.innerHTML = '';
+  container.appendChild(node);
+
+  setupStats(container, m);
+}
+
+/* ---------- Stats: switch Base/Upgraded + calculadora por nivel ---------- */
+function setupStats(container, m) {
+  const base = (m.stats && m.stats.base) || {};
+  const growth = (m.stats && m.stats.growth_per_level) || {};
+  const statsgrid = container.querySelector('[data-field="statsgrid"]');
+  const switchBtns = container.querySelectorAll('#statMode .switch__opt');
+  const calcPanel = container.querySelector('#calcPanel');
+  const toggleCalcBtn = container.querySelector('#toggleCalc');
+  const calcLevelInput = container.querySelector('#calcLevel');
+  const calcResults = container.querySelector('#calcResults');
+
+  let mode = 'base';
+
+  function renderStatsgrid() {
+    // "Upgraded" es una demostración con datos de prueba: simula la forma
+    // evolucionada (base + 10 niveles de crecimiento). Sustitúyelo por los
+    // valores reales de "upgraded" cuando la API los entregue.
+    const factor = mode === 'upgraded' ? 10 : 0;
+    const val = (key) => (base[key] ?? 0) + (growth[key] ?? 0) * factor;
+
+    statsgrid.innerHTML = `
+      <div class="statbox statbox--attack">
+        <div class="statbox__label">⚔ ${escapeHtml(base.attack_name_1 || 'Ataque 1')}</div>
+        <div class="statbox__value">${val('attack_value_1')}</div>
+      </div>
+      <div class="statbox statbox--attack">
+        <div class="statbox__label">⚔ ${escapeHtml(base.attack_name_2 || 'Ataque 2')}</div>
+        <div class="statbox__value">${val('attack_value_2')}</div>
+      </div>
+      <div class="statbox">
+        <div class="statbox__label">❤ Salud</div>
+        <div class="statbox__value">${val('health')}</div>
+      </div>
+      <div class="statbox">
+        <div class="statbox__label">⚡ Velocidad</div>
+        <div class="statbox__value">${base.speed ?? '—'}</div>
+      </div>
+      <div class="statbox">
+        <div class="statbox__label">🎯 Crítico</div>
+        <div class="statbox__value">${base.crit_chance ?? '—'}%</div>
+      </div>
+      <div class="statbox">
+        <div class="statbox__label">🔋 Energía</div>
+        <div class="statbox__value">${escapeHtml(base.energy_regen || '—')}</div>
+      </div>
+    `;
+  }
+  renderStatsgrid();
+
+  switchBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      switchBtns.forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      mode = btn.dataset.mode;
+      renderStatsgrid();
+    });
+  });
+
+  toggleCalcBtn.addEventListener('click', () => {
+    const isHidden = calcPanel.hasAttribute('hidden');
+    if (isHidden) {
+      calcPanel.removeAttribute('hidden');
+      toggleCalcBtn.classList.add('is-on');
+      renderCalc();
+    } else {
+      calcPanel.setAttribute('hidden', '');
+      toggleCalcBtn.classList.remove('is-on');
+    }
+  });
+
+  calcLevelInput.addEventListener('input', renderCalc);
+
+  function renderCalc() {
+    const level = Math.max(1, parseInt(calcLevelInput.value, 10) || 1);
+    const grow = (key) => (base[key] ?? 0) + (growth[key] ?? 0) * (level - 1);
+
+    calcResults.innerHTML = `
+      <div class="calc__result">
+        <span>${escapeHtml(base.attack_name_1 || 'Ataque 1')}</span>
+        <strong>${grow('attack_value_1')}</strong>
+      </div>
+      <div class="calc__result">
+        <span>${escapeHtml(base.attack_name_2 || 'Ataque 2')}</span>
+        <strong>${grow('attack_value_2')}</strong>
+      </div>
+      <div class="calc__result">
+        <span>Salud</span>
+        <strong>${grow('health')}</strong>
+      </div>
+    `;
+  }
+}
+
+/* ==========================================================================
+   Buscador rápido del header
+   ========================================================================== */
+function initQuickSearch() {
+  const input = document.getElementById('quickSearch');
+  if (!input) return;
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && input.value.trim()) {
+      window.location.href = `${API_BASE}/mutants.php?q=${encodeURIComponent(input.value.trim())}`;
+    }
+  });
+}
+
+/* ==========================================================================
+   Helpers
+   ========================================================================== */
+function initial(name) {
+  return escapeHtml((name || '?').charAt(0).toUpperCase());
+}
+function specimenImage(m, withSkin) {
+  const specimen = (m.specimen || m.slug || '').replace(/^specimen_/i, '').toLowerCase();
+  return `https://picmg.pages.dev/specimens/${specimen}${withSkin ? '_platinum' : ''}.png`;
+}
+function rarityLabel(r) {
+  const labels = { common: 'Común', rare: 'Rara', epic: 'Épica', legendary: 'Legendaria' };
+  return labels[r] || r;
+}
+function breedableLabel(v) {
+  const labels = { yes: 'Sí', no: 'No', if_owned: 'Si ya lo tienes' };
+  return labels[v] || v || '—';
+}
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str ?? '';
+  return div.innerHTML;
+}

@@ -1,1 +1,111 @@
-(function(_0x16cb1b,_0xeda60f){const _0x37ac8c=_0x5888,_0x2abacc=_0x16cb1b();while(!![]){try{const _0x49a160=parseInt(_0x37ac8c(0x185))/0x1*(parseInt(_0x37ac8c(0x161))/0x2)+parseInt(_0x37ac8c(0x147))/0x3+-parseInt(_0x37ac8c(0x18a))/0x4+-parseInt(_0x37ac8c(0x144))/0x5*(-parseInt(_0x37ac8c(0x17e))/0x6)+-parseInt(_0x37ac8c(0x151))/0x7+parseInt(_0x37ac8c(0x149))/0x8*(parseInt(_0x37ac8c(0x165))/0x9)+-parseInt(_0x37ac8c(0x168))/0xa;if(_0x49a160===_0xeda60f)break;else _0x2abacc['push'](_0x2abacc['shift']());}catch(_0x272fcb){_0x2abacc['push'](_0x2abacc['shift']());}}}(_0x53af,0x95ad2));function _0x53af(){const _0x5f2cd2=['DgH1BwjUywLSCW','phnLy3rPB24Gy2XHC3m9iNnLy3rPB24GC2vJDgLVBI0TDgLNAhqGyMLUz28TCgfNzsi+pgrPDIbJBgfZCZ0IC2vJDgLVBL9FAgvHzci+pgrPDJ48Ade+pgLTzYbZCMm9iG','iIb0AxrSzt0I','DgHLBG','pc9KAxy+phnWyw4+Ea','Aw5Hy3rPDMu','pgrPDIbJBgfZCZ0IyMLUz28TyM9HCMrFx2HLywrLCIi+','zMLUza','pc9KAxy+pc9KAxy+phnLy3rPB24Gy2XHC3m9iMjPBMDVlxjLD2fYzhmIpJXKAxyGy2XHC3m9iNnLy3rPB25Fx2HLywqIpJXOmZ5szxDHCMrZpc9OmZ48C3bHBJ4','z2v0rwXLBwvUDej5swq','C3rHDhvZ','Dg9mB3DLCKnHC2u','Bw9YCgHVBg9NEq','Bw9YCgHVBg9NEurHDge','mJC2nunTC0jqva','sw52ywXPzcbIAw5NBYbYzxnWB25Zzq','Aw5Uzxjive1m','mJyZndG2n3LXAeXuDa','CMv3yxjKCW','oe1XCKTksW','igjPBMDVlxjLD2fYzc0TC3bLy2LHBa','pgrPDIbJBgfZCZ0IyMLUz28TyM9HCMrFx3jVDY1SywjLBci+','BwLU','BgvUz3rO','AxnbCNjHEq','ywrKrxzLBNrmAxn0zw5LCG','l2fZC2v0CY9PBwCVDgH1BwjUywLSCY9Py29Ux211DgfUDhmUCg5N','ndy0nJC4mMTTru1MBq','pgrPDIbJBgfZCZ0IyMLUz28TyM9HCMrFx3jLD2fYzc1OzwfKzxiIigfYAweTBgfIzwW9iKnVBhvTBIbYzxDHCMrZiJ48l2rPDJ4','pgrPDIbJBgfZCZ0IyMLUz28Ty2vSBci+pgLTzYbZCMm9iG','Aw5KzxHy','iIbVBMvYCM9Ypsj0AgLZlMHPzgrLBJ10CNvLiJ4','y2f0y2G','pc9ZCgfUpJWVyNv0Dg9UpG','phnWyw4Gy2XHC3m9iMjPBMDVlxbPy2TLCL9Fy29WEsi+phnWyw4Gy2XHC3m9iMjPBMDVlxbPy2TLCL9FBMfTzsi+','yMLUz29qAwnRzxi','Aw5KzxHz','E25HBwv9','pgrPDIbJBgfZCZ0IyMLUz28TyM9HCMrFx3jLD2fYzc1OzwfKzxiIigfYAweTBgfIzwW9iKXPBMuGCMv3yxjKCYi+pc9KAxy+','Dg9Nz2XL','yxbP','DgfYz2v0','y2XPy2S','mMnkwLj2CG','y29SCW','lNbUzW','phnTywXSignSyxnZpsjIAw5NBY1WAwnRzxjFx3n0yxr1CYi+qxjJAgL2zwq8l3nTywXSpG','nJGZnZaWm1rhzevAta','zNjVBq','C3bLy2LHBa','mtyZndm0mZbIBfvjDu4','iIbHBhq9iG','yMLUz29qCMv2Aw91CW','BgLUzxm','AxmTywn0AxzL','phaGy2XHC3m9iMXVywrPBMCIpKXVywrPBMCGyMLUz28GC3rYDwn0DxjLlI4Upc9WpG','igf2ywLSywjSztWVC3bHBJ48l2rPDJ48l3nLy3rPB24+','zM9YrwfJAa','DhLWzq','pc9OmJ4','yxnZzxrZ','uMv3yxjK','yMLUz29ozxH0','yMLUz29oyw1L','BMfTzq','iIbHBhq9iIi+','z3jPze5HBwu','jYi+pc9KAxy+','CxvLCNLtzwXLy3rVCKfSBa','igLZlwfJDgL2zq','C2nYB2XSsw50B1zPzxC','Bwf4','mtiYnZbnDNfOu3G','DhjPBq','CxvLCNLtzwXLy3rVCG','iIb0ExbLpsjIDxr0B24IigrHDgeTyMLUz28TBMfTzt0I','ANnVBG','AwnVBG','CgfNzunVBNrLBNq','mtiWndK5n01uvMvnCW','pc9ZCgfUpG','pgLTzYbZCMm9iG','AM9PBG','BMvHCMvZDa','ndi1mdm4mg93tfntEq','tM8GyMLUz29Zigf2ywLSywjSzq','l2fZC2v0CY9PBwCVDgH1BwjUywLSCY9TB3jWAg9SB2D5lNbUzYiGywX0psiIpKjPBMDVCZWVAde+phaGy2XHC3m9iNnLy3rPB25Fx2XLzguIpKv4CgXVCMuGzxzLCNKGyxzHAwXHyMXLigjPBMDVigjVyxjKigfUzcbPDhmGCMv3yxjKCY48l3a+pc9KAxy+pc9KAxy+pgrPDIbJBgfZCZ0IyMLUz28TCgLJA2vYlw5HDIi+pgj1DhrVBIbJBgfZCZ0IyMLUz28TCgLJA2vYlw5HDL9FyNv0Dg9UiIbPzd0IyMLUz29qCMv2Aw91CYiGDhLWzt0IyNv0Dg9UiIbHCMLHlwXHyMvSpsjqCMv2Aw91CYbIAw5NBYi+jMX0oZWVyNv0Dg9UpJXKAxyGy2XHC3m9iMjPBMDVlxbPy2TLCIiGAwq9iMjPBMDVugLJA2vYiJ48CcbJBgfZCZ0IBg9HzgLUzYi+tg9HzgLUzYbIAw5NB3mUlI48l3a+pc9KAxy+pgj1DhrVBIbJBgfZCZ0IyMLUz28TCgLJA2vYlw5HDL9FyNv0Dg9UiIbPzd0IyMLUz29ozxH0iIb0ExbLpsjIDxr0B24IigfYAweTBgfIzwW9iK5LEhqGyMLUz28IpIzNDdS8l2j1DhrVBJ48l2rPDJ48zgL2ignSyxnZpsjIAw5NBY12Awv3iIbPzd0IyMLUz29wAwv3iJ48CcbJBgfZCZ0IBg9HzgLUzYi+u2vSzwn0igeGyMLUz28GDg8GC2vLigL0CYbZDhj1y3r1CMuUpc9WpJWVzgL2pJWVC2vJDgLVBJ4','pgrPDIbJBgfZCZ0IyMLUz28TCMv3yxjKigjPBMDVlxjLD2fYzc0TAw5SAw5L','w2rHDgeTyMLUz28TBMfTzv0','pc9ZCgfUpJWVzgL2pG','z3jPza','lMjPBMDVlxbPy2TLCL9FAxrLBq','CMvWBgfJzq','BwfW','C3bLy2LTzw5jza','pgrPDIbJBgfZCZ0IyMLUz28TCMv3yxjKigjPBMDVlxjLD2fYzc0Tzw1WDhKIpJWVzgL2pG','l2fZC2v0CY9PBwCVDgH1BwjUywLSCY8','zgf0yxnLDa','vw5HyMXLihrVigXVywqGDgHLigjPBMDVCW','z3jPzeLJB24','CM9VDa','y2vUDgvY','Bg9JyxrPB24','z3jPzeLK','y2XVC2vZDa','pc9KAxy+','pgj1DhrVBIbJBgfZCZ0IyMLUz28TCgLJA2vYx19PDgvT','vw5HyMXLihrVigXVywqGDgHPCYbIAw5NBW'];_0x53af=function(){return _0x5f2cd2;};return _0x53af();}function initBingosPage(){const _0x3357aa=_0x5888;document[_0x3357aa(0x13f)](_0x3357aa(0x184))['innerHTML']=_0x3357aa(0x137)+SITE_BASE+_0x3357aa(0x18c),loadBingoCatalog()[_0x3357aa(0x139)](_0x2cb968=>{const _0x4c8146=_0x3357aa;if(!_0x2cb968['length'])throw new Error(_0x4c8146(0x18b));const _0x5b7383=new URLSearchParams(window[_0x4c8146(0x130)]['search'])['get'](_0x4c8146(0x124)),_0xafbab7=_0x2cb968['find'](_0x3fe0e3=>_0x3fe0e3[_0x4c8146(0x176)]===_0x5b7383||_0x3fe0e3[_0x4c8146(0x131)]===_0x5b7383)||_0x2cb968[0x0];renderBingoPicker(_0x2cb968,_0xafbab7[_0x4c8146(0x176)]),selectBingo(_0xafbab7);})[_0x3357aa(0x156)](_0x29f163=>{const _0x1719aa=_0x3357aa;document[_0x1719aa(0x13f)](_0x1719aa(0x159))[_0x1719aa(0x146)]=errorMessage(_0x29f163);});}async function loadBingoCatalog(){const _0xd2ceb0=_0x5888,_0x3b74b7=await fetch(API_CONFIG[_0xd2ceb0(0x15e)][_0xd2ceb0(0x142)]);if(!_0x3b74b7['ok'])throw new Error(_0xd2ceb0(0x12c));const _0x4058f4=await _0x3b74b7['json']();if(!Array[_0xd2ceb0(0x14e)](_0x4058f4))throw new Error(_0xd2ceb0(0x145));return _0x4058f4;}function renderBingoPicker(_0x39977b,_0x555d5d){const _0x219136=_0x5888,_0x440837=document[_0x219136(0x13f)](_0x219136(0x159));_0x440837['innerHTML']=_0x39977b[_0x219136(0x127)](_0x37f5a1=>{const _0x11cd1e=_0x219136,_0x4f25a2=_0x11cd1e(0x13b)===String(_0x37f5a1[_0x11cd1e(0x140)]||'')['toLowerCase']();return _0x11cd1e(0x134)+(_0x37f5a1[_0x11cd1e(0x176)]===_0x555d5d?_0x11cd1e(0x17b):'')+(_0x4f25a2?'\x20is-archived':'')+_0x11cd1e(0x181)+escapeHtml(_0x37f5a1[_0x11cd1e(0x176)])+'\x22>'+bingoIconMarkup(_0x37f5a1,'')+_0x11cd1e(0x158)+escapeHtml(_0x37f5a1['gridName']||_0x37f5a1['name'])+_0x11cd1e(0x186)+(_0x4f25a2?_0x11cd1e(0x164):'')+_0x11cd1e(0x157);})[_0x219136(0x188)]('');const _0x5ee700=_0x9de729=>{const _0x93563d=_0x219136,_0x31b08e=_0x39977b['findIndex'](_0x2291b8=>_0x2291b8[_0x93563d(0x176)]===_0x440837[_0x93563d(0x180)]('.is-active')?.[_0x93563d(0x12b)][_0x93563d(0x175)]),_0xe4d73=Math[_0x93563d(0x14c)](Math[_0x93563d(0x17d)](_0x31b08e+_0x9de729,0x0),_0x39977b[_0x93563d(0x14d)]-0x1),_0xbd4d41=_0x440837[_0x93563d(0x17a)](_0x93563d(0x125))[_0xe4d73];_0xbd4d41&&_0xbd4d41['click']();};document[_0x219136(0x13f)](_0x219136(0x16a))[_0x219136(0x14f)]('click',()=>_0x5ee700(-0x1)),document[_0x219136(0x13f)](_0x219136(0x174))[_0x219136(0x14f)](_0x219136(0x160),()=>_0x5ee700(0x1)),_0x440837[_0x219136(0x14f)](_0x219136(0x160),_0x34f7b5=>{const _0x2254ec=_0x219136,_0x2d9a5a=_0x34f7b5[_0x2254ec(0x15f)][_0x2254ec(0x132)](_0x2254ec(0x18e));_0x2d9a5a&&(_0x440837[_0x2254ec(0x17a)]('.bingo-picker__item')[_0x2254ec(0x16f)](_0xcd61aa=>_0xcd61aa['classList'][_0x2254ec(0x15d)](_0x2254ec(0x16c),_0xcd61aa===_0x2d9a5a)),_0x2d9a5a[_0x2254ec(0x17c)]({'behavior':'smooth','block':_0x2254ec(0x189),'inline':_0x2254ec(0x12f)}),selectBingo(_0x39977b['find'](_0x4d59b7=>_0x4d59b7[_0x2254ec(0x176)]===_0x2d9a5a['dataset']['bingoName'])));});}function _0x5888(_0x42a5e9,_0x44df9f){_0x42a5e9=_0x42a5e9-0x123;const _0x53afe9=_0x53af();let _0x58887e=_0x53afe9[_0x42a5e9];if(_0x5888['pSHEKi']===undefined){var _0x5e92d5=function(_0x1b441e){const _0x1ec3bf='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2cb968='',_0x5b7383='';for(let _0xafbab7=0x0,_0x3fe0e3,_0x29f163,_0x3b74b7=0x0;_0x29f163=_0x1b441e['charAt'](_0x3b74b7++);~_0x29f163&&(_0x3fe0e3=_0xafbab7%0x4?_0x3fe0e3*0x40+_0x29f163:_0x29f163,_0xafbab7++%0x4)?_0x2cb968+=String['fromCharCode'](0xff&_0x3fe0e3>>(-0x2*_0xafbab7&0x6)):0x0){_0x29f163=_0x1ec3bf['indexOf'](_0x29f163);}for(let _0x4058f4=0x0,_0x39977b=_0x2cb968['length'];_0x4058f4<_0x39977b;_0x4058f4++){_0x5b7383+='%'+('00'+_0x2cb968['charCodeAt'](_0x4058f4)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5b7383);};_0x5888['qTJxon']=_0x5e92d5,_0x5888['iGSoZX']={},_0x5888['pSHEKi']=!![];}const _0x4992fd=_0x53afe9[0x0],_0x37eec7=_0x42a5e9+_0x4992fd,_0x40b2ff=_0x5888['iGSoZX'][_0x37eec7];return!_0x40b2ff?(_0x58887e=_0x5888['qTJxon'](_0x58887e),_0x5888['iGSoZX'][_0x37eec7]=_0x58887e):_0x58887e=_0x40b2ff,_0x58887e;}async function selectBingo(_0x4be42f){const _0x32a318=_0x5888,_0x13db43=document[_0x32a318(0x13f)]('bingoView');_0x13db43['innerHTML']=_0x32a318(0x16d);try{const _0x59f562=API_CONFIG[_0x32a318(0x15e)][_0x32a318(0x143)][_0x32a318(0x126)](_0x32a318(0x15b),encodeURIComponent(_0x4be42f[_0x32a318(0x176)])),_0xa3eca8=await fetch(_0x59f562);if(!_0xa3eca8['ok'])throw new Error(_0x32a318(0x135));renderBingo(_0x13db43,_0x4be42f,await _0xa3eca8[_0x32a318(0x182)]());}catch(_0x3a81a4){_0x13db43[_0x32a318(0x146)]=errorMessage(_0x3a81a4);}}function renderBingo(_0x338fea,_0xd6c40c,_0x4bacea){const _0x5114a4=_0x5888,_0x4b4961=_0x4bacea['headers']||{},_0x56e0dd=_0x4b4961[_0x5114a4(0x162)]||[],_0x563988=_0x4b4961[_0x5114a4(0x16b)]||[],_0x3cf8bd=_0x4bacea[_0x5114a4(0x16b)]||[],_0x1886ad=_0x4bacea[_0x5114a4(0x148)]||{},_0x257120=_0x3cf8bd['flatMap'](_0x262190=>(_0x262190[_0x5114a4(0x162)]||[])[_0x5114a4(0x127)](_0x1f082c=>({..._0x1f082c,'indexY':_0x262190['indexY']}))),_0x311d03=Math[_0x5114a4(0x17d)](_0x56e0dd[_0x5114a4(0x14d)],..._0x257120[_0x5114a4(0x127)](_0x24badc=>Number(_0x24badc[_0x5114a4(0x154)])+0x1),0x0),_0x59f588=Math['max'](_0x3cf8bd['length'],..._0x257120[_0x5114a4(0x127)](_0x20dd1e=>Number(_0x20dd1e[_0x5114a4(0x15a)])+0x1),0x0),_0x3d9ddb=Array[_0x5114a4(0x166)]({'length':_0x59f588},(_0x156ce1,_0x1c01f7)=>Array[_0x5114a4(0x166)]({'length':_0x311d03},(_0x1ba4bb,_0x4c78a3)=>_0x257120[_0x5114a4(0x13d)](_0x1c1f95=>Number(_0x1c1f95['indexX'])===_0x4c78a3&&Number(_0x1c1f95[_0x5114a4(0x15a)])===_0x1c01f7))),_0x3c7251=_0x1886ad['lines']||[],_0x4333f3=_0x1886ad['cols']||[],_0x49bcd5=_0x1886ad[_0x5114a4(0x167)]?.[0x0],_0x3f0d39=_0x3c7251['length']+_0x4333f3[_0x5114a4(0x14d)]+(_0x49bcd5?0x1:0x0);_0x338fea[_0x5114a4(0x146)]='<div\x20class=\x22bingo-heading\x22><div\x20class=\x22bingo-heading__identity\x22><p\x20class=\x22bingo-heading__eyebrow\x22>Bingo\x20board</p><div\x20class=\x22bingo-heading__name\x22><h2>'+escapeHtml(_0xd6c40c['gridName']||_0x4bacea[_0x5114a4(0x178)]||_0xd6c40c['name'])+_0x5114a4(0x171)+bingoIconMarkup(_0xd6c40c,_0xd6c40c[_0x5114a4(0x178)]||_0xd6c40c['name'])+'</div></div></div><div\x20class=\x22bingo-board-wrap\x22><div\x20class=\x22bingo-board\x22\x20style=\x22--bingo-columns:'+Math['max'](_0x311d03,0x1)+'\x22><div\x20class=\x22bingo-board__corner\x22></div>'+_0x56e0dd[_0x5114a4(0x127)](_0x894220=>_0x5114a4(0x13c)+bingoImageMarkup(_0x894220['icon'])+_0x5114a4(0x133))[_0x5114a4(0x188)]('')+_0x5114a4(0x15c)+_0x3d9ddb[_0x5114a4(0x127)]((_0x23388e,_0x8e4b45)=>_0x5114a4(0x14b)+bingoImageMarkup(_0x563988[_0x8e4b45]?.[_0x5114a4(0x183)])+_0x5114a4(0x133)+_0x23388e[_0x5114a4(0x127)](_0x46771d=>_0x46771d?_0x5114a4(0x153)+thumbnailSpecimenImage(_0x46771d[_0x5114a4(0x128)],_0x46771d['skin'])+_0x5114a4(0x169)+escapeHtml(_0x46771d[_0x5114a4(0x128)])+'\x22\x20loading=\x22lazy\x22\x20onerror=\x22this.onerror=null;this.src=\x27'+thumbnailFallbackUrl()+_0x5114a4(0x179):'<div\x20class=\x22bingo-cell\x20bingo-cell--empty\x22></div>')[_0x5114a4(0x188)]('')+rewardMarkup(_0x3c7251[_0x8e4b45]))['join']('')+_0x5114a4(0x152)+Array[_0x5114a4(0x166)]({'length':_0x311d03},(_0x195ea9,_0x430f7e)=>rewardMarkup(_0x4333f3[_0x430f7e]))[_0x5114a4(0x188)]('')+rewardMarkup(_0x49bcd5,!0x0)+_0x5114a4(0x13e)+_0x3f0d39+_0x5114a4(0x16e);}function rewardMarkup(_0x2e94dc,_0xe9deab=!0x1){const _0x19dbe4=_0x5888;if(!_0x2e94dc)return _0x19dbe4(0x129);const _0x123688=String(_0x2e94dc['id']||'')['trim'](),_0xab65d=_0x123688?API_CONFIG[_0x19dbe4(0x172)][_0x19dbe4(0x136)]+'/'+encodeURIComponent(_0x123688[_0x19dbe4(0x141)]())+_0x19dbe4(0x163):'',_0x5bbafc=_0x2e94dc[_0x19dbe4(0x170)]?SITE_BASE+_0x19dbe4(0x12a)+encodeURIComponent(String(_0x2e94dc[_0x19dbe4(0x170)])[_0x19dbe4(0x141)]())+_0x19dbe4(0x163):'';return _0x19dbe4(0x18d)+(_0xe9deab?_0x19dbe4(0x14a):'')+_0x19dbe4(0x138)+escapeHtml(_0x123688||_0x2e94dc[_0x19dbe4(0x170)]||_0x19dbe4(0x173))+'\x22><div\x20class=\x22bingo-reward__art\x22>'+(_0xab65d||_0x5bbafc?_0x19dbe4(0x187)+(_0xab65d||_0x5bbafc)+_0x19dbe4(0x169)+escapeHtml(_0x123688||_0x2e94dc[_0x19dbe4(0x170)]||_0x19dbe4(0x173))+_0x19dbe4(0x155):'')+_0x19dbe4(0x13a)+escapeHtml(_0x2e94dc['amount']||'0')+_0x19dbe4(0x123);}function thumbnailSpecimenImage(_0xd6da59,_0x5bee45){const _0x59ed70=_0x5888,_0x2cc229=String(_0xd6da59||'')[_0x59ed70(0x141)](),_0x26073e=String(_0x5bee45||'')[_0x59ed70(0x17f)]()[_0x59ed70(0x141)]();return API_CONFIG[_0x59ed70(0x172)][_0x59ed70(0x136)]+'/'+encodeURIComponent(_0x2cc229)+(_0x26073e&&'_any'!==_0x26073e?'_'+encodeURIComponent(_0x26073e):'')+_0x59ed70(0x163);}function thumbnailFallbackUrl(){const _0x4ea886=_0x5888;return SITE_BASE+_0x4ea886(0x150);}function bingoIconUrl(_0x1a5fb4){const _0x26d011=_0x5888;return bingoAssetUrl(_0x1a5fb4['icon']||_0x1a5fb4[_0x26d011(0x12d)]||'');}function bingoAssetUrl(_0x441d3b){const _0x1e7700=_0x5888;return _0x441d3b?API_CONFIG[_0x1e7700(0x172)][_0x1e7700(0x12e)]+'/'+String(_0x441d3b)[_0x1e7700(0x126)](/^\/+/,''):'';}function bingoImageMarkup(_0x2fd61c){const _0x1b05e5=_0x5888,_0x523afb=bingoAssetUrl(_0x2fd61c);return _0x523afb?'<img\x20src=\x22'+_0x523afb+_0x1b05e5(0x177):'';}function bingoIconMarkup(_0x1e7bef,_0x4b151a){const _0x17b9d4=_0x5888,_0x55ad2f=bingoIconUrl(_0x1e7bef);return _0x55ad2f?_0x17b9d4(0x187)+_0x55ad2f+_0x17b9d4(0x169)+escapeHtml(_0x4b151a)+'\x22>':'';}
+function initBingosPage() {
+  const page = document.getElementById('pageContent');
+  page.innerHTML = '<section class="section section--tight bingo-page"><div class="section__head"><div><h1><img src="' + SITE_BASE + '/assets/img/thumbnails/morphology.png" alt="">Bingos</h1><p class="section__lede">Explore every available bingo board and its rewards.</p></div></div><div class="bingo-picker-nav"><button class="bingo-picker-nav__button" id="bingoPrevious" type="button" aria-label="Previous bingo">&lt;</button><div class="bingo-picker" id="bingoPicker"><p class="loading">Loading bingos...</p></div><button class="bingo-picker-nav__button" id="bingoNext" type="button" aria-label="Next bingo">&gt;</button></div><div class="bingo-view" id="bingoView"><p class="loading">Select a bingo to see its structure.</p></div></section>';
+  loadBingoCatalog().then(catalog => {
+    if (!catalog.length) throw new Error('No bingos available');
+    const requestedGrid = new URLSearchParams(window.location.search).get('grid');
+    const selectedBingo = catalog.find(item => item.name === requestedGrid || item.gridId === requestedGrid) || catalog[0];
+    renderBingoPicker(catalog, selectedBingo.name);
+    selectBingo(selectedBingo);
+  }).catch(error => {
+    document.getElementById('bingoPicker').innerHTML = errorMessage(error);
+  });
+}
+
+async function loadBingoCatalog() {
+  const response = await fetch(API_CONFIG.api.morphology);
+  if (!response.ok) throw new Error('Unable to load the bingos');
+  const catalog = await response.json();
+  if (!Array.isArray(catalog)) throw new Error('Invalid bingo response');
+  return catalog;
+}
+
+function renderBingoPicker(catalog, selectedName) {
+  const picker = document.getElementById('bingoPicker');
+  picker.innerHTML = catalog.map(bingo => {
+    const archived = String(bingo.status || '').toLowerCase() === 'inactive';
+    return `<button class="bingo-picker__item${bingo.name === selectedName ? ' is-active' : ''}${archived ? ' is-archived' : ''}" type="button" data-bingo-name="${escapeHtml(bingo.name)}">${bingoIconMarkup(bingo, '')}<span class="bingo-picker__copy"><span class="bingo-picker__name">${escapeHtml(bingo.gridName || bingo.name)}</span>${archived ? '<small class="bingo-picker__status">Archived</small>' : ''}</span></button>`;
+  }).join('');
+  const selectAt = offset => {
+    const activeIndex = catalog.findIndex(item => item.name === picker.querySelector('.is-active')?.dataset.bingoName);
+    const nextIndex = Math.min(Math.max(activeIndex + offset, 0), catalog.length - 1);
+    const button = picker.querySelectorAll('.bingo-picker__item')[nextIndex];
+    if (button) button.click();
+  };
+  document.getElementById('bingoPrevious').addEventListener('click', () => selectAt(-1));
+  document.getElementById('bingoNext').addEventListener('click', () => selectAt(1));
+  picker.addEventListener('click', event => {
+    const button = event.target.closest('[data-bingo-name]');
+    if (!button) return;
+    picker.querySelectorAll('.bingo-picker__item').forEach(item => item.classList.toggle('is-active', item === button));
+    button.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    selectBingo(catalog.find(item => item.name === button.dataset.bingoName));
+  });
+}
+
+async function selectBingo(bingo) {
+  const view = document.getElementById('bingoView');
+  view.innerHTML = '<p class="loading">Loading bingo structure...</p>';
+  try {
+    const endpoint = API_CONFIG.api.morphologyData.replace('{name}', encodeURIComponent(bingo.name));
+    const response = await fetch(endpoint);
+    if (!response.ok) throw new Error('Unable to load this bingo');
+    renderBingo(view, bingo, await response.json());
+  } catch (error) {
+    view.innerHTML = errorMessage(error);
+  }
+}
+
+function renderBingo(container, bingo, data) {
+  const headers = data.headers || {};
+  const columns = headers.cols || [];
+  const rowHeaders = headers.lines || [];
+  const rows = data.lines || [];
+  const rewardGroups = data.rewards || {};
+  const cells = rows.flatMap(row => (row.cols || []).map(cell => ({ ...cell, indexY: row.indexY })));
+  const maxX = Math.max(columns.length, ...cells.map(cell => Number(cell.indexX) + 1), 0);
+  const maxY = Math.max(rows.length, ...cells.map(cell => Number(cell.indexY) + 1), 0);
+  const grid = Array.from({ length: maxY }, (_, y) => Array.from({ length: maxX }, (_, x) => cells.find(cell => Number(cell.indexX) === x && Number(cell.indexY) === y)));
+  const lineRewards = rewardGroups.lines || [];
+  const columnRewards = rewardGroups.cols || [];
+  const specialReward = rewardGroups.special?.[0];
+  const rewardCount = lineRewards.length + columnRewards.length + (specialReward ? 1 : 0);
+  container.innerHTML = `<div class="bingo-heading"><div class="bingo-heading__identity"><p class="bingo-heading__eyebrow">Bingo board</p><div class="bingo-heading__name"><h2>${escapeHtml(bingo.gridName || data.gridName || bingo.name)}</h2>${bingoIconMarkup(bingo, bingo.gridName || bingo.name)}</div></div></div><div class="bingo-board-wrap"><div class="bingo-board" style="--bingo-columns:${Math.max(maxX, 1)}"><div class="bingo-board__corner"></div>${columns.map(header => `<div class="bingo-board__header">${bingoImageMarkup(header.icon)}</div>`).join('')}<div class="bingo-board__reward-header" aria-label="Line rewards"></div>${grid.map((row, y) => `<div class="bingo-board__row-label">${bingoImageMarkup(rowHeaders[y]?.icon)}</div>${row.map(cell => cell ? `<div class="bingo-cell"><img src="${thumbnailSpecimenImage(cell.specimenId, cell.skin)}" alt="${escapeHtml(cell.specimenId)}" loading="lazy" onerror="this.onerror=null;this.src='${thumbnailFallbackUrl()}'"></div>` : '<div class="bingo-cell bingo-cell--empty"></div>').join('')}${rewardMarkup(lineRewards[y])}`).join('')}<div class="bingo-board__reward-header" aria-label="Column rewards"></div>${Array.from({ length: maxX }, (_, index) => rewardMarkup(columnRewards[index])).join('')}${rewardMarkup(specialReward, true)}</div></div><section class="bingo-rewards"><div class="section__head"><h3>Rewards</h3><span>${rewardCount} available</span></div></section>`;
+}
+
+function rewardMarkup(reward, isSpecial = false) {
+  if (!reward) return '<div class="bingo-reward bingo-reward--empty"></div>';
+  const id = String(reward.id || '').trim();
+  const image = id ? `${API_CONFIG.assets.thumbnails}/${encodeURIComponent(id.toLowerCase())}.png` : '';
+  const fallbackImage = reward.type ? `${SITE_BASE}/assets/img/thumbnails/${encodeURIComponent(String(reward.type).toLowerCase())}.png` : '';
+  return `<div class="bingo-reward bingo-reward--inline${isSpecial ? ' bingo-reward--special' : ''}" title="${escapeHtml(id || reward.type || 'Reward')}"><div class="bingo-reward__art">${image || fallbackImage ? `<img src="${image || fallbackImage}" alt="${escapeHtml(id || reward.type || 'Reward')}" onerror="this.hidden=true">` : ''}</div><span>x${escapeHtml(reward.amount || '0')}</span></div>`;
+}
+
+function thumbnailSpecimenImage(specimen, skin) {
+  const id = String(specimen || '').toLowerCase();
+  const skinId = String(skin || '').trim().toLowerCase();
+  return `${API_CONFIG.assets.thumbnails}/${encodeURIComponent(id)}${skinId && skinId !== '_any' ? `_${encodeURIComponent(skinId)}` : ''}.png`;
+}
+
+function thumbnailFallbackUrl() {
+  return `${SITE_BASE}/assets/img/thumbnails/icon_mutants.png`;
+}
+
+function bingoIconUrl(bingo) {
+  return bingoAssetUrl(bingo.icon || bingo.gridIcon || '');
+}
+
+function bingoAssetUrl(path) {
+  if (!path) return '';
+  return `${API_CONFIG.assets.root}/${String(path).replace(/^\/+/, '')}`;
+}
+
+function bingoImageMarkup(path) {
+  const source = bingoAssetUrl(path);
+  return source ? `<img src="${source}" alt="">` : '';
+}
+
+function bingoIconMarkup(bingo, alt) {
+  const source = bingoIconUrl(bingo);
+  return source ? `<img src="${source}" alt="${escapeHtml(alt)}">` : '';
+}

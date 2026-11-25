@@ -1,1 +1,343 @@
-function _0x2d22(){const _0x32982d=['Dgv4DenVBNrLBNq','zhvUz2vVBKLTywDLCW','z2v0qxr0CMLIDxrL','C3rHCNrbDa','ANnVBG','CMvTywLUAw5Nu2vJB25KCW','jYKIpJXOzwfKzxiGy2XHC3m9iMr1BMDLB25ZlwHLCM8IpJXWignSyxnZpsjKDw5Nzw9UCY1OzxjVx19LEwvICM93iJ5gzwf0DxjLCZWVCd48Aw1NignSyxnZpsjKDw5Nzw9UCY1OzxjVx19SB2DViIbZCMm9iG','i2n1CNjLBNreDw5Nzw9UuMv3yxjKC0LTywDL','zMLUza','Cg9PBNrLCNvW','ywrKrxzLBNrmAxn0zw5LCG','lMr1BMDLB24Ty2fYB3vZzwXFx2nHCMq','igr1BMDLB24IigXVywrPBMC9iMXHENKIig9UzxjYB3i9iNrOAxmUCMvTB3zLkcKIpG','mtiXoersEfPAzG','p3r5Cgu9','ihn0yxj0CYbPBG','tMv4Dca','CxvLCNLtzwXLy3rVCG','w2rHDgeTy2fYB3vZzwWTChjLDMLVDxnD','ntG0mwTjD2TZza','Cg9W','lMr1BMDLB24Ty2fYB3vZzwXFx3zPzxDWB3j0','y2XVC2vZDa','y2vPBa','zNjVBq','mtG0EwHKB1vq','rhvUz2vVBIa','y2XHC3nmAxn0','Aw1NzhvUz2vVBG','AgLKzgvU','phnLy3rPB24Gy2XHC3m9iMr1BMDLB25ZlxbHz2uIihn0EwXLpsiTlwr1BMDLB25ZlwjHy2TNCM91BMq6DxjSkcC','mZeWnJzSswnYD1m','pc9WpG','Cg9PBNrLCMnHBMnLBa','yxjPys1WCMvZC2vK','C2v0qxr0CMLIDxrL','pc9IDxr0B24+','w2rHDgeTzhvUz2vVBI1YzxDHCMrZlxrVz2DSzv0','pc9ZCgfUpJXZDhjVBMCGy2XHC3m9iMr1BMDLB24Ty291BNrKB3DUx192ywX1zsiGCM9Szt0IDgLTzxiIpJWVC3rYB25NpG','mcaVida','tM8Gywn0AxzLia','zhvUz2vVBKnHCM91C2vSq291BNq','igvUzhmGAw4','w2rHDgeTy2fYB3vZzwWTBMv4Df0','l2fZC2v0CY9PBwCVzhvUz2vVBNmVyMDFzhvUz2vVBI5QCgC','zhvUz2vVBI0','Cg9PBNrLCKLK','Aw5Zzxj0qwrQywnLBNrive1m','vw5HyMXLihrVigXVywqG','Aw1NzhvUz2vVBNjLD2fYzhm','y2HHCKf0','iIbKyxrHlxbVC2L0Aw9Upsi','l21Hy2HPBMvF','Cg9PBNrLCLr5Cgu','igr1BMDLB24GCMv3yxjKCYiGyxjPys1LEhbHBMrLzd0IzMfSC2uIigfYAweTy29UDhjVBhm9iMn1CNjLBNreDw5Nzw9UuMv3yxjKCYi+','ywz0zxjIzwDPBG','Dhj1zq','mJq4vKjfCwjJ','ywX0','pgLTzYbZCMm9iG','i2r1BMDLB25dyxjVDxnLBa','DhjPBq','DxbJB21PBMC','yMvMB3jLzw5K','mtaZogrzDgzSEG','AM9PBG','zw5Kqxq','BM93','iJ48zgL2ignSyxnZpsjKDw5Nzw9UlwnHCMrFx2nVBNrLBNqIigLKpsjKDw5Nzw9Ulq','zhvUz2vVBLr5Cgu','ywrK','yxjPys1SywjLBa','tMv4DcbYywLKoIa','z2v0rwXLBwvUDej5swq','iIbKyxrHlwr1BMDLB24TCMv3yxjKCY1ZCMm9iG','DgHLBG','BMfTzq','iIbHBhq9iKr1BMDLB25ZiJ48Ade+rhvUz2vVBNm8l2GXpJXWpKv4CgXVCMuGDgHLign1CNjLBNqGy2HHBgXLBMDLCYWGzxHWzxjPBwvUDhmSigfUzcbYywLKCY48l3a+pc9OzwfKzxi+pgrPDIbJBgfZCZ0IzhvUz2vVBNmTCMvJyxbZiIbHCMLHlwXHyMvSpsjeDw5Nzw9Uihr5CgvZiJ4','pgrPDIbJBgfZCZ0IzhvUz2vVBI1JyxjKx19HCNqIpG','C21VB3rO','zgf0yxnLDa','y3jLyxrLrwXLBwvUDa','zhvUz2vVBKnHCM91C2vSvgL0Bgu','AxnbCNjHEq','phaGy2XHC3m9iM9MzMvYCY1ZDgf0DxmIpK5Vigr1BMDLB25ZigzVDw5KlJWVCd4','C2v0','ywjZ','BgvUz3rO','yxnZzxrZ','lMr1BMDLB25Zlwn1CNjLBNrFx2DYAwq','CgfKu3rHCNq','igr1BMDLB24GAxmGC2nOzwr1BgvKigf0ihrOAxmGDgLTzs4','ihnLy29Uzhm','CgfYC2u','zxHWzxjPBwvUDa','ic8G','AxmTzhjHz2DPBMC','iIbYB2XLpsjNCM91CciGyxjPys1SywjLBd0IrhvUz2vVBIa','CMfPza','q2HHBgXLBMDL','iIbHCMLHlwXHyMvSpsi','Bw91C2u','y2XPy2S','mJi1owDTwgLxsq','i2n1CNjLBNreDw5Nzw9UuMv3yxjKCW','igr1BMDLB25ZiIbHCMLHlxbYzxnZzwq9iMzHBhnLiIbZDhLSzt0Ils1KDw5Nzw9UCY1YzwnHCc1PBwfNztP1CMWOjW','pc9ZCgfUpG','yxjPys1LEhbHBMrLza','l2r1BMDLB25Zx3rPDgXLlNbUzW','B2zM','iIbHCMLHlwXHyMvSpsjtAg93ia','CgfNzunVBNrLBNq','phaGy2XHC3m9iM9MzMvYCY1ZDgf0DxmIpG','ig1PBNv0zxmSia','CxvLCNLtzwXLy3rVCKfSBa','oda4nJvoAef2v2i','u2HVDYa','lMr1BMDLB24Ty291BNrKB3DUx192ywX1zq','C3rHCNrZqxq','CMvTB3zL','Dg9mB3DLCKnHC2u','AxmTCg9ZAxrPB24T','Cg9PBNrLCMrVD24','C2v0ug9PBNrLCKnHChr1CMu','y3vYCMvUDa','pgj1DhrVBIbJBgfZCZ0IzhvUz2vVBNmTCMvJyxaIihr5Cgu9iMj1DhrVBIiGzgf0ys1KDw5Nzw9Ulxr5Cgu9iG','AgfZ','y2XHC3noyw1L','z2v0','ig9Mia','Aw5Zzxj0qMvMB3jL','zhvUz2vVBKLK','zhvUz2vVBNm','zhvUz2vVBLjLD2fYzhntCMm','lMr1BMDLB25Zlwn1CNjLBNrFx3jLD2fYzhmTzxjYB3i','BgfIzwW','Dg9vChbLCKnHC2u','igr1BMDLB24GzM91BMqU','Cg9ZAxrPB24','tM8G','AxngAw5PDgu','w2rHDgeTy2fYB3vZzwWTy2XVC2vD','pgj1DhrVBIbJBgfZCZ0IzhvUz2vVBI1JyxjKx190B2DNBguIihr5Cgu9iMj1DhrVBIiGzgf0ys1KDw5Nzw9UlxjLD2fYzhmTDg9Nz2XLigrHDgeTzhvUz2vVBI10ExbLpsi','igr1BMDLB24GCMv3yxjKCW','Aw5KzxG','zgvSzxrL','y2vUDgvY','CMvZB2X2zq','rxHWzxjPBwvUDa','jYKIpJWVyNv0Dg9UpG','BwfW','pgfYDgLJBguGy2XHC3m9iMr1BMDLB24Ty2fYzciGAwq9iMn1CNjLBNqT','zMXVB3i','x3jLy2fWlNbUzW','C2nYB2XSsw50B1zPzxC','nJi4mdm0mg1QDe5UEG','C3jJ','igHVDxjZlca','ier1BMDLB25Z','yNv0Dg9U','phnWyw4Gy2XHC3m9iMr1BMDLB24Ty291BNrKB3DUx19SywjLBci+','zMfSC2u','lwnVDw50zg93BG','zM9YrwfJAa','Aw5Uzxjive1m','tMv4DcbYywLKihn0yxj0ig5VDcbHBM5VDw5Jzwq','w2rHDgeTzhvUz2vVBI10ExbLxq','CMfPzfnJAgvKDwXL','DgfYz2v0','iJ48Aw1NihnYyZ0I','iIbHBhq9iG','nJa1ndm1uwn4uwrg','Bwf4','zhvUz2vVBKnHCM91C2vSu3rHz2u','mte0mJryufnNsfa','yxjPys1SAxzL','phaGy2XHC3m9iMXVywrPBMCIpKXVywrPBMCGzhvUz2vVBNmUlI48l3a+','C3bSAxq','pgrPDIbJBgfZCZ0IzhvUz2vVBI1JyxjVDxnLBf9Fy2fYzcbPCY1WB3nPDgLVBI0','sw52ywXPzcbKDw5Nzw9UihjLC3bVBNnL','zw5Krgf0zvrPBwu','y2XPzw50wa','DhLWzq','uMfPza','zxjYB3i','y2HHBgXLBMDL','zgLZywjSzwq','mti3nZz6ugDKBuC'];_0x2d22=function(){return _0x32982d;};return _0x2d22();}const _0x5b68c5=_0x41f0;(function(_0xac690f,_0x13997f){const _0x82ce91=_0x41f0,_0x2a10c2=_0xac690f();while(!![]){try{const _0x11a3ef=-parseInt(_0x82ce91(0x137))/0x1+parseInt(_0x82ce91(0x161))/0x2*(parseInt(_0x82ce91(0xcc))/0x3)+-parseInt(_0x82ce91(0xc5))/0x4*(-parseInt(_0x82ce91(0xff))/0x5)+parseInt(_0x82ce91(0x155))/0x6*(parseInt(_0x82ce91(0x167))/0x7)+-parseInt(_0x82ce91(0x147))/0x8*(-parseInt(_0x82ce91(0xf3))/0x9)+-parseInt(_0x82ce91(0x127))/0xa+parseInt(_0x82ce91(0x15b))/0xb*(-parseInt(_0x82ce91(0x13a))/0xc);if(_0x11a3ef===_0x13997f)break;else _0x2a10c2['push'](_0x2a10c2['shift']());}catch(_0x100b34){_0x2a10c2['push'](_0x2a10c2['shift']());}}}(_0x2d22,0x91d5a));const DUNGEON_PAGE_TYPES=[{'type':_0x5b68c5(0x145),'label':_0x5b68c5(0xef)},{'type':_0x5b68c5(0xea),'label':_0x5b68c5(0x120)},{'type':'raid','label':_0x5b68c5(0x143)}],DUNGEON_CATALOGS=new Map(),DUNGEON_CATALOG_REQUESTS=new Map(),DUNGEON_RAID_SCHEDULES=new Map(),DUNGEON_COUNTDOWN_INTERVALS=new Map();let activeDungeonCarousel=null;function initDungeonsPage(){const _0x394ba4=_0x5b68c5,_0xfd8708=document[_0x394ba4(0xd5)](_0x394ba4(0xfb)),_0x5eb264=SITE_BASE+_0x394ba4(0xb8),_0x2dd9a0=API_CONFIG['assets'][_0x394ba4(0x149)]+_0x394ba4(0xf8);_0xfd8708[_0x394ba4(0x130)]=_0x394ba4(0x166)+_0x5eb264+_0x394ba4(0x14e)+_0x2dd9a0+_0x394ba4(0xd9)+DUNGEON_PAGE_TYPES[_0x394ba4(0x122)](({type:_0x3979d3})=>_0x394ba4(0x109)+_0x3979d3+_0x394ba4(0xf0)+_0x3979d3+_0x394ba4(0xf5)+dungeonRecapUrl(_0x3979d3)+_0x394ba4(0x121))['join']('')+'</div><section\x20class=\x22dungeon-carousel\x22\x20id=\x22dungeonCarousel\x22\x20aria-labelledby=\x22dungeonCarouselTitle\x22\x20tabindex=\x22-1\x22\x20hidden><div\x20class=\x22dungeon-carousel__heading\x22><div><p\x20class=\x22dungeons-hero__eyebrow\x22>Explore\x20dungeons</p><h2\x20id=\x22dungeonCarouselTitle\x22></h2></div><button\x20class=\x22dungeon-carousel__close\x22\x20type=\x22button\x22\x20data-carousel-close\x20aria-label=\x22Close\x20carousel\x22>×</button></div><div\x20class=\x22dungeon-carousel__viewport\x22><div\x20class=\x22dungeon-carousel__stage\x22\x20id=\x22dungeonCarouselStage\x22></div></div><div\x20class=\x22dungeon-carousel__controls\x22><button\x20class=\x22dungeon-carousel__button\x22\x20type=\x22button\x22\x20data-carousel-previous\x20aria-label=\x22Previous\x20dungeon\x22>‹\x20<span>Previous</span></button><span\x20class=\x22dungeon-carousel__count\x22\x20id=\x22dungeonCarouselCount\x22\x20aria-live=\x22polite\x22></span><button\x20class=\x22dungeon-carousel__button\x22\x20type=\x22button\x22\x20data-carousel-next\x20aria-label=\x22Next\x20dungeon\x22><span>Next</span>\x20›</button></div></section><section\x20class=\x22dungeons-current\x22><div\x20class=\x22dungeons-current__heading\x22><p\x20class=\x22dungeons-hero__eyebrow\x22>Featured\x20encounters</p><h2>Current\x20Dungeons</h2></div><div\x20class=\x22dungeons-current__grid\x22>'+DUNGEON_PAGE_TYPES['map'](({type:_0x5c5eda,label:_0x2c1662})=>_0x394ba4(0x123)+_0x5c5eda+'\x22\x20aria-label=\x22'+_0x2c1662+_0x394ba4(0xd0)+_0x5c5eda+'\x22><p\x20class=\x22loading\x22>Loading\x20'+_0x2c1662['toLowerCase']()+'...</p></div></article>')[_0x394ba4(0xcd)]('')+'</div></section><section\x20class=\x22dungeons-current__rewards\x22\x20id=\x22currentDungeonRewards\x22\x20aria-label=\x22Dungeon\x20rewards\x22\x20hidden><img\x20id=\x22currentDungeonRewardsImage\x22\x20alt=\x22\x22\x20loading=\x22lazy\x22><p\x20class=\x22dungeons-current__rewards-error\x22\x20hidden>Dungeon\x20rewards\x20image\x20unavailable</p></section></section>',DUNGEON_PAGE_TYPES['forEach'](({type:_0x2c008f})=>{const _0x5b9696=_0x394ba4,_0x35c823=document[_0x5b9696(0xdd)]('div');_0x35c823['id']=_0x5b9696(0xb9)+_0x2c008f+_0x5b9696(0x12e),_0x35c823[_0x5b9696(0x10b)]='dungeon-countdown',_0x35c823[_0x5b9696(0x165)]=!0x0,_0x35c823[_0x5b9696(0x16b)](_0x5b9696(0x13b),_0x5b9696(0xf9));const _0x2cb2fa=document[_0x5b9696(0xd5)](_0x5b9696(0xb9)+_0x2c008f);_0x2cb2fa['parentElement'][_0x5b9696(0x10e)](_0x35c823,_0x2cb2fa);}),bindDungeonCarouselControls(_0xfd8708),bindCurrentDungeonRewardToggles(_0xfd8708),loadCurrentDungeons();}async function loadCurrentDungeons(){const _0x15e441=_0x5b68c5;await Promise['all'](DUNGEON_PAGE_TYPES[_0x15e441(0x122)](loadCurrentDungeon));}function loadDungeonCatalog({type:_0x554fc4}){const _0x52a844=_0x5b68c5;if(DUNGEON_CATALOGS[_0x52a844(0x10a)](_0x554fc4))return Promise[_0x52a844(0x11f)](DUNGEON_CATALOGS['get'](_0x554fc4));if(!DUNGEON_CATALOG_REQUESTS[_0x52a844(0x10a)](_0x554fc4)){const _0x1fea6d=API_CONFIG['api']['dungeons']+_0x52a844(0x156)+encodeURIComponent(_0x554fc4),_0x361e44=fetch(_0x1fea6d)['then'](_0x2c63bb=>{const _0x2c5073=_0x52a844;if(!_0x2c63bb['ok'])throw new Error(_0x2c5073(0xbc)+_0x554fc4+'\x20dungeons');return _0x2c63bb[_0x2c5073(0x14c)]();})[_0x52a844(0xd7)](_0x532cd8=>{const _0x282dc4=_0x52a844;if(!Array[_0x282dc4(0xdf)](_0x532cd8[_0x282dc4(0x110)]))throw new Error(_0x282dc4(0x13f));return DUNGEON_CATALOGS[_0x282dc4(0xe1)](_0x554fc4,_0x532cd8[_0x282dc4(0x110)]),_0x282dc4(0xee)===_0x554fc4&&DUNGEON_RAID_SCHEDULES[_0x282dc4(0xe1)](_0x554fc4,_0x532cd8[_0x282dc4(0x133)]||null),_0x532cd8[_0x282dc4(0x110)];});DUNGEON_CATALOG_REQUESTS[_0x52a844(0xe1)](_0x554fc4,_0x361e44),_0x361e44['catch'](()=>{const _0x2b0c66=_0x52a844;DUNGEON_CATALOG_REQUESTS[_0x2b0c66(0x10c)](_0x554fc4)===_0x361e44&&DUNGEON_CATALOG_REQUESTS['delete'](_0x554fc4);});}return DUNGEON_CATALOG_REQUESTS['get'](_0x554fc4);}async function loadCurrentDungeon({type:_0x330240,label:_0x565aeb}){const _0xa095e3=_0x5b68c5,_0x4e14b3=document[_0xa095e3(0xd5)]('dungeon-'+_0x330240);try{const _0x5ce111=await loadDungeonCatalog({'type':_0x330240,'label':_0x565aeb}),_0x21e46a=DUNGEON_RAID_SCHEDULES[_0xa095e3(0x10c)](_0x330240);_0xa095e3(0xee)===_0x330240&&renderRaidCountdown(_0x21e46a);const _0x2312c2=_0xa095e3(0xee)===_0x330240?currentRaidBySchedule(_0x5ce111,_0x21e46a):_0x5ce111['find'](_0x30c2f3=>isDungeonScheduledNow(_0x30c2f3));if(!_0x2312c2){const _0x5cd05c=_0xa095e3(0xee)===_0x330240?_0xa095e3(0x170)+_0x565aeb[_0xa095e3(0x104)]()+_0xa095e3(0x115):_0xa095e3(0x117)+_0x565aeb['toLowerCase']()+_0xa095e3(0xe7);return void(_0x4e14b3[_0xa095e3(0x130)]=_0xa095e3(0xfc)+escapeHtml(_0x5cd05c)+_0xa095e3(0x168));}_0xa095e3(0xee)!==_0x330240&&renderScheduledDungeonCountdown(_0x330240,_0x5ce111,_0x2312c2),_0x4e14b3[_0xa095e3(0x130)]=currentDungeonTemplate(_0x2312c2,_0x330240);}catch(_0x5d57e8){_0x4e14b3['innerHTML']=errorMessage(_0x5d57e8);}}function renderRaidCountdown(_0x420f8f){const _0x3d9fe8=_0x5b68c5,_0x47e2f3=_0x420f8f?.[_0x3d9fe8(0x108)],_0x5dff65=Array[_0x3d9fe8(0xdf)](_0x420f8f?.[_0x3d9fe8(0xca)])?_0x420f8f[_0x3d9fe8(0xca)][0x0]:null,_0x4a3c40=Date[_0x3d9fe8(0xcf)](),_0x27556a=Date['parse'](_0x5dff65?.[_0x3d9fe8(0x102)]),_0x266ea2=Date[_0x3d9fe8(0xe9)](_0x47e2f3?.[_0x3d9fe8(0x140)]),_0x4162d8=Number(_0x47e2f3?.['remainingSeconds']),_0x354cb5=Date['parse'](_0x47e2f3?.['endDate']),_0x3b7048=Number[_0x3d9fe8(0x118)](_0x27556a)?_0x27556a:Number[_0x3d9fe8(0x118)](_0x266ea2)?_0x266ea2:Number[_0x3d9fe8(0x118)](_0x4162d8)&&null!==_0x47e2f3?.[_0x3d9fe8(0x14d)]&&''!==String(_0x47e2f3?.[_0x3d9fe8(0x14d)]??'')[_0x3d9fe8(0xc9)]()?_0x4a3c40+0x3e8*_0x4162d8:_0x354cb5,_0xba6579=_0x5dff65?.[_0x3d9fe8(0xee)]?.[_0x3d9fe8(0xd8)];renderDungeonCountdown(_0x3d9fe8(0xee),_0x3b7048,_0xba6579?_0x3d9fe8(0xd4)+escapeHtml(_0xba6579)+_0x3d9fe8(0x157):'Next\x20raid\x20starts\x20in',_0x3d9fe8(0x131),'Starting\x20now');}function renderScheduledDungeonCountdown(_0x2050b6,_0x3f123e,_0x1b9f66){const _0x3e7a50=_0x5b68c5,_0x57e33a=Date['parse'](_0x1b9f66[_0x3e7a50(0xce)]),_0x3044e0=_0x3f123e[_0x3e7a50(0x150)](_0x4513a6=>_0x4513a6['id']!==_0x1b9f66['id']&&Date[_0x3e7a50(0xe9)](_0x4513a6[_0x3e7a50(0x14b)])===_0x57e33a),_0x469230=_0x3044e0?Date['parse'](_0x3044e0['startAt']):_0x57e33a,_0x3aeb58=_0x3044e0?_0x3e7a50(0x158)+_0x2050b6+_0x3e7a50(0x157):_0x2050b6[_0x3e7a50(0xbe)](0x0)[_0x3e7a50(0x114)]()+_0x2050b6['slice'](0x1)+_0x3e7a50(0x172);renderDungeonCountdown(_0x2050b6,_0x469230,_0x3aeb58,_0x2050b6+'\x20end\x20date\x20not\x20announced');}function renderDungeonCountdown(_0x1a6e90,_0x45e4b4,_0x52d410,_0x12186e,_0x3b72dc='Finished'){const _0x3bc9f5=_0x5b68c5,_0x42bfb8=DUNGEON_COUNTDOWN_INTERVALS[_0x3bc9f5(0x10c)](_0x1a6e90);void 0x0!==_0x42bfb8&&(clearInterval(_0x42bfb8),DUNGEON_COUNTDOWN_INTERVALS[_0x3bc9f5(0x11d)](_0x1a6e90));const _0x577ea8=document['getElementById']('dungeon-'+_0x1a6e90+_0x3bc9f5(0x12e));if(!_0x577ea8)return;if(_0x577ea8[_0x3bc9f5(0x165)]=!0x1,!Number[_0x3bc9f5(0x118)](_0x45e4b4))return void(_0x577ea8['innerHTML']=_0x3bc9f5(0x12c)+escapeHtml(_0x12186e)+_0x3bc9f5(0xf6));_0x577ea8['innerHTML']=_0x3bc9f5(0x12c)+_0x52d410+_0x3bc9f5(0x16e);const _0x214ff1=_0x577ea8['querySelector'](_0x3bc9f5(0x101)),_0x10886e=()=>{const _0x1c66ec=_0x3bc9f5,_0x4f24b9=Math[_0x1c66ec(0x138)](0x0,Math[_0x1c66ec(0x15f)]((_0x45e4b4-Date[_0x1c66ec(0xcf)]())/0x3e8));if(0x0===_0x4f24b9){_0x214ff1['textContent']=_0x3b72dc,_0x214ff1[_0x1c66ec(0x16b)](_0x1c66ec(0xd3),_0x3b72dc);const _0x376725=DUNGEON_COUNTDOWN_INTERVALS['get'](_0x1a6e90);return void 0x0!==_0x376725&&clearInterval(_0x376725),void DUNGEON_COUNTDOWN_INTERVALS[_0x1c66ec(0x11d)](_0x1a6e90);}const _0xa3499e=Math[_0x1c66ec(0x124)](_0x4f24b9/0x15180),_0x55b9b6=Math['floor'](_0x4f24b9%0x15180/0xe10),_0x28702c=Math['floor'](_0x4f24b9%0xe10/0x3c),_0x5b9d13=_0x4f24b9%0x3c;_0x214ff1[_0x1c66ec(0x148)]=_0xa3499e+'d\x20'+String(_0x55b9b6)[_0x1c66ec(0xe6)](0x2,'0')+':'+String(_0x28702c)[_0x1c66ec(0xe6)](0x2,'0')+':'+String(_0x5b9d13)['padStart'](0x2,'0'),_0x214ff1['setAttribute']('aria-label',_0xa3499e+'\x20days,\x20'+_0x55b9b6+_0x1c66ec(0x129)+_0x28702c+_0x1c66ec(0xfd)+_0x5b9d13+_0x1c66ec(0xe8));};_0x10886e(),_0x45e4b4>Date['now']()&&DUNGEON_COUNTDOWN_INTERVALS['set'](_0x1a6e90,setInterval(_0x10886e,0x3e8));}function currentRaidBySchedule(_0x5498df,_0x18145d){const _0x290d26=_0x5b68c5,_0x262495=_0x18145d?.[_0x290d26(0x108)]?.[_0x290d26(0x10f)];return _0x262495&&_0x5498df[_0x290d26(0x150)](_0x1d0cbe=>_0x1d0cbe['id']===_0x262495)||null;}function isDungeonScheduledNow(_0x9f01fb,_0x4d013f=Date[_0x5b68c5(0xcf)]()){const _0x48a89c=_0x5b68c5,_0x229dd9=Date[_0x48a89c(0xe9)](_0x9f01fb['startAt']),_0x185ee2=Date[_0x48a89c(0xe9)](_0x9f01fb[_0x48a89c(0xce)]);return Number[_0x48a89c(0x118)](_0x229dd9)&&Number[_0x48a89c(0x118)](_0x185ee2)&&_0x229dd9<=_0x4d013f&&_0x4d013f<_0x185ee2;}function bindDungeonCarouselControls(_0x52c6b5){const _0x28add8=_0x5b68c5,_0x4382fc=_0x52c6b5['querySelector'](_0x28add8(0xc8)),_0x42f4ea=_0x4382fc['querySelector'](_0x28add8(0x15d));let _0x355a4f=null;_0x52c6b5[_0x28add8(0xfe)]('[data-dungeon-type]')[_0x28add8(0x12f)](_0x44127b=>{const _0x1f7039=_0x28add8;_0x44127b['addEventListener']('click',()=>openDungeonCarousel(_0x44127b[_0x1f7039(0xdc)][_0x1f7039(0xd1)]));}),_0x4382fc[_0x28add8(0x159)](_0x28add8(0x15a))[_0x28add8(0x152)](_0x28add8(0xf2),()=>moveDungeonCarousel(-0x1)),_0x4382fc[_0x28add8(0x159)]('[data-carousel-next]')['addEventListener'](_0x28add8(0xf2),()=>moveDungeonCarousel(0x1)),_0x42f4ea[_0x28add8(0x152)](_0x28add8(0x106),_0xfc1da0=>{const _0x2faad9=_0x28add8;!_0xfc1da0['isPrimary']||_0x2faad9(0xf1)===_0xfc1da0[_0x2faad9(0xc1)]&&0x0!==_0xfc1da0[_0x2faad9(0x12b)]||(_0x355a4f={'pointerId':_0xfc1da0[_0x2faad9(0xba)],'x':_0xfc1da0[_0x2faad9(0x141)]},_0x42f4ea['classList'][_0x2faad9(0xd2)](_0x2faad9(0xec)),_0x42f4ea[_0x2faad9(0x107)](_0xfc1da0[_0x2faad9(0xba)]));}),_0x42f4ea[_0x28add8(0x152)](_0x28add8(0x151),_0x1c3013=>{const _0x11c342=_0x28add8;if(_0x355a4f?.[_0x11c342(0xba)]!==_0x1c3013[_0x11c342(0xba)])return;const _0x3f19c2=_0x1c3013[_0x11c342(0x141)]-_0x355a4f['x'];_0x355a4f=null,_0x42f4ea[_0x11c342(0x163)][_0x11c342(0x103)](_0x11c342(0xec)),Math[_0x11c342(0xe2)](_0x3f19c2)>=0x2d&&moveDungeonCarousel(_0x3f19c2<0x0?0x1:-0x1);}),_0x42f4ea[_0x28add8(0x152)](_0x28add8(0x169),()=>{const _0xce6300=_0x28add8;_0x355a4f=null,_0x42f4ea[_0xce6300(0x163)][_0xce6300(0x103)](_0xce6300(0xec));}),_0x4382fc[_0x28add8(0x159)](_0x28add8(0x119))[_0x28add8(0x152)]('click',()=>{const _0x8780d4=_0x28add8;_0x4382fc[_0x8780d4(0x165)]=!0x0,activeDungeonCarousel=null,_0x52c6b5[_0x8780d4(0xfe)](_0x8780d4(0x132))[_0x8780d4(0x12f)](_0x2eb730=>_0x2eb730[_0x8780d4(0x16b)](_0x8780d4(0x16a),_0x8780d4(0x12d)));});}function bindCurrentDungeonRewardToggles(_0x102610){const _0x5c5aaa=_0x5b68c5,_0x594518=_0x102610[_0x5c5aaa(0x159)](_0x5c5aaa(0xe5)),_0x38ad2c=_0x102610[_0x5c5aaa(0x159)](_0x5c5aaa(0xf4)),_0x228d4d=_0x102610[_0x5c5aaa(0x159)](_0x5c5aaa(0x14f)),_0x44bcdb=_0x38ad2c['querySelector'](_0x5c5aaa(0x112));_0x228d4d[_0x5c5aaa(0x152)](_0x5c5aaa(0x144),()=>{const _0x5e818b=_0x5c5aaa;_0x228d4d[_0x5e818b(0x165)]=!0x0,_0x44bcdb['hidden']=!0x1;}),_0x594518[_0x5c5aaa(0x152)]('click',_0x351fbf=>{const _0x4e67ac=_0x5c5aaa,_0x2bc921=_0x351fbf[_0x4e67ac(0x134)][_0x4e67ac(0x15e)](_0x4e67ac(0x16d));if(!_0x2bc921)return;const _0x3f816c=_0x4e67ac(0xc4)===_0x2bc921[_0x4e67ac(0x14a)](_0x4e67ac(0xf7));_0x594518[_0x4e67ac(0xfe)](_0x4e67ac(0x16d))[_0x4e67ac(0x12f)](_0x41fb0f=>{const _0x239d18=_0x4e67ac;_0x41fb0f['setAttribute']('aria-expanded','false'),_0x41fb0f[_0x239d18(0x16b)](_0x239d18(0xd3),_0x239d18(0x100)+_0x41fb0f['dataset'][_0x239d18(0xd1)]+_0x239d18(0x11b));}),_0x38ad2c[_0x4e67ac(0x165)]=_0x3f816c,_0x3f816c||(_0x2bc921[_0x4e67ac(0x16b)]('aria-expanded',_0x4e67ac(0xc4)),_0x2bc921[_0x4e67ac(0x16b)](_0x4e67ac(0xd3),'Hide\x20'+_0x2bc921[_0x4e67ac(0xdc)][_0x4e67ac(0xd1)]+_0x4e67ac(0x11b)),_0x228d4d[_0x4e67ac(0x165)]=!0x1,_0x44bcdb[_0x4e67ac(0x165)]=!0x0,_0x228d4d[_0x4e67ac(0xc6)]=_0x2bc921[_0x4e67ac(0xdc)][_0x4e67ac(0xd1)]+_0x4e67ac(0x11b),_0x228d4d[_0x4e67ac(0x128)]=_0x2bc921['dataset'][_0x4e67ac(0x111)]);});}async function openDungeonCarousel(_0x439ac1){const _0x3054f3=_0x5b68c5,_0x3c53b9=DUNGEON_PAGE_TYPES[_0x3054f3(0x150)](_0x3a97df=>_0x3a97df[_0x3054f3(0x142)]===_0x439ac1);if(!_0x3c53b9)return;const _0xcbe2ab=document[_0x3054f3(0xd5)]('dungeonCarousel'),_0xf647d4=document[_0x3054f3(0xd5)](_0x3054f3(0xde)),_0xf35c03=document[_0x3054f3(0xd5)](_0x3054f3(0x139));if(activeDungeonCarousel?.[_0x3054f3(0x142)]!==_0x439ac1||_0xcbe2ab[_0x3054f3(0x165)]){activeDungeonCarousel={'type':_0x439ac1,'dungeons':[],'index':0x0},_0xf647d4['textContent']=_0x3c53b9[_0x3054f3(0x113)]+_0x3054f3(0x12a),_0xf35c03[_0x3054f3(0x130)]=_0x3054f3(0x13c),_0xcbe2ab['hidden']=!0x1,document[_0x3054f3(0xfe)](_0x3054f3(0x132))[_0x3054f3(0x12f)](_0x17489d=>{const _0x65ffc6=_0x3054f3;_0x17489d['setAttribute'](_0x65ffc6(0x16a),String(_0x17489d['dataset'][_0x65ffc6(0xd1)]===_0x439ac1));}),_0xcbe2ab[_0x3054f3(0x126)]({'behavior':_0x3054f3(0xdb),'block':_0x3054f3(0x11e)});try{const _0x1cf644=await loadDungeonCatalog(_0x3c53b9);if(activeDungeonCarousel?.[_0x3054f3(0x142)]!==_0x439ac1)return;activeDungeonCarousel['dungeons']=_0x1cf644,renderDungeonCarousel();}catch(_0x50e1e1){activeDungeonCarousel?.[_0x3054f3(0x142)]===_0x439ac1&&(_0xf35c03[_0x3054f3(0x130)]=errorMessage(_0x50e1e1));}}}function renderDungeonCarousel(){const _0x4607dc=_0x5b68c5,_0x47bd01=activeDungeonCarousel;if(!_0x47bd01)return;const _0x31eef8=document[_0x4607dc(0xd5)](_0x4607dc(0x139)),_0x38a10b=_0x47bd01[_0x4607dc(0x110)][_0x4607dc(0xe3)];if(!_0x38a10b)return _0x31eef8[_0x4607dc(0x130)]=_0x4607dc(0xe0),void updateDungeonCarouselControls();const _0x367ec9=Math['min'](0x5,_0x38a10b),_0x10d66d=-Math[_0x4607dc(0x124)]((_0x367ec9-0x1)/0x2),_0x2f1574=Array[_0x4607dc(0x160)]({'length':_0x367ec9},(_0x174611,_0x214fc6)=>_0x10d66d+_0x214fc6);_0x31eef8[_0x4607dc(0x130)]=_0x2f1574[_0x4607dc(0x122)](_0x119242=>{const _0x335991=_0x4607dc,_0x18495b=(_0x47bd01[_0x335991(0x11c)]+_0x119242+_0x38a10b)%_0x38a10b;return dungeonCarouselCard(_0x47bd01[_0x335991(0x110)][_0x18495b],_0x47bd01[_0x335991(0x142)],_0x18495b,_0x119242,_0x38a10b);})[_0x4607dc(0xcd)](''),updateDungeonCarouselControls();}function dungeonCarouselCard(_0x346ea6,_0x3c9e73,_0x3aa791,_0x3f3db8,_0x4c8125){const _0x10b793=_0x5b68c5,_0x3b224e=dungeonImageUrl(_0x3c9e73,_0x346ea6['imgdungeon']);return _0x10b793(0x13e)+_0x3f3db8+_0x10b793(0xbf)+_0x3f3db8+_0x10b793(0xed)+(_0x3aa791+0x1)+'\x20of\x20'+_0x4c8125+_0x10b793(0x135)+escapeHtml(_0x3b224e)+'\x22\x20alt=\x22\x22\x20loading=\x22eager\x22\x20decoding=\x22async\x22\x20onerror=\x22this.hidden=true\x22></div>';}function moveDungeonCarousel(_0x453a88){const _0xef99a2=_0x5b68c5,_0x4adb19=activeDungeonCarousel,_0x1a5d06=_0x4adb19?.[_0xef99a2(0x110)][_0xef99a2(0xe3)]||0x0;if(_0x1a5d06<0x2)return;if(_0x4adb19[_0xef99a2(0x11c)]=(_0x4adb19[_0xef99a2(0x11c)]+_0x453a88+_0x1a5d06)%_0x1a5d06,_0x1a5d06<=0x5)return void renderDungeonCarousel();const _0x3dcd4f=document[_0xef99a2(0xd5)](_0xef99a2(0x139));Array[_0xef99a2(0x160)](_0x3dcd4f[_0xef99a2(0xfe)](_0xef99a2(0x153)))[_0xef99a2(0x12f)](_0x2e82f4=>{const _0x244e1e=_0xef99a2,_0x465074=Number(_0x2e82f4['dataset'][_0x244e1e(0x116)]),_0x305286=_0x465074-_0x453a88;if(_0x305286<-0x2||_0x305286>0x2)return void _0x2e82f4['remove']();_0x2e82f4[_0x244e1e(0x163)][_0x244e1e(0x103)]('is-position-'+_0x465074),_0x2e82f4[_0x244e1e(0x163)][_0x244e1e(0xd2)](_0x244e1e(0x105)+_0x305286),_0x2e82f4[_0x244e1e(0xdc)][_0x244e1e(0x116)]=String(_0x305286);const _0x6aac3f=(_0x4adb19[_0x244e1e(0x11c)]+_0x305286+_0x1a5d06)%_0x1a5d06;_0x2e82f4[_0x244e1e(0x16b)](_0x244e1e(0xd3),_0x244e1e(0x162)+(_0x6aac3f+0x1)+_0x244e1e(0x10d)+_0x1a5d06);});const _0x14975a=_0x453a88>0x0?0x2:-0x2,_0x5e1bb0=(_0x4adb19[_0xef99a2(0x11c)]+_0x14975a+_0x1a5d06)%_0x1a5d06;_0x3dcd4f[_0xef99a2(0xbb)](_0x453a88>0x0?_0xef99a2(0xcb):_0xef99a2(0xc3),dungeonCarouselCard(_0x4adb19[_0xef99a2(0x110)][_0x5e1bb0],_0x4adb19['type'],_0x5e1bb0,_0x14975a,_0x1a5d06)),updateDungeonCarouselControls();}function updateDungeonCarouselControls(){const _0x8446bd=_0x5b68c5;if(!activeDungeonCarousel)return;const _0x4a8352=activeDungeonCarousel[_0x8446bd(0x110)][_0x8446bd(0xe3)];document[_0x8446bd(0xd5)](_0x8446bd(0x171))[_0x8446bd(0x148)]=_0x4a8352?activeDungeonCarousel[_0x8446bd(0x11c)]+0x1+_0x8446bd(0xeb)+_0x4a8352:_0x8446bd(0x16f),document['querySelector'](_0x8446bd(0x15a))[_0x8446bd(0x146)]=_0x4a8352<0x2,document['querySelector'](_0x8446bd(0x173))[_0x8446bd(0x146)]=_0x4a8352<0x2;}function currentDungeonTemplate(_0x420555,_0x1d5b58){const _0x249060=_0x5b68c5,_0x3f6389=dungeonImageUrl(_0x1d5b58,_0x420555[_0x249060(0x164)]),_0x5ec765=_0x420555[_0x249060(0xbd)]?_0x249060(0x11a)+escapeHtml(_0x1d5b58)+_0x249060(0xd6)+escapeHtml(dungeonImageUrl(_0x1d5b58,_0x420555[_0x249060(0xbd)]))+_0x249060(0xfa)+escapeHtml(_0x1d5b58)+_0x249060(0xc2):'',_0x1d389c=_0x420555[_0x249060(0xbd)]?_0x249060(0x16c):'';return _0x249060(0xda)+_0x5ec765+_0x249060(0xc7)+escapeHtml(_0x3f6389)+_0x249060(0x136)+escapeHtml(_0x1d5b58)+_0x249060(0x154)+_0x1d389c+'</div>';}function dungeonRecapUrl(_0x4aeeec){const _0x5218ea=_0x5b68c5;return API_CONFIG[_0x5218ea(0xe4)][_0x5218ea(0x149)]+_0x5218ea(0xc0)+encodeURIComponent(_0x4aeeec)+_0x5218ea(0x125);}function _0x41f0(_0x123b26,_0x250264){_0x123b26=_0x123b26-0xb8;const _0x2d220e=_0x2d22();let _0x41f089=_0x2d220e[_0x123b26];if(_0x41f0['hPDKfj']===undefined){var _0x5bab77=function(_0x54910a){const _0xf85669='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xfd8708='',_0x5eb264='';for(let _0x2dd9a0=0x0,_0x3979d3,_0x5c5eda,_0x2c1662=0x0;_0x5c5eda=_0x54910a['charAt'](_0x2c1662++);~_0x5c5eda&&(_0x3979d3=_0x2dd9a0%0x4?_0x3979d3*0x40+_0x5c5eda:_0x5c5eda,_0x2dd9a0++%0x4)?_0xfd8708+=String['fromCharCode'](0xff&_0x3979d3>>(-0x2*_0x2dd9a0&0x6)):0x0){_0x5c5eda=_0xf85669['indexOf'](_0x5c5eda);}for(let _0x2c008f=0x0,_0x35c823=_0xfd8708['length'];_0x2c008f<_0x35c823;_0x2c008f++){_0x5eb264+='%'+('00'+_0xfd8708['charCodeAt'](_0x2c008f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5eb264);};_0x41f0['pEYjvc']=_0x5bab77,_0x41f0['OjVHMM']={},_0x41f0['hPDKfj']=!![];}const _0x45acf7=_0x2d220e[0x0],_0x419c03=_0x123b26+_0x45acf7,_0x20a60b=_0x41f0['OjVHMM'][_0x419c03];return!_0x20a60b?(_0x41f089=_0x41f0['pEYjvc'](_0x41f089),_0x41f0['OjVHMM'][_0x419c03]=_0x41f089):_0x41f089=_0x20a60b,_0x41f089;}function dungeonImageUrl(_0x31190b,_0x4ea543){const _0x34ba73=_0x5b68c5,_0x231be8=String(_0x4ea543||'')[_0x34ba73(0x13d)]('/')[_0x34ba73(0x15c)]();return API_CONFIG[_0x34ba73(0xe4)][_0x34ba73(0x149)]+'/'+encodeURIComponent(_0x31190b)+'/'+encodeURIComponent(_0x231be8);}
+const DUNGEON_PAGE_TYPES = [
+  { type: 'challenge', label: 'Challenge' },
+  { type: 'experiment', label: 'Experiment' },
+  { type: 'raid', label: 'Raid' },
+];
+
+const DUNGEON_CATALOGS = new Map();
+const DUNGEON_CATALOG_REQUESTS = new Map();
+const DUNGEON_RAID_SCHEDULES = new Map();
+const DUNGEON_COUNTDOWN_INTERVALS = new Map();
+let activeDungeonCarousel = null;
+
+function initDungeonsPage() {
+  const page = document.getElementById('pageContent');
+  const background = `${SITE_BASE}/assets/img/dungeons/bg_dungeon.jpg`;
+  const dungeonTitle = `${API_CONFIG.assets.dungeonImages}/dungeons_title.png`;
+  page.innerHTML = `<section class="dungeons-page" style="--dungeons-background:url('${background}')"><header class="dungeons-hero"><p class="dungeons-hero__eyebrow">Features</p><img class="dungeons-hero__logo" src="${dungeonTitle}" alt="Dungeons"><h1>Dungeons</h1><p>Explore the current challenges, experiments, and raids.</p></header><div class="dungeons-recaps" aria-label="Dungeon types">${DUNGEON_PAGE_TYPES.map(({ type }) => `<button class="dungeons-recap" type="button" data-dungeon-type="${type}" aria-label="${type} dungeons" aria-pressed="false" style="--dungeons-recap-image:url('${dungeonRecapUrl(type)}')"></button>`).join('')}</div><section class="dungeon-carousel" id="dungeonCarousel" aria-labelledby="dungeonCarouselTitle" tabindex="-1" hidden><div class="dungeon-carousel__heading"><div><p class="dungeons-hero__eyebrow">Explore dungeons</p><h2 id="dungeonCarouselTitle"></h2></div><button class="dungeon-carousel__close" type="button" data-carousel-close aria-label="Close carousel">×</button></div><div class="dungeon-carousel__viewport"><div class="dungeon-carousel__stage" id="dungeonCarouselStage"></div></div><div class="dungeon-carousel__controls"><button class="dungeon-carousel__button" type="button" data-carousel-previous aria-label="Previous dungeon">‹ <span>Previous</span></button><span class="dungeon-carousel__count" id="dungeonCarouselCount" aria-live="polite"></span><button class="dungeon-carousel__button" type="button" data-carousel-next aria-label="Next dungeon"><span>Next</span> ›</button></div></section><section class="dungeons-current"><div class="dungeons-current__heading"><p class="dungeons-hero__eyebrow">Featured encounters</p><h2>Current Dungeons</h2></div><div class="dungeons-current__grid">${DUNGEON_PAGE_TYPES.map(({ type, label }) => `<article class="dungeon-card" id="current-${type}" aria-label="${label}"><div class="dungeon-card__content" id="dungeon-${type}"><p class="loading">Loading ${label.toLowerCase()}...</p></div></article>`).join('')}</div></section><section class="dungeons-current__rewards" id="currentDungeonRewards" aria-label="Dungeon rewards" hidden><img id="currentDungeonRewardsImage" alt="" loading="lazy"><p class="dungeons-current__rewards-error" hidden>Dungeon rewards image unavailable</p></section></section>`;
+  DUNGEON_PAGE_TYPES.forEach(({ type }) => {
+    const countdown = document.createElement('div');
+    countdown.id = `dungeon-${type}-countdown`;
+    countdown.className = 'dungeon-countdown';
+    countdown.hidden = true;
+    countdown.setAttribute('aria-live', 'off');
+    const content = document.getElementById(`dungeon-${type}`);
+    content.parentElement.insertBefore(countdown, content);
+  });
+  bindDungeonCarouselControls(page);
+  bindCurrentDungeonRewardToggles(page);
+  loadCurrentDungeons();
+}
+
+async function loadCurrentDungeons() {
+  await Promise.all(DUNGEON_PAGE_TYPES.map(loadCurrentDungeon));
+}
+
+function loadDungeonCatalog({ type }) {
+  if (DUNGEON_CATALOGS.has(type)) return Promise.resolve(DUNGEON_CATALOGS.get(type));
+  if (!DUNGEON_CATALOG_REQUESTS.has(type)) {
+    const endpoint = `${API_CONFIG.api.dungeons}?type=${encodeURIComponent(type)}`;
+    const request = fetch(endpoint)
+      .then(response => {
+        if (!response.ok) throw new Error(`Unable to load ${type} dungeons`);
+        return response.json();
+      })
+      .then(data => {
+        if (!Array.isArray(data.dungeons)) throw new Error('Invalid dungeon response');
+        DUNGEON_CATALOGS.set(type, data.dungeons);
+        if (type === 'raid') DUNGEON_RAID_SCHEDULES.set(type, data.raidSchedule || null);
+        return data.dungeons;
+      });
+    DUNGEON_CATALOG_REQUESTS.set(type, request);
+    request.catch(() => {
+      if (DUNGEON_CATALOG_REQUESTS.get(type) === request) DUNGEON_CATALOG_REQUESTS.delete(type);
+    });
+  }
+  return DUNGEON_CATALOG_REQUESTS.get(type);
+}
+
+async function loadCurrentDungeon({ type, label }) {
+  const content = document.getElementById(`dungeon-${type}`);
+  try {
+    const dungeons = await loadDungeonCatalog({ type, label });
+    const raidSchedule = DUNGEON_RAID_SCHEDULES.get(type);
+    if (type === 'raid') renderRaidCountdown(raidSchedule);
+    const dungeon = type === 'raid'
+      ? currentRaidBySchedule(dungeons, raidSchedule)
+      : dungeons.find(item => isDungeonScheduledNow(item));
+    if (!dungeon) {
+      const message = type === 'raid'
+        ? `No active ${label.toLowerCase()} dungeon found.`
+        : `No ${label.toLowerCase()} dungeon is scheduled at this time.`;
+      content.innerHTML = `<p class="offers-status">${escapeHtml(message)}</p>`;
+      return;
+    }
+    if (type !== 'raid') renderScheduledDungeonCountdown(type, dungeons, dungeon);
+    content.innerHTML = currentDungeonTemplate(dungeon, type);
+  } catch (error) {
+    content.innerHTML = errorMessage(error);
+  }
+}
+
+function renderRaidCountdown(schedule) {
+  const current = schedule?.current;
+  const next = Array.isArray(schedule?.upcoming) ? schedule.upcoming[0] : null;
+  const now = Date.now();
+  const nextStart = Date.parse(next?.startsAt);
+  const endDateTime = Date.parse(current?.endDateTime);
+  const remainingSeconds = Number(current?.remainingSeconds);
+  const endDate = Date.parse(current?.endDate);
+  const targetTime = Number.isFinite(nextStart)
+    ? nextStart
+    : Number.isFinite(endDateTime)
+      ? endDateTime
+    : Number.isFinite(remainingSeconds) && current?.remainingSeconds !== null && String(current?.remainingSeconds ?? '').trim() !== ''
+      ? now + remainingSeconds * 1000
+      : endDate;
+  const nextRaidName = next?.raid?.name;
+  const label = nextRaidName
+    ? `Next raid: ${escapeHtml(nextRaidName)} starts in`
+    : 'Next raid starts in';
+  renderDungeonCountdown('raid', targetTime, label, 'Next raid start not announced', 'Starting now');
+}
+
+function renderScheduledDungeonCountdown(type, dungeons, currentDungeon) {
+  const endTime = Date.parse(currentDungeon.endAt);
+  const nextDungeon = dungeons.find(dungeon => (
+    dungeon.id !== currentDungeon.id
+    && Date.parse(dungeon.startAt) === endTime
+  ));
+  const targetTime = nextDungeon ? Date.parse(nextDungeon.startAt) : endTime;
+  const label = nextDungeon
+    ? `Next ${type} starts in`
+    : `${type.charAt(0).toUpperCase() + type.slice(1)} ends in`;
+  renderDungeonCountdown(type, targetTime, label, `${type} end date not announced`);
+}
+
+function renderDungeonCountdown(type, targetTime, label, missingLabel, finishedLabel = 'Finished') {
+  const previousInterval = DUNGEON_COUNTDOWN_INTERVALS.get(type);
+  if (previousInterval !== undefined) {
+    clearInterval(previousInterval);
+    DUNGEON_COUNTDOWN_INTERVALS.delete(type);
+  }
+  const countdown = document.getElementById(`dungeon-${type}-countdown`);
+  if (!countdown) return;
+  countdown.hidden = false;
+  if (!Number.isFinite(targetTime)) {
+    countdown.innerHTML = `<span class="dungeon-countdown__label">${escapeHtml(missingLabel)}</span>`;
+    return;
+  }
+  countdown.innerHTML = `<span class="dungeon-countdown__label">${label}</span><strong class="dungeon-countdown__value" role="timer"></strong>`;
+  const value = countdown.querySelector('.dungeon-countdown__value');
+  const updateCountdown = () => {
+    const totalSeconds = Math.max(0, Math.ceil((targetTime - Date.now()) / 1000));
+    if (totalSeconds === 0) {
+      value.textContent = finishedLabel;
+      value.setAttribute('aria-label', finishedLabel);
+      const interval = DUNGEON_COUNTDOWN_INTERVALS.get(type);
+      if (interval !== undefined) clearInterval(interval);
+      DUNGEON_COUNTDOWN_INTERVALS.delete(type);
+      return;
+    }
+    const days = Math.floor(totalSeconds / 86400);
+    const hours = Math.floor((totalSeconds % 86400) / 3600);
+    const minutes = Math.floor((totalSeconds % 3600) / 60);
+    const seconds = totalSeconds % 60;
+    value.textContent = `${days}d ${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+    value.setAttribute('aria-label', `${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds`);
+  };
+  updateCountdown();
+  if (targetTime > Date.now()) {
+    DUNGEON_COUNTDOWN_INTERVALS.set(type, setInterval(updateCountdown, 1000));
+  }
+}
+
+function currentRaidBySchedule(dungeons, schedule) {
+  const currentDungeonId = schedule?.current?.dungeonId;
+  if (!currentDungeonId) return null;
+  return dungeons.find(dungeon => dungeon.id === currentDungeonId) || null;
+}
+
+function isDungeonScheduledNow(dungeon, now = Date.now()) {
+  const startAt = Date.parse(dungeon.startAt);
+  const endAt = Date.parse(dungeon.endAt);
+  return Number.isFinite(startAt)
+    && Number.isFinite(endAt)
+    && startAt <= now
+    && now < endAt;
+}
+
+function bindDungeonCarouselControls(page) {
+  const carousel = page.querySelector('#dungeonCarousel');
+  const viewport = carousel.querySelector('.dungeon-carousel__viewport');
+  let dragStart = null;
+  page.querySelectorAll('[data-dungeon-type]').forEach(button => {
+    button.addEventListener('click', () => openDungeonCarousel(button.dataset.dungeonType));
+  });
+  carousel.querySelector('[data-carousel-previous]').addEventListener('click', () => moveDungeonCarousel(-1));
+  carousel.querySelector('[data-carousel-next]').addEventListener('click', () => moveDungeonCarousel(1));
+  viewport.addEventListener('pointerdown', event => {
+    if (!event.isPrimary || (event.pointerType === 'mouse' && event.button !== 0)) return;
+    dragStart = { pointerId: event.pointerId, x: event.clientX };
+    viewport.classList.add('is-dragging');
+    viewport.setPointerCapture(event.pointerId);
+  });
+  viewport.addEventListener('pointerup', event => {
+    if (dragStart?.pointerId !== event.pointerId) return;
+    const distance = event.clientX - dragStart.x;
+    dragStart = null;
+    viewport.classList.remove('is-dragging');
+    if (Math.abs(distance) >= 45) moveDungeonCarousel(distance < 0 ? 1 : -1);
+  });
+  viewport.addEventListener('pointercancel', () => {
+    dragStart = null;
+    viewport.classList.remove('is-dragging');
+  });
+  carousel.querySelector('[data-carousel-close]').addEventListener('click', () => {
+    carousel.hidden = true;
+    activeDungeonCarousel = null;
+    page.querySelectorAll('[data-dungeon-type]').forEach(button => button.setAttribute('aria-pressed', 'false'));
+  });
+}
+
+function bindCurrentDungeonRewardToggles(page) {
+  const grid = page.querySelector('.dungeons-current__grid');
+  const rewards = page.querySelector('#currentDungeonRewards');
+  const image = page.querySelector('#currentDungeonRewardsImage');
+  const error = rewards.querySelector('.dungeons-current__rewards-error');
+  image.addEventListener('error', () => {
+    image.hidden = true;
+    error.hidden = false;
+  });
+  grid.addEventListener('click', event => {
+    const toggle = event.target.closest('[data-dungeon-rewards-toggle]');
+    if (!toggle) return;
+    const expanded = toggle.getAttribute('aria-expanded') === 'true';
+    grid.querySelectorAll('[data-dungeon-rewards-toggle]').forEach(button => {
+      button.setAttribute('aria-expanded', 'false');
+      button.setAttribute('aria-label', `Show ${button.dataset.dungeonType} dungeon rewards`);
+    });
+    rewards.hidden = expanded;
+    if (expanded) return;
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.setAttribute('aria-label', `Hide ${toggle.dataset.dungeonType} dungeon rewards`);
+    image.hidden = false;
+    error.hidden = true;
+    image.alt = `${toggle.dataset.dungeonType} dungeon rewards`;
+    image.src = toggle.dataset.dungeonRewardsSrc;
+  });
+}
+
+async function openDungeonCarousel(type) {
+  const config = DUNGEON_PAGE_TYPES.find(item => item.type === type);
+  if (!config) return;
+  const carousel = document.getElementById('dungeonCarousel');
+  const title = document.getElementById('dungeonCarouselTitle');
+  const stage = document.getElementById('dungeonCarouselStage');
+  if (activeDungeonCarousel?.type === type && !carousel.hidden) return;
+  activeDungeonCarousel = { type, dungeons: [], index: 0 };
+  title.textContent = `${config.label} Dungeons`;
+  stage.innerHTML = '<p class="loading">Loading dungeons...</p>';
+  carousel.hidden = false;
+  document.querySelectorAll('[data-dungeon-type]').forEach(button => {
+    button.setAttribute('aria-pressed', String(button.dataset.dungeonType === type));
+  });
+  carousel.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  try {
+    const dungeons = await loadDungeonCatalog(config);
+    if (activeDungeonCarousel?.type !== type) return;
+    activeDungeonCarousel.dungeons = dungeons;
+    renderDungeonCarousel();
+  } catch (error) {
+    if (activeDungeonCarousel?.type === type) stage.innerHTML = errorMessage(error);
+  }
+}
+
+function renderDungeonCarousel() {
+  const carousel = activeDungeonCarousel;
+  if (!carousel) return;
+  const stage = document.getElementById('dungeonCarouselStage');
+  const count = carousel.dungeons.length;
+  if (!count) {
+    stage.innerHTML = '<p class="offers-status">No dungeons found.</p>';
+    updateDungeonCarouselControls();
+    return;
+  }
+  const visibleCount = Math.min(5, count);
+  const firstOffset = -Math.floor((visibleCount - 1) / 2);
+  const offsets = Array.from({ length: visibleCount }, (_, index) => firstOffset + index);
+  stage.innerHTML = offsets.map(offset => {
+    const dungeonIndex = (carousel.index + offset + count) % count;
+    return dungeonCarouselCard(carousel.dungeons[dungeonIndex], carousel.type, dungeonIndex, offset, count);
+  }).join('');
+  updateDungeonCarouselControls();
+}
+
+function dungeonCarouselCard(dungeon, type, index, offset, count) {
+  const image = dungeonImageUrl(type, dungeon.imgdungeon);
+  return `<div class="dungeon-carousel__card is-position-${offset}" data-position="${offset}" role="group" aria-label="Dungeon ${index + 1} of ${count}"><img src="${escapeHtml(image)}" alt="" loading="eager" decoding="async" onerror="this.hidden=true"></div>`;
+}
+
+function moveDungeonCarousel(direction) {
+  const carousel = activeDungeonCarousel;
+  const count = carousel?.dungeons.length || 0;
+  if (count < 2) return;
+  carousel.index = (carousel.index + direction + count) % count;
+  if (count <= 5) {
+    renderDungeonCarousel();
+    return;
+  }
+  const stage = document.getElementById('dungeonCarouselStage');
+  const cards = Array.from(stage.querySelectorAll('.dungeon-carousel__card'));
+  cards.forEach(card => {
+    const oldPosition = Number(card.dataset.position);
+    const nextPosition = oldPosition - direction;
+    if (nextPosition < -2 || nextPosition > 2) {
+      card.remove();
+      return;
+    }
+    card.classList.remove(`is-position-${oldPosition}`);
+    card.classList.add(`is-position-${nextPosition}`);
+    card.dataset.position = String(nextPosition);
+    const dungeonIndex = (carousel.index + nextPosition + count) % count;
+    card.setAttribute('aria-label', `Dungeon ${dungeonIndex + 1} of ${count}`);
+  });
+  const nextPosition = direction > 0 ? 2 : -2;
+  const dungeonIndex = (carousel.index + nextPosition + count) % count;
+  stage.insertAdjacentHTML(direction > 0 ? 'beforeend' : 'afterbegin', dungeonCarouselCard(
+    carousel.dungeons[dungeonIndex],
+    carousel.type,
+    dungeonIndex,
+    nextPosition,
+    count
+  ));
+  updateDungeonCarouselControls();
+}
+
+function updateDungeonCarouselControls() {
+  if (!activeDungeonCarousel) return;
+  const count = activeDungeonCarousel.dungeons.length;
+  document.getElementById('dungeonCarouselCount').textContent = count
+    ? `${activeDungeonCarousel.index + 1} / ${count}`
+    : '0 / 0';
+  document.querySelector('[data-carousel-previous]').disabled = count < 2;
+  document.querySelector('[data-carousel-next]').disabled = count < 2;
+}
+
+function currentDungeonTemplate(dungeon, type) {
+  const image = dungeonImageUrl(type, dungeon.imgdungeon);
+  const toggle = dungeon.imgdungeonrewards
+    ? `<button class="dungeon-card__toggle" type="button" data-dungeon-rewards-toggle data-dungeon-type="${escapeHtml(type)}" data-dungeon-rewards-src="${escapeHtml(dungeonImageUrl(type, dungeon.imgdungeonrewards))}" aria-label="Show ${escapeHtml(type)} dungeon rewards" aria-expanded="false" aria-controls="currentDungeonRewards">`
+    : '';
+  const toggleEnd = dungeon.imgdungeonrewards ? '</button>' : '';
+  return `<div class="dungeon-card__art">${toggle}<img src="${escapeHtml(image)}" alt="${escapeHtml(type)} dungeon" loading="lazy" onerror="this.remove()">${toggleEnd}</div>`;
+}
+
+function dungeonRecapUrl(type) {
+  return `${API_CONFIG.assets.dungeonImages}/machine_${encodeURIComponent(type)}_recap.png`;
+}
+
+function dungeonImageUrl(type, image) {
+  const filename = String(image || '').split('/').pop();
+  return `${API_CONFIG.assets.dungeonImages}/${encodeURIComponent(type)}/${encodeURIComponent(filename)}`;
+}

@@ -1,1 +1,145 @@
-function _0x1ed5(_0xe3b4e,_0x26921a){_0xe3b4e=_0xe3b4e-0x17e;var _0x2771f8=_0x2771();var _0x1ed5f1=_0x2771f8[_0xe3b4e];if(_0x1ed5['LLzFgF']===undefined){var _0x32dafe=function(_0x5b2280){var _0x5b7b76='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x4e5f18='',_0x2d4302='';for(var _0x5e78ee=0x0,_0x2cbc53,_0x499bb7,_0x41793f=0x0;_0x499bb7=_0x5b2280['charAt'](_0x41793f++);~_0x499bb7&&(_0x2cbc53=_0x5e78ee%0x4?_0x2cbc53*0x40+_0x499bb7:_0x499bb7,_0x5e78ee++%0x4)?_0x4e5f18+=String['fromCharCode'](0xff&_0x2cbc53>>(-0x2*_0x5e78ee&0x6)):0x0){_0x499bb7=_0x5b7b76['indexOf'](_0x499bb7);}for(var _0x49a353=0x0,_0x21dc03=_0x4e5f18['length'];_0x49a353<_0x21dc03;_0x49a353++){_0x2d4302+='%'+('00'+_0x4e5f18['charCodeAt'](_0x49a353)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2d4302);};_0x1ed5['gCJfEQ']=_0x32dafe,_0x1ed5['AuirGX']={},_0x1ed5['LLzFgF']=!![];}var _0x3e0b69=_0x2771f8[0x0],_0x7aae87=_0xe3b4e+_0x3e0b69,_0x4d8432=_0x1ed5['AuirGX'][_0x7aae87];return!_0x4d8432?(_0x1ed5f1=_0x1ed5['gCJfEQ'](_0x1ed5f1),_0x1ed5['AuirGX'][_0x7aae87]=_0x1ed5f1):_0x1ed5f1=_0x4d8432,_0x1ed5f1;}var _0x5b7917=_0x1ed5;(function(_0x57e2a5,_0x2e6484){var _0x40e2a3=_0x1ed5,_0x1e7023=_0x57e2a5();while(!![]){try{var _0x1cfda7=-parseInt(_0x40e2a3(0x1d8))/0x1+parseInt(_0x40e2a3(0x196))/0x2+-parseInt(_0x40e2a3(0x185))/0x3+parseInt(_0x40e2a3(0x1c9))/0x4*(parseInt(_0x40e2a3(0x191))/0x5)+-parseInt(_0x40e2a3(0x1af))/0x6*(-parseInt(_0x40e2a3(0x1b6))/0x7)+-parseInt(_0x40e2a3(0x1d5))/0x8*(-parseInt(_0x40e2a3(0x1b9))/0x9)+-parseInt(_0x40e2a3(0x181))/0xa*(parseInt(_0x40e2a3(0x1c6))/0xb);if(_0x1cfda7===_0x2e6484)break;else _0x1e7023['push'](_0x1e7023['shift']());}catch(_0x3ca726){_0x1e7023['push'](_0x1e7023['shift']());}}}(_0x2771,0xccfa6),(window[_0x5b7917(0x180)]={'starRanks':[{'value':0x0,'key':_0x5b7917(0x184),'label':_0x5b7917(0x1c1)},{'value':0x1,'key':_0x5b7917(0x1c2),'label':_0x5b7917(0x1a5)},{'value':0x2,'key':'silver','label':'Silver'},{'value':0x3,'key':_0x5b7917(0x195),'label':_0x5b7917(0x189)},{'value':0x4,'key':_0x5b7917(0x1a2),'label':'Platinum'}],'api':{'specimens':'https://mgroup.alwaysdata.net/api/v1/specimens','specimenLists':_0x5b7917(0x1bb),'specimen':_0x5b7917(0x183),'availability':_0x5b7917(0x192),'dungeonRewards':_0x5b7917(0x1a1),'offers':_0x5b7917(0x1ba),'sprintOffers':'https://mgroup.alwaysdata.net/api/v1/offers/sprint/latest','gacha':'https://mgroup.alwaysdata.net/api/v1/gacha','pvp':_0x5b7917(0x18d),'pvpItem':_0x5b7917(0x1bd),'dungeons':_0x5b7917(0x1aa),'currentBuilding':_0x5b7917(0x1c8),'morphology':_0x5b7917(0x1d6),'morphologyData':_0x5b7917(0x197)},'data':{'mutants':_0x5b7917(0x1ad)},'assets':{'root':'https://s-ak.kobojo.com/mutants/assets','offerImages':'https://picmg.pages.dev/offers','dungeonImages':_0x5b7917(0x1d3),'buildingImages':'https://picmg.pages.dev/buildings','thumbnails':_0x5b7917(0x19f),'orbImage':_0x5b7917(0x188),'fightUi':_0x5b7917(0x187),'gene':_0x5b7917(0x1cb),'attackGene':_0x5b7917(0x1b0),'larva':_0x5b7917(0x19e),'skinStars':{'basic':'/assets/img/icon/btn_black.png','bronze':'https://s-ak.kobojo.com/mutants/assets/mobile/thumbnails/star_bronze.png','silver':_0x5b7917(0x1c7),'gold':_0x5b7917(0x1ab),'platinum':_0x5b7917(0x182)},'gachaSkin':_0x5b7917(0x1d7),'gachaSkinFallback':_0x5b7917(0x1bc),'icons':{'orb':{'n':_0x5b7917(0x18f),'s':_0x5b7917(0x1d1)},'ability':_0x5b7917(0x1a8),'life':_0x5b7917(0x1cf),'speed':_0x5b7917(0x18e),'type':_0x5b7917(0x1ae),'mappings':{'geneFiles':{'a':'a','b':'b','c':'c','d':'d','e':'e','f':'f','n':'all'},'attackGeneFiles':{'a':'a','b':'b','c':'c','d':'d','e':'e','f':'f','n':'n'},'abilityFiles':{'weaken_plus':_0x5b7917(0x1b2),'shield_plus':'shield','regen':_0x5b7917(0x1d0),'regenerate':_0x5b7917(0x1d0),'regenerate_plus':'regenerate'},'orbTypeLabels':{'attack':'Attack','critical':_0x5b7917(0x198),'life':_0x5b7917(0x1cc),'retaliate':_0x5b7917(0x1b4),'shield':_0x5b7917(0x18a),'slash':_0x5b7917(0x1a0),'strengthen':_0x5b7917(0x1d2),'weaken':_0x5b7917(0x18b),'regenerate':_0x5b7917(0x1b3),'speed':_0x5b7917(0x1b5)},'typeFiles':{'LEGEND':_0x5b7917(0x1a7),'GACHA':'gacha','HEROIC':_0x5b7917(0x1a6),'PVP':_0x5b7917(0x18c),'RECIPE':_0x5b7917(0x1bf),'SEASONAL':'seasonal','CAPTAINPEACE':'captainpeace','VIDEOGAME':_0x5b7917(0x1b8),'COMMUNITY':_0x5b7917(0x1b1)}}}}},window[_0x5b7917(0x17e)]={'LEGEND':{'label':_0x5b7917(0x1b7),'className':_0x5b7917(0x1be),'color':'#ff4747','background':'rgba(255,\x2068,\x2068,\x200.25)'},'GACHA':{'label':'Gacha','className':_0x5b7917(0x19c),'color':_0x5b7917(0x193),'background':'rgba(112,\x20169,\x20255,\x200.18)'},'HEROIC':{'label':'Heroic','className':_0x5b7917(0x1a6),'color':_0x5b7917(0x1ce),'background':_0x5b7917(0x1ac)},'PVP':{'label':_0x5b7917(0x199),'className':_0x5b7917(0x18c),'color':_0x5b7917(0x1ca),'background':_0x5b7917(0x1d9)},'RECIPE':{'label':_0x5b7917(0x1a9),'className':_0x5b7917(0x1bf),'color':_0x5b7917(0x190),'background':_0x5b7917(0x1c3)},'SEASONAL':{'label':_0x5b7917(0x17f),'className':'seasonal','color':'#e057c9','background':_0x5b7917(0x1c4)},'CAPTAINPEACE':{'label':'captainpeace','className':_0x5b7917(0x19b),'color':_0x5b7917(0x1cd),'background':_0x5b7917(0x194)},'VIDEOGAME':{'label':'Videogame','className':_0x5b7917(0x1b8),'color':_0x5b7917(0x1a3),'background':_0x5b7917(0x1c5)},'COMMUNITY':{'label':_0x5b7917(0x186),'className':_0x5b7917(0x1b1),'color':'#57bde0','background':_0x5b7917(0x19d)},'DEFAULT':{'label':_0x5b7917(0x19a),'className':_0x5b7917(0x1a4),'color':'#fff000','background':_0x5b7917(0x1da)}},window[_0x5b7917(0x1c0)]={'rarityLabels':{'common':_0x5b7917(0x19a),'recipe':'Secrets','gacha':_0x5b7917(0x1d4),'legendary':_0x5b7917(0x1b7),'heroic':'Heroic','captainpeace':'Exclusive','community':'Community'},'pageSize':0x18}));function _0x2771(){var _0x40bc6a=['q29TBw9U','y2fWDgfPBNbLywnL','z2fJAge','CMDIysG4nYWGmJaZlcaYmJqSidaUmtuP','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBgfYDMfZl2XHCNzHx3TZCgvJAw1LBKLKFs5WBMC','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVDgH1BwjUywLSCW','u2XHC2G','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl2r1BMDLB25Zl3jLD2fYzhmVE2LKFq','CgXHDgLUDw0','iZu3zta4yq','y29TBw9U','qNjVBNPL','AgvYB2LJ','BgvNzw5K','l2fZC2v0CY9PBwCVywjPBgL0AwvZl2fIAwXPDhLFE2fIAwXPDhL9x2jPzY5WBMC','uMvJAxbL','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl2r1BMDLB25Z','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl3rODw1IBMfPBhmVC3rHCL9NB2XKlNbUzW','CMDIysG3osWGmJmYlcaYmJqSidaUmtuP','l2rHDgeVBxv0yw50CW','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl2H1zc9Tx21FBs9Py29Ux3T0ExbLFs5WBMC','mtjWBMTxC1y','l2fZC2v0CY9PBwCVz2vUzs9HDhrHy2TFE2DLBMv9E2vMzMvJDh0UCg5N','y29TBxvUAxr5','D2vHA2vU','uMvNzw5LCMf0zq','uMv0ywXPyxrL','u3bLzwq','mJe5mJi4mvPovKLiuq','tgvNzw5Kyxj5','DMLKzw9Nyw1L','otLtv0LYAKu','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl29MzMvYCY9ZCgvJAw1LBI97C3bLy2LTzw59','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl3nWzwnPBwvUlwXPC3rZ','Ahr0Chm6lY9WAwnTzY5WywDLCY5KzxyVz2fJAgfJB250zw50l2LJB25FE3nRAw59lNbUzW','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl3b2Cc9PDgvTl3TPzh0','BgvNzw5Kyxj5','CMvJAxbL','tuDhx0nbvefmt0DFq09orKLh','qMfZAwm','yNjVBNPL','CMDIysG4nYWYmJqSmtm4lc4XnsK','CMDIysGYmtiSidG3lcaYmJqSidaUmtuP','CMDIysGXotmSidi1nsWGmteYlcaWlJe4kq','nZDoCNvjAfy','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl3rODw1IBMfPBhmVC3rHCL9ZAwX2zxiUCg5N','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl2n1CNjLBNqVE2j1AwXKAw5NFq','mtjisgfJu0K','i2zMy2eWma','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl2H1zc9MAwDODf91As9Nzw5Lx3TNzw5LFs5WBMC','tgLMzq','i2zMn2yYoq','iZrMzdnLoa','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl2H1zc9JB21TB25FzMLSzxmVAwnVBL9OCc5WBMC','CMvNzw5LCMf0zq','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVB3jIl29YyL9ZBg90x3nWzs5WBMC','u3rYzw5NDgHLBG','Ahr0Chm6lY9WAwnTzY5WywDLCY5KzxyVzhvUz2vVBG','uMvHy3rVCG','nJy0nJu2zu1fz014','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl21VCNbOB2XVz3K','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVz2fJAgfJB250zw50l2LJB25FE3nRAw59lNbUzW','odu0nJvluNjoEK4','CMDIkde4nsaYmJeGmJyGlYaXnsuP','CMDIysGYmJiSidiYncWGodCSidaUmtuP','tuDhx1rzuevFq09orKLh','u2vHC29UywW','tuDhx0nptKzjrW','ndm4ode5mhrvwKjizW','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl3rODw1IBMfPBhmVC3rHCL9WBgf0Aw51Bs5WBMC','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl3nWzwnPBwvUCY97C3bLy2LTzw59','yMfZAwm','mZeXotGYBvPeEeHO','q29TBxvUAxr5','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl2H1zc9MAwDODf91Aq','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVDgH1BwjUywLSCY97B3jIswr9lNbUzW','r29Sza','u2HPzwXK','v2vHA2vU','ChzW','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl3b2Ca','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVBw9IAwXLl2H1zc9JB21TB25FzMLSzxmVAwnVBL9ZCgvLzc5WBMC','Ahr0Chm6lY9ZlwfRlMTVyM9QBY5JB20VBxv0yw50CY9HC3nLDhmVB3jIl29YyL9ZBg90lNbUzW','DMfYkc0TDg94Aw4P','mtuYmtqYnuvqAxb3ta','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl3nWzwnPBwvUCY97C3bLy2LTzw59l2f2ywLSywjPBgL0Eq','i2e0yMnMzG','CMDIysGYntuSide2ocWGnJGSidaUmtGP','z29Sza','mZi5ntmXoezyCufeqq','Ahr0Chm6lY9Tz3jVDxaUywX3yxLZzgf0ys5UzxqVyxbPl3yXl21VCNbOB2XVz3KVE25HBwv9l2rHDge','q3jPDgLJywW','ufzq'];_0x2771=function(){return _0x40bc6a;};return _0x2771();}
+// Configuracion central de la wiki.
+// Este archivo se carga antes que el resto de scripts y expone sus valores
+// mediante window para conservar compatibilidad con los scripts clasicos.
+window.MGG_CONFIG = {
+  starRanks: [
+    { value: 0, key: 'basic', label: 'Basic' },
+    { value: 1, key: 'bronze', label: 'Bronze' },
+    { value: 2, key: 'silver', label: 'Silver' },
+    { value: 3, key: 'gold', label: 'Gold' },
+    { value: 4, key: 'platinum', label: 'Platinum' },
+  ],
+  // Fuentes de datos, en orden de preferencia en static.js.
+  api: {
+    specimens: 'https://mgroup.alwaysdata.net/api/v1/specimens',
+    specimenLists: 'https://mgroup.alwaysdata.net/api/v1/specimen-lists',
+    specimen: 'https://mgroup.alwaysdata.net/api/v1/specimens/{specimen}',
+    availability: 'https://mgroup.alwaysdata.net/api/v1/specimens/{specimen}/availability',
+    dungeonRewards: 'https://mgroup.alwaysdata.net/api/v1/dungeons/rewards/{id}',
+    offers: 'https://mgroup.alwaysdata.net/api/v1/offers/specimen/{specimen}',
+    sprintOffers: 'https://mgroup.alwaysdata.net/api/v1/offers/sprint/latest',
+    gacha: 'https://mgroup.alwaysdata.net/api/v1/gacha',
+    pvp: 'https://mgroup.alwaysdata.net/api/v1/pvp',
+    pvpItem: 'https://mgroup.alwaysdata.net/api/v1/pvp/item/{id}',
+    dungeons: 'https://mgroup.alwaysdata.net/api/v1/dungeons',
+    currentBuilding: 'https://mgroup.alwaysdata.net/api/v1/current/{building}',
+    morphology: 'https://mgroup.alwaysdata.net/api/v1/morphology',
+    morphologyData: 'https://mgroup.alwaysdata.net/api/v1/morphology/{name}/data',
+  },
+  // Rutas de datos locales usadas como respaldo o configuracion auxiliar.
+  data: {
+    mutants: '/data/mutants',
+  },
+  // Recursos alojados fuera del repositorio o dentro de assets/.
+  assets: {
+    root: 'https://s-ak.kobojo.com/mutants/assets',
+
+    offerImages: 'https://picmg.pages.dev/offers',
+    dungeonImages: 'https://picmg.pages.dev/dungeon',
+    buildingImages: 'https://picmg.pages.dev/buildings',
+    thumbnails: 'https://s-ak.kobojo.com/mutants/assets/thumbnails',
+    orbImage: 'https://s-ak.kobojo.com/mutants/assets/thumbnails/{orbId}.png',
+    fightUi: 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/fight_ui',
+    gene: 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/fight_ui/gene_{gene}.png',
+    attackGene: '/assets/img/gene/attack_{gene}{effect}.png',
+    larva: 'https://s-ak.kobojo.com/mutants/assets/larvas/larva_{specimenId}.png',
+    skinStars: {
+      basic: '/assets/img/icon/btn_black.png',
+      bronze: 'https://s-ak.kobojo.com/mutants/assets/mobile/thumbnails/star_bronze.png',
+      silver: 'https://s-ak.kobojo.com/mutants/assets/mobile/thumbnails/star_silver.png',
+      gold: 'https://s-ak.kobojo.com/mutants/assets/mobile/thumbnails/star_gold.png',
+      platinum: 'https://s-ak.kobojo.com/mutants/assets/mobile/thumbnails/star_platinum.png',
+    },
+    gachaSkin: 'https://s-ak.kobojo.com/mutants/assets/gachacontent/icon_{skin}.png',
+    gachaSkinFallback: 'https://picmg.pages.dev/gachacontent/icon_{skin}.png',
+    // Iconos comunes de la interfaz y del combate.
+    icons: {
+      orb: {
+        n: 'https://s-ak.kobojo.com/mutants/assets/orb/orb_slot.png',
+        s: 'https://s-ak.kobojo.com/mutants/assets/orb/orb_slot_spe.png',
+      },
+      ability: '/assets/img/abilities/ability_{ability}_big.png',
+      life: 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/common_files/icon_hp.png',
+      speed: 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/common_files/icon_speed.png',
+      type: 'https://s-ak.kobojo.com/mutants/assets/mobile/hud/m_m_m/icon_{type}.png',
+      // Traducciones entre claves de datos y nombres de archivos.
+      mappings: {
+        // Archivos de genes normales.
+        geneFiles: {
+          a: 'a',
+          b: 'b',
+          c: 'c',
+          d: 'd',
+          e: 'e',
+          f: 'f',
+          n: 'all',
+        },
+        // Archivos de genes usados por los ataques.
+        attackGeneFiles: {
+          a: 'a',
+          b: 'b',
+          c: 'c',
+          d: 'd',
+          e: 'e',
+          f: 'f',
+          n: 'n',
+        },
+        // Alias de habilidades para localizar sus iconos.
+        abilityFiles: {
+          weaken_plus: 'weaken',
+          shield_plus: 'shield',
+          regen: 'regenerate',
+          regenerate: 'regenerate',
+          regenerate_plus: 'regenerate',
+        },
+        // Etiquetas legibles para los tipos de orbe.
+        orbTypeLabels: {
+          attack: 'Attack',
+          critical: 'Critical',
+          life: 'Life',
+          retaliate: 'Retaliate',
+          shield: 'Shield',
+          slash: 'Slash',
+          strengthen: 'Strengthen',
+          weaken: 'Weaken',
+          regenerate: 'Regenerate',
+          speed: 'Speed',
+        },
+        // Archivos de iconos asociados a cada tipo de mutante.
+        typeFiles: {
+          LEGEND: 'legend',
+          GACHA: 'gacha',
+          HEROIC: 'heroic',
+          PVP: 'pvp',
+          RECIPE: 'recipe',
+          SEASONAL: 'seasonal',
+          CAPTAINPEACE: 'captainpeace',
+          VIDEOGAME: 'videogame',
+          COMMUNITY: 'community',
+        },
+      },
+    },
+  },
+};
+
+// Configuracion visual y clasificacion por tipo de specimen.
+// Se mantiene como global independiente porque static.js la consulta
+// directamente durante la normalizacion de los datos.
+window.MGG_TYPE_CONFIG = {
+  LEGEND: { label: 'Legendary', className: 'legendary', color: '#ff4747', background: 'rgba(255, 68, 68, 0.25)' },
+  GACHA: { label: 'Gacha', className: 'gacha', color: '#a4bcff', background: 'rgba(112, 169, 255, 0.18)' },
+  HEROIC: { label: 'Heroic', className: 'heroic', color: '#4fd3e8', background: 'rgba(79, 232, 224, 0.15)' },
+  PVP: { label: 'PVP', className: 'pvp', color: '#ffca00', background: 'rgb(185 221 26 / 15%)' },
+  RECIPE: { label: 'Recipe', className: 'recipe', color: 'var(--toxin)', background: 'rgba(87,224,138,.15)' },
+  SEASONAL: { label: 'Seasonal', className: 'seasonal', color: '#e057c9', background: 'rgba(212, 87, 224, 0.15)' },
+  CAPTAINPEACE: { label: 'captainpeace', className: 'captainpeace', color: '#ff7f29', background: 'rgba(255, 168, 68, 0.18)' },
+  VIDEOGAME: { label: 'Videogame', className: 'videogame', color: '#57e08a', background: 'rgba(193, 255, 112, 0.18)' },
+  COMMUNITY: { label: 'Community', className: 'community', color: '#57bde0', background: 'rgba(87, 203, 224, 0.15)' },
+  DEFAULT: { label: 'Common', className: 'common', color: '#fff000', background: 'rgba(222, 224, 87, 0.15)' },
+};
+
+// Etiquetas de rareza y parametros de paginacion del catalogo.
+window.MGG_CATALOG_CONFIG = {
+  rarityLabels: { common: 'Common', recipe: 'Secrets', gacha: 'Reactor', legendary: 'Legendary', heroic: 'Heroic', captainpeace: 'Exclusive', community: 'Community' },
+  pageSize: 24,
+};
