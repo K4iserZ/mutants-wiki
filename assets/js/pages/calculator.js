@@ -54,26 +54,17 @@ window.MGG_CALCULATOR = {
       return html2CanvasPromise;
     }
 
-    async function verifyImageExportAccess(images) {
-      const checkedOrigins = new Set();
-      for (const image of images) {
-        const source = new URL(image.currentSrc || image.src, window.location.href);
-        if (source.origin === window.location.origin || checkedOrigins.has(source.origin)) continue;
-        checkedOrigins.add(source.origin);
-        const probe = new Image();
-        probe.crossOrigin = 'anonymous';
-        probe.src = source.href;
-        try {
-          await probe.decode();
-          const canvas = document.createElement('canvas');
-          canvas.width = 1;
-          canvas.height = 1;
-          canvas.getContext('2d').drawImage(probe, 0, 0, 1, 1);
-          canvas.toDataURL('image/jpeg');
-        } catch {
-          throw new Error(`The image server blocks JPG export from ${window.location.origin}.`);
-        }
-      }
+    function proxyCalculatorImage(source) {
+      const match = String(source).match(/^https:\/\/s-ak\.kobojo\.com\/mutants\/assets\/(.+)$/i);
+      if (!match) return source;
+      return `${window.location.origin}/.netlify/functions/image-proxy?path=${encodeURIComponent(match[1])}`;
+    }
+
+    function proxyCalculatorImageUrls(value) {
+      return value.replace(
+        /https:\/\/s-ak\.kobojo\.com\/mutants\/assets\/([a-z0-9_./%-]+)/gi,
+        (_, path) => proxyCalculatorImage(`https://s-ak.kobojo.com/mutants/assets/${path}`)
+      );
     }
 
     async function exportComparison() {
@@ -87,7 +78,6 @@ window.MGG_CALCULATOR = {
         await document.fonts?.ready;
         const cards = [...catalogHost.querySelectorAll('.calculator-card img:not([hidden])')];
         await Promise.all(cards.map(image => image.decode()));
-        await verifyImageExportAccess(cards);
         const html2canvas = await loadHtml2Canvas();
         const canvas = await html2canvas(catalogHost, {
           backgroundColor: getComputedStyle(document.body).backgroundColor,
@@ -95,7 +85,17 @@ window.MGG_CALCULATOR = {
           useCORS: true,
           allowTaint: false,
           logging: false,
-          onclone: clonedDocument => {
+          onclone: async clonedDocument => {
+            const clonedCards = clonedDocument.querySelectorAll('#calculatorCards img');
+            clonedCards.forEach(image => {
+              image.src = proxyCalculatorImage(image.src);
+              if (image.dataset.fallback) image.dataset.fallback = proxyCalculatorImage(image.dataset.fallback);
+            });
+            clonedDocument.querySelectorAll('#calculatorCards [style]').forEach(element => {
+              element.setAttribute('style', proxyCalculatorImageUrls(element.getAttribute('style')));
+            });
+            await Promise.all([...clonedCards].map(image => image.decode()));
+
             const sourceCards = [...catalogHost.querySelectorAll('.calculator-card')];
             clonedDocument.querySelectorAll('.calculator-card__hero').forEach((hero, index) => {
               const typeColor = getComputedStyle(sourceCards[index]).getPropertyValue('--calculator-type').trim();
